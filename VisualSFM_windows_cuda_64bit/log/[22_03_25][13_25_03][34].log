@@ -1,0 +1,272 @@
+
+Modifying Calibration, begin...
+fx = 432.324402, cx = 319.813385
+fy = 432.324402, cy = 242.546066
+radial_distortion = -0.362921
+----------------------------------------------------------------
+Modifying Calibration, finished
+Totally 0.000 seconds used
+
+0: WIN_20220324_10_43_09_Pro
+image_size:	640x480
+#sift count:	7476
+
+1: WIN_20220324_10_43_11_Pro
+image_size:	640x480
+#sift count:	7778
+
+2: WIN_20220324_10_43_14_Pro
+image_size:	640x480
+#sift count:	6981
+
+3: WIN_20220324_10_43_16_Pro
+image_size:	640x480
+#sift count:	7787
+
+4: WIN_20220324_10_43_18_Pro
+image_size:	640x480
+#sift count:	7715
+
+5: WIN_20220324_10_43_19_Pro
+image_size:	640x480
+#sift count:	7599
+
+6: WIN_20220324_10_43_22_Pro
+image_size:	640x480
+#sift count:	6840
+
+7: WIN_20220324_10_43_24_Pro
+image_size:	640x480
+#sift count:	7136
+
+8: WIN_20220324_10_43_25_Pro
+image_size:	640x480
+#sift count:	4881
+
+9: WIN_20220324_10_43_27_Pro
+image_size:	640x480
+#sift count:	6273
+
+10: WIN_20220324_10_43_28_Pro
+image_size:	640x480
+#sift count:	6055
+
+11: WIN_20220324_10_43_31_Pro
+image_size:	640x480
+#sift count:	6671
+
+12: WIN_20220324_10_43_33_Pro
+image_size:	640x480
+#sift count:	4924
+
+13: WIN_20220324_10_43_35_Pro
+image_size:	640x480
+#sift count:	5264
+
+14: WIN_20220324_10_43_36_Pro
+image_size:	640x480
+#sift count:	6437
+
+15: WIN_20220324_10_43_37_Pro
+image_size:	640x480
+#sift count:	6880
+
+16: WIN_20220324_10_43_38_Pro
+image_size:	640x480
+#sift count:	7088
+
+17: WIN_20220324_10_43_40_Pro
+image_size:	640x480
+#sift count:	7885
+
+18: WIN_20220324_10_43_41_Pro
+image_size:	640x480
+#sift count:	8124
+
+19: WIN_20220324_10_43_42_Pro
+image_size:	640x480
+#sift count:	8261
+
+20: WIN_20220324_10_43_43_Pro
+image_size:	640x480
+#sift count:	8177
+
+21: WIN_20220324_10_43_44_Pro
+image_size:	640x480
+#sift count:	7009
+
+22: WIN_20220324_10_43_45_Pro
+image_size:	640x480
+#sift count:	7857
+
+23: WIN_20220324_10_43_47_Pro
+image_size:	640x480
+#sift count:	5960
+
+24: WIN_20220324_10_43_48_Pro
+image_size:	640x480
+#sift count:	5038
+
+25: WIN_20220324_10_43_49_Pro
+image_size:	640x480
+#sift count:	6930
+
+26: WIN_20220324_10_43_50_Pro
+image_size:	640x480
+#sift count:	7616
+
+27: WIN_20220324_10_43_51_Pro
+image_size:	640x480
+#sift count:	4827
+
+28: WIN_20220324_10_43_52_Pro
+image_size:	640x480
+#sift count:	6650
+
+29: WIN_20220324_10_43_53_Pro (2)
+image_size:	640x480
+#sift count:	7839
+
+30: WIN_20220324_10_43_53_Pro
+image_size:	640x480
+#sift count:	7715
+
+31: WIN_20220324_10_43_55_Pro
+image_size:	640x480
+#sift count:	4108
+
+32: WIN_20220324_10_43_56_Pro
+image_size:	640x480
+#sift count:	7363
+
+33: WIN_20220324_10_43_57_Pro
+image_size:	640x480
+#sift count:	6558
+
+34: WIN_20220324_10_43_58_Pro (2)
+image_size:	640x480
+#sift count:	6759
+
+35: WIN_20220324_10_43_58_Pro
+image_size:	640x480
+#sift count:	4735
+
+36: WIN_20220324_10_43_59_Pro
+image_size:	640x480
+#sift count:	8217
+
+37: WIN_20220324_10_44_00_Pro
+image_size:	640x480
+#sift count:	7607
+
+38: WIN_20220324_10_44_01_Pro
+image_size:	640x480
+#sift count:	7471
+
+39: WIN_20220324_10_44_02_Pro
+image_size:	640x480
+#sift count:	7337
+
+40: WIN_20220324_10_44_05_Pro
+image_size:	640x480
+#sift count:	8385
+
+41: WIN_20220324_10_44_06_Pro
+image_size:	640x480
+#sift count:	7287
+
+42: WIN_20220324_10_44_07_Pro (2)
+image_size:	640x480
+#sift count:	8098
+
+43: WIN_20220324_10_44_07_Pro
+image_size:	640x480
+#sift count:	7025
+
+44: WIN_20220324_10_44_09_Pro (2)
+image_size:	640x480
+#sift count:	7499
+
+45: WIN_20220324_10_44_09_Pro
+image_size:	640x480
+#sift count:	5652
+
+46: WIN_20220324_10_44_10_Pro
+image_size:	640x480
+#sift count:	7543
+
+47: WIN_20220324_10_44_11_Pro
+image_size:	640x480
+#sift count:	4001
+
+48: WIN_20220324_10_44_12_Pro
+image_size:	640x480
+#sift count:	5973
+
+49: WIN_20220324_10_44_14_Pro
+image_size:	640x480
+#sift count:	6132
+
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0049: [891/1128], H[318], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Find homography matches, begin...
+#Inliers:	 614, 956 
+----------------------------------------------------------------
+Find homography matches, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0049: [912/1128], H[349], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0049: [885/1128], H[387], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0049: [844/1128], H[361], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute putative matches, begin...
+0000 and 0049: 1128 matches, 0.20sec, #0
+----------------------------------------------------------------
+Compute putative matches, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0049: [925/1128], H[367], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute guided matches, begin...
+GPU Guided Matching [th=102]...

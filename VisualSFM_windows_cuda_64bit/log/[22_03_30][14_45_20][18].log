@@ -1,0 +1,219 @@
+
+Modifying Calibration, begin...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = 0.000000
+----------------------------------------------------------------
+Modifying Calibration, finished
+Totally 1.000 seconds used
+
+0: sofa (1) - 副本
+image_size:	640x480
+1: sofa (1)
+image_size:	640x480
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 112MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0000, 640x480, 	6790, 0.76sec
+SIFT: 0001, 640x480, 	6790, 0.10sec
+
+###########-------timing------#########
+2 Feature Detection finished, 1 sec used
+#############################
+
+1 pairs to compute match
+NOTE: using 2 matching workers
+0000 and 0001: 6763 matches, 0.17sec, #0
+0000 and 0001: [6763/6763], H[6763], 0.00sec
+
+###########-------timing------#########
+1 Image Match finished, 0 sec used
+#############################
+
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 1.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+Loading image pixel data ...done in 0s
+Set initialization pair for the next model:
+0[sofa (1) - 副本] and 1[sofa (1)]
+Number of putative matches = 6763
+Number of inlier matches = 6763
+Oops, two-View reconstruction is missing
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Using manually selected initialization pair
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+Loading image pixel data ...done in 0s
+
+Compute remaining photos, begin...
+PBA library version = 105
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+NOTE: 1 small models are deleted
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+0 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0001: [6763/6763], H[6763], 0.04sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+NOTE: 1 small models are deleted
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+0 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+# features : 6790 and 6790
+[NM = 6763] [average scaling 1.000] [cov 1.000]
+[NF = 6763] [average scaling 1.000] [cov 1.000]
+[index] [3396: 0-6789] [3396: 0-6789]
+NH = 6763 - 6763
+
+sofa (1)
+[640 x 480] [F0 = 432 ][6790]
+
+sofa (1)
+[640 x 480] [F0 = 432 ][6790]
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+0: sofa (36) - 副本
+image_size:	640x480
+1: sofa (36)
+image_size:	640x480
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 112MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0002, 640x480, 	6502, 0.76sec
+SIFT: 0003, 640x480, 	6502, 0.10sec
+
+###########-------timing------#########
+2 Feature Detection finished, 1 sec used
+#############################
+
+5 pairs to compute match
+NOTE: using 2 matching workers
+0001 and 0003: 1653 matches, 0.05sec, #1
+0001 and 0003: [1528/1653], H[246], 0.01sec
+0002 and 0003: 6487 matches, 0.40sec, #1
+0002 and 0003: [6487/6487], H[6487], 0.03sec

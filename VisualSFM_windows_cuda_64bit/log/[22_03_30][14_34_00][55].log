@@ -1,0 +1,47 @@
+0: sofa (1)
+image_size:	640x480
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 112MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0000, 640x480, 	6790, 0.81sec
+
+###########-------timing------#########
+1 Feature Detection finished, 1 sec used
+#############################
+
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 1.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+0 pairs have fundamental matrices
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+Loading image pixel data ...done in 0s
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+0 pairs have fundamental matrices
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+

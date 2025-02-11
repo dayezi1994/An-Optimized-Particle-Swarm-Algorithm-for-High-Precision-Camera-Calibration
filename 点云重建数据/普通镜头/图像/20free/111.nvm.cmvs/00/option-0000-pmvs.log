@@ -1,0 +1,100 @@
+
+pmvs2
+C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\最终数据\普通镜头\图像\20free\111.nvm.cmvs\00\
+option-0000
+--------------------------------------------------
+--- Summary of specified options ---
+# of timages: 14 (enumeration)
+# of oimages: 0 (enumeration)
+level: 1  csize: 2
+threshold: 0.7  wsize: 7
+minImageNum: 3  CPU: 16
+useVisData: 1  sequence: -1
+--------------------------------------------------
+Reading images: **************
+7 9 12 10 14 16 17 18Harris running ...19 23 2030 26 27Harris running ... Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...  Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...240 harris done
+DoG running...240 harris done
+183 harris done
+252DoG running... harris done
+DoG running...205 harris done
+229 harris done
+248DoG running... harris done
+233DoG running... harris done
+DoG running...226 harris done
+DoG running...DoG running...202 harris done229 harris done
+232 harris done
+
+DoG running...223 harris done
+215 harris done
+DoG running...DoG running...DoG running...DoG running...DoG running...320 dog done
+320 dog done
+320 dog done
+320 dog done
+319 dog done
+320 dog done
+320 dog done
+319 dog done
+320 dog done
+320 dog done
+317 dog done
+320 dog done
+320 dog done
+320 dog done
+done
+adding seeds 
+(1,45)(8,45)(0,45)(7,53)(10,54)(9,58)(12,52)(11,36)(6,41)(13,56)(2,50)(4,62)(5,53)(3,49)done
+---- Initial: 0 secs ----
+Total pass fail0 fail1 refinepatch: 10113 896 8199 1018 1914
+Total pass fail0 fail1 refinepatch: 100 8.85988 81.0739 10.0663 18.9261
+Expanding patches...
+---- EXPANSION: 2 secs ----
+Total pass fail0 fail1 refinepatch: 26621 24652 1730 239 24891
+Total pass fail0 fail1 refinepatch: 100 92.6036 6.49863 0.897787 93.5014
+FilterOutside
+mainbody: 
+Gain (ave/var): 2.06942 1.0025
+25329 -> 25195 (99.471%)	0 secs
+Filter Exact: **************
+25195 -> 24591 (97.6027%)	0 secs
+FilterNeighbor:	24591 -> 23303 (94.7623%)	0 secs
+FilterGroups:	20
+23303 -> 23091 (99.0902%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 0 secs ----
+Total pass fail0 fail1 refinepatch: 3474 1590 717 1167 2757
+Total pass fail0 fail1 refinepatch: 100 45.7686 20.639 33.5924 79.361
+FilterOutside
+mainbody: 
+Gain (ave/var): 2.52451 1.15181
+24681 -> 24681 (100%)	0 secs
+Filter Exact: **************
+24681 -> 24435 (99.0033%)	0 secs
+FilterNeighbor:	24435 -> 24165 (98.895%)	0 secs
+FilterGroups:	20
+24165 -> 24084 (99.6648%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 0 secs ----
+Total pass fail0 fail1 refinepatch: 1762 757 469 536 1293
+Total pass fail0 fail1 refinepatch: 100 42.9625 26.6175 30.42 73.3825
+FilterOutside
+mainbody: 
+Gain (ave/var): 2.93871 1.32908
+24841 -> 24840 (99.996%)	0 secs
+Filter Exact: **************
+24840 -> 24645 (99.215%)	0 secs
+FilterNeighbor:	24645 -> 24499 (99.4076%)	0 secs
+FilterGroups:	20
+24499 -> 24417 (99.6653%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+---- Total: 0 secs ----

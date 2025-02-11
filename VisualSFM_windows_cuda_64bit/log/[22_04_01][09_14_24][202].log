@@ -1,0 +1,170 @@
+
+Load existing NView match, begin...
+Load sofa3+7.nvm...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = 0.000000
+
+sofa (10)
+image_size:	640x480
+#sift count:	7524
+
+sofa (24)
+image_size:	640x480
+#sift count:	7736
+
+sofa (26)
+image_size:	640x480
+#sift count:	7829
+
+sofa (25)
+image_size:	640x480
+#sift count:	7802
+
+sofa (27)
+image_size:	640x480
+#sift count:	7759
+
+sofa (23)
+image_size:	640x480
+#sift count:	7496
+
+sofa (28)
+image_size:	640x480
+#sift count:	7643
+
+sofa (21)
+image_size:	640x480
+#sift count:	7233
+
+sofa (29)
+image_size:	640x480
+#sift count:	7114
+
+sofa (9)
+image_size:	640x480
+#sift count:	7012
+
+sofa (8)
+image_size:	640x480
+#sift count:	7310
+
+sofa (7)
+image_size:	640x480
+#sift count:	6873
+
+sofa (6)
+image_size:	640x480
+#sift count:	6944
+
+sofa (11)
+image_size:	640x480
+#sift count:	7182
+
+sofa (12)
+image_size:	640x480
+#sift count:	7230
+
+sofa (5)
+image_size:	640x480
+#sift count:	6673
+
+sofa (32)
+image_size:	640x480
+#sift count:	7140
+
+sofa (33)
+image_size:	640x480
+#sift count:	6879
+
+sofa (4)
+image_size:	640x480
+#sift count:	6039
+
+sofa (35)
+image_size:	640x480
+#sift count:	6685
+
+sofa (36)
+image_size:	640x480
+#sift count:	6502
+
+sofa (3)
+image_size:	640x480
+#sift count:	6075
+
+sofa (34)
+image_size:	640x480
+#sift count:	6365
+
+sofa (2)
+image_size:	640x480
+#sift count:	5773
+
+sofa (31)
+image_size:	640x480
+#sift count:	7109
+
+sofa (30)
+image_size:	640x480
+#sift count:	7129
+
+sofa (1)
+image_size:	640x480
+#sift count:	6790
+
+sofa (22)
+image_size:	640x480
+#sift count:	6347
+
+sofa (20)
+image_size:	640x480
+#sift count:	6298
+
+sofa (13)
+image_size:	640x480
+#sift count:	6760
+
+sofa (14)
+image_size:	640x480
+#sift count:	6781
+
+sofa (15)
+image_size:	640x480
+#sift count:	6984
+
+sofa (19)
+image_size:	640x480
+#sift count:	6305
+
+sofa (18)
+image_size:	640x480
+#sift count:	6276
+
+sofa (16)
+image_size:	640x480
+#sift count:	5757
+
+sofa (17)
+image_size:	640x480
+#sift count:	5542
+
+Loading 21776 3D points...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = 0.000000
+Loading sofa3+7.0.ply, 21159 vertices ...
+You can view existing dense reconstructions
+by using Menu "View->Dense 3D Points"
+# images loaded:	36
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 1s
+Loading matching records ...done in 0s
+----------------------------------------------------------------
+Load existing NView match, finished
+Totally 2.000 seconds used
+

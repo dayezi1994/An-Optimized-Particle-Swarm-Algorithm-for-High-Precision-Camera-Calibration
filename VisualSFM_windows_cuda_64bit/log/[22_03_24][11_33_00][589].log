@@ -1,0 +1,166 @@
+
+Compute Bundle Adjustment, begin...
+----------------------------------------------------------------
+Compute Bundle Adjustment, finished
+Totally 0.000 seconds used
+
+0: WIN_20220324_10_43_09_Pro
+image_size:	640x480
+1: WIN_20220324_10_43_11_Pro
+image_size:	640x480
+2: WIN_20220324_10_43_14_Pro
+image_size:	640x480
+3: WIN_20220324_10_43_16_Pro
+image_size:	640x480
+4: WIN_20220324_10_43_18_Pro
+image_size:	640x480
+5: WIN_20220324_10_43_19_Pro
+image_size:	640x480
+6: WIN_20220324_10_43_22_Pro
+image_size:	640x480
+7: WIN_20220324_10_43_24_Pro
+image_size:	640x480
+8: WIN_20220324_10_43_25_Pro
+image_size:	640x480
+9: WIN_20220324_10_43_27_Pro
+image_size:	640x480
+10: WIN_20220324_10_43_28_Pro
+image_size:	640x480
+11: WIN_20220324_10_43_31_Pro
+image_size:	640x480
+12: WIN_20220324_10_43_33_Pro
+image_size:	640x480
+13: WIN_20220324_10_43_35_Pro
+image_size:	640x480
+14: WIN_20220324_10_43_36_Pro
+image_size:	640x480
+15: WIN_20220324_10_43_37_Pro
+image_size:	640x480
+16: WIN_20220324_10_43_38_Pro
+image_size:	640x480
+17: WIN_20220324_10_43_40_Pro
+image_size:	640x480
+18: WIN_20220324_10_43_41_Pro
+image_size:	640x480
+19: WIN_20220324_10_43_42_Pro
+image_size:	640x480
+20: WIN_20220324_10_43_43_Pro
+image_size:	640x480
+21: WIN_20220324_10_43_44_Pro
+image_size:	640x480
+22: WIN_20220324_10_43_45_Pro
+image_size:	640x480
+23: WIN_20220324_10_43_47_Pro
+image_size:	640x480
+24: WIN_20220324_10_43_48_Pro
+image_size:	640x480
+25: WIN_20220324_10_43_49_Pro
+image_size:	640x480
+26: WIN_20220324_10_43_50_Pro
+image_size:	640x480
+27: WIN_20220324_10_43_51_Pro
+image_size:	640x480
+28: WIN_20220324_10_43_52_Pro
+image_size:	640x480
+29: WIN_20220324_10_43_53_Pro (2)
+image_size:	640x480
+30: WIN_20220324_10_43_53_Pro
+image_size:	640x480
+31: WIN_20220324_10_43_55_Pro
+image_size:	640x480
+32: WIN_20220324_10_43_56_Pro
+image_size:	640x480
+33: WIN_20220324_10_43_57_Pro
+image_size:	640x480
+34: WIN_20220324_10_43_58_Pro (2)
+image_size:	640x480
+35: WIN_20220324_10_43_58_Pro
+image_size:	640x480
+36: WIN_20220324_10_43_59_Pro
+image_size:	640x480
+37: WIN_20220324_10_44_00_Pro
+image_size:	640x480
+38: WIN_20220324_10_44_01_Pro
+image_size:	640x480
+39: WIN_20220324_10_44_02_Pro
+image_size:	640x480
+40: WIN_20220324_10_44_05_Pro
+image_size:	640x480
+41: WIN_20220324_10_44_06_Pro
+image_size:	640x480
+42: WIN_20220324_10_44_07_Pro (2)
+image_size:	640x480
+43: WIN_20220324_10_44_07_Pro
+image_size:	640x480
+44: WIN_20220324_10_44_09_Pro (2)
+image_size:	640x480
+45: WIN_20220324_10_44_09_Pro
+image_size:	640x480
+46: WIN_20220324_10_44_10_Pro
+image_size:	640x480
+47: WIN_20220324_10_44_11_Pro
+image_size:	640x480
+48: WIN_20220324_10_44_12_Pro
+image_size:	640x480
+49: WIN_20220324_10_44_14_Pro
+image_size:	640x480
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+
+Compute Bundle Adjustment, begin...
+----------------------------------------------------------------
+Compute Bundle Adjustment, finished
+Totally 0.000 seconds used
+
+
+---------------------------------------------------
+1 model(s) reconstructed from 50 images;
+0 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+Compute remaining photos, begin...
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+0 pairs have fundamental matrices
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+0 pairs have fundamental matrices
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+0 pairs have fundamental matrices
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+

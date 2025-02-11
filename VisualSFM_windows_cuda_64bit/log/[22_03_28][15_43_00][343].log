@@ -1,0 +1,468 @@
+
+Modifying Calibration, begin...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = -0.356716
+----------------------------------------------------------------
+Modifying Calibration, finished
+Totally 0.000 seconds used
+
+
+Load existing NView match, begin...
+Load 3+7pso.nvm...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = -0.356716
+
+WIN_20220328_11_58_16_Pro
+image_size:	640x480
+#sift count:	7943
+
+WIN_20220328_11_58_47_Pro
+image_size:	640x480
+#sift count:	8272
+
+WIN_20220328_11_58_48_Pro
+image_size:	640x480
+#sift count:	8072
+
+WIN_20220328_11_58_45_Pro
+image_size:	640x480
+#sift count:	8443
+
+WIN_20220328_11_58_15_Pro
+image_size:	640x480
+#sift count:	7531
+
+WIN_20220328_11_58_44_Pro
+image_size:	640x480
+#sift count:	8833
+
+WIN_20220328_11_58_46_Pro
+image_size:	640x480
+#sift count:	8016
+
+WIN_20220328_11_58_17_Pro
+image_size:	640x480
+#sift count:	7947
+
+WIN_20220328_11_58_18_Pro
+image_size:	640x480
+#sift count:	8603
+
+WIN_20220328_11_58_19_Pro
+image_size:	640x480
+#sift count:	8852
+
+WIN_20220328_11_58_13_Pro
+image_size:	640x480
+#sift count:	8168
+
+WIN_20220328_11_58_20_Pro
+image_size:	640x480
+#sift count:	7695
+
+WIN_20220328_11_58_21_Pro
+image_size:	640x480
+#sift count:	9035
+
+WIN_20220328_11_58_22_Pro
+image_size:	640x480
+#sift count:	8843
+
+WIN_20220328_11_58_23_Pro
+image_size:	640x480
+#sift count:	8922
+
+WIN_20220328_11_58_24_Pro
+image_size:	640x480
+#sift count:	8616
+
+WIN_20220328_11_58_25_Pro
+image_size:	640x480
+#sift count:	8622
+
+WIN_20220328_11_58_43_Pro
+image_size:	640x480
+#sift count:	8462
+
+WIN_20220328_11_58_42_Pro
+image_size:	640x480
+#sift count:	8653
+
+WIN_20220328_11_58_41_Pro (2)
+image_size:	640x480
+#sift count:	9100
+
+WIN_20220328_11_58_40_Pro
+image_size:	640x480
+#sift count:	9223
+
+WIN_20220328_11_58_39_Pro (2)
+image_size:	640x480
+#sift count:	9258
+
+WIN_20220328_11_58_39_Pro
+image_size:	640x480
+#sift count:	9163
+
+WIN_20220328_11_58_38_Pro
+image_size:	640x480
+#sift count:	8952
+
+WIN_20220328_11_58_37_Pro
+image_size:	640x480
+#sift count:	8546
+
+WIN_20220328_11_58_36_Pro (2)
+image_size:	640x480
+#sift count:	8485
+
+WIN_20220328_11_58_41_Pro
+image_size:	640x480
+#sift count:	8708
+
+WIN_20220328_11_58_36_Pro
+image_size:	640x480
+#sift count:	7527
+
+WIN_20220328_11_58_35_Pro
+image_size:	640x480
+#sift count:	7372
+
+WIN_20220328_11_58_26_Pro
+image_size:	640x480
+#sift count:	7814
+
+WIN_20220328_11_58_29_Pro
+image_size:	640x480
+#sift count:	7802
+
+WIN_20220328_11_58_30_Pro
+image_size:	640x480
+#sift count:	7978
+
+WIN_20220328_11_58_33_Pro
+image_size:	640x480
+#sift count:	7665
+
+WIN_20220328_11_58_33_Pro (2)
+image_size:	640x480
+#sift count:	7721
+
+WIN_20220328_11_58_31_Pro
+image_size:	640x480
+#sift count:	6855
+
+WIN_20220328_11_58_32_Pro
+image_size:	640x480
+#sift count:	6659
+
+Loading 16709 3D points...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = -0.356716
+Loading 3+7pso.0.ply, 11229 vertices ...
+You can view existing dense reconstructions
+by using Menu "View->Dense 3D Points"
+# images loaded:	36
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+36 gps coordinates are found
+----------------------------------------------------------------
+Load existing NView match, finished
+Totally 1.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0034 and 0035: [2085/2212], H[1700], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0003: [1652/2023], H[889], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Load existing NView match, begin...
+34 images deleted
+Load 2match 3+7.nvm...
+# images loaded:	0
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+----------------------------------------------------------------
+Load existing NView match, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+PBA library version = 105
+Failed to find two images for initialization
+NOTE: 1 small models are deleted
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+0 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0003: [1641/2023], H[792], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+Failed to find two images for initialization
+NOTE: 1 small models are deleted
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+0 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Load existing NView match, begin...
+Load 3+7pso.nvm...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = -0.356716
+
+WIN_20220328_11_58_16_Pro
+image_size:	640x480
+#sift count:	7943
+
+WIN_20220328_11_58_47_Pro
+image_size:	640x480
+#sift count:	8272
+
+WIN_20220328_11_58_48_Pro
+image_size:	640x480
+#sift count:	8072
+
+WIN_20220328_11_58_45_Pro
+image_size:	640x480
+#sift count:	8443
+
+WIN_20220328_11_58_15_Pro
+image_size:	640x480
+#sift count:	7531
+
+WIN_20220328_11_58_44_Pro
+image_size:	640x480
+#sift count:	8833
+
+WIN_20220328_11_58_46_Pro
+image_size:	640x480
+#sift count:	8016
+
+WIN_20220328_11_58_17_Pro
+image_size:	640x480
+#sift count:	7947
+
+WIN_20220328_11_58_18_Pro
+image_size:	640x480
+#sift count:	8603
+
+WIN_20220328_11_58_19_Pro
+image_size:	640x480
+#sift count:	8852
+
+WIN_20220328_11_58_13_Pro
+image_size:	640x480
+#sift count:	8168
+
+WIN_20220328_11_58_20_Pro
+image_size:	640x480
+#sift count:	7695
+
+WIN_20220328_11_58_21_Pro
+image_size:	640x480
+#sift count:	9035
+
+WIN_20220328_11_58_22_Pro
+image_size:	640x480
+#sift count:	8843
+
+WIN_20220328_11_58_23_Pro
+image_size:	640x480
+#sift count:	8922
+
+WIN_20220328_11_58_24_Pro
+image_size:	640x480
+#sift count:	8616
+
+WIN_20220328_11_58_25_Pro
+image_size:	640x480
+#sift count:	8622
+
+WIN_20220328_11_58_43_Pro
+image_size:	640x480
+#sift count:	8462
+
+WIN_20220328_11_58_42_Pro
+image_size:	640x480
+#sift count:	8653
+
+WIN_20220328_11_58_41_Pro (2)
+image_size:	640x480
+#sift count:	9100
+
+WIN_20220328_11_58_40_Pro
+image_size:	640x480
+#sift count:	9223
+
+WIN_20220328_11_58_39_Pro (2)
+image_size:	640x480
+#sift count:	9258
+
+WIN_20220328_11_58_39_Pro
+image_size:	640x480
+#sift count:	9163
+
+WIN_20220328_11_58_38_Pro
+image_size:	640x480
+#sift count:	8952
+
+WIN_20220328_11_58_37_Pro
+image_size:	640x480
+#sift count:	8546
+
+WIN_20220328_11_58_36_Pro (2)
+image_size:	640x480
+#sift count:	8485
+
+WIN_20220328_11_58_41_Pro
+image_size:	640x480
+#sift count:	8708
+
+WIN_20220328_11_58_36_Pro
+image_size:	640x480
+#sift count:	7527
+
+WIN_20220328_11_58_35_Pro
+image_size:	640x480
+#sift count:	7372
+
+WIN_20220328_11_58_26_Pro
+image_size:	640x480
+#sift count:	7814
+
+WIN_20220328_11_58_29_Pro
+image_size:	640x480
+#sift count:	7802
+
+WIN_20220328_11_58_30_Pro
+image_size:	640x480
+#sift count:	7978
+
+WIN_20220328_11_58_33_Pro
+image_size:	640x480
+#sift count:	7665
+
+WIN_20220328_11_58_33_Pro (2)
+image_size:	640x480
+#sift count:	7721
+
+WIN_20220328_11_58_31_Pro
+image_size:	640x480
+#sift count:	6855
+
+WIN_20220328_11_58_32_Pro
+image_size:	640x480
+#sift count:	6659
+
+Loading 16709 3D points...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = -0.356716
+Loading 3+7pso.0.ply, 11229 vertices ...
+You can view existing dense reconstructions
+by using Menu "View->Dense 3D Points"
+# images loaded:	36
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+36 gps coordinates are found
+----------------------------------------------------------------
+Load existing NView match, finished
+Totally 1.000 seconds used
+
+
+Compute putative matches, begin...
+0034 and 0035: 2212 matches, 0.19sec, #0
+----------------------------------------------------------------
+Compute putative matches, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0034 and 0035: [2085/2212], H[1494], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute guided matches, begin...
+Using recovered camera locations
+GPU Guided Matching [th=80]...

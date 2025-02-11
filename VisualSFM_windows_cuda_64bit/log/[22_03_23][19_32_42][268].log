@@ -1,0 +1,70 @@
+0: WIN_20220323_19_26_50_Pro
+image_size:	640x480
+#sift count:	3405
+
+1: WIN_20220323_19_26_52_Pro
+image_size:	640x480
+#sift count:	3405
+
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with WIN..0_Pro and WIN..2_Pro
+1124 3D points initialized from two images
+PBA library version = 105
+PBA: 1124 3D pts, 2 cams and 2248 projs...
+PBA: 0.065 -> 0.056 (4 LMs in 0.11sec)
+Focal Length : [768.000]->[767.813]
+Focal Length : [768.000]->[768.216]
+Failed to find two images for initialization
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+2 cams, 1125 pts (3+: 0)
+2248 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 0 sec used
+0.1(0.1) seconds on Bundle Adjustment (+)
+0.1(0.1) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1125 pts (3+: 0)
+2248 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+

@@ -1,0 +1,111 @@
+
+pmvs2
+C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\×îÖÕÊý¾Ý\3free\1\3free 36.nvm.cmvs\00\
+option-0000
+--------------------------------------------------
+--- Summary of specified options ---
+# of timages: 19 (enumeration)
+# of oimages: 0 (enumeration)
+level: 1  csize: 2
+threshold: 0.7  wsize: 7
+minImageNum: 3  CPU: 16
+useVisData: 1  sequence: -1
+--------------------------------------------------
+Reading images: *******************
+45 71315   17 18 Harris running ...20Harris running ...23 1926 Harris running ...27 21  30 16  Harris running ...28  Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...251 harris done
+238 harris done
+DoG running...252 harris done
+DoG running...257 harris done
+DoG running...259 harris done
+DoG running...DoG running...254 harris done
+DoG running...256 harris done
+254263 harris done
+ harris done
+DoG running...DoG running...264 harris done
+DoG running...DoG running...251 harris done
+260 harris done
+DoG running...DoG running...222 harris done
+DoG running...263 harris done
+DoG running...258 harris done
+DoG running...248 harris done
+DoG running...319 dog done
+31 Harris running ...318 dog done
+33 Harris running ...320 dog done
+320 dog done
+35 Harris running ...320 dog done314 dog done
+
+320 dog done
+318 dog done
+320 dog done
+320 dog done
+319 dog done319 dog done
+
+314 dog done
+320 dog done
+320 dog done
+319 dog done
+260 harris done
+DoG running...254 harris done
+DoG running...259 harris done
+DoG running...320 dog done
+320 dog done
+320 dog done
+done
+adding seeds 
+(14,39)(15,48)(17,46)((16,63)13,56)(12,40)(10,61)(5,73)(18,36)(3,3)(4,71)(6,20)(9,63)(7,77)(2,65)(8,17)(11,62)(0,37)(1,47)done
+---- Initial: 0 secs ----
+Total pass fail0 fail1 refinepatch: 14306 1209 11328 1769 2978
+Total pass fail0 fail1 refinepatch: 100 8.451 79.1836 12.3654 20.8164
+Expanding patches...
+---- EXPANSION: 2 secs ----
+Total pass fail0 fail1 refinepatch: 31975 23630 5738 2607 26237
+Total pass fail0 fail1 refinepatch: 100 73.9015 17.9453 8.15324 82.0547
+FilterOutside
+mainbody: 
+Gain (ave/var): 0.846784 0.624425
+24506 -> 23488 (95.8459%)	0 secs
+Filter Exact: *******************
+23488 -> 17235 (73.3779%)	0 secs
+FilterNeighbor:	17235 -> 11482 (66.6202%)	0 secs
+FilterGroups:	20
+11482 -> 9621 (83.792%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 1 secs ----
+Total pass fail0 fail1 refinepatch: 22478 9671 5015 7792 17463
+Total pass fail0 fail1 refinepatch: 100 43.0243 22.3107 34.665 77.6893
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.12466 0.746803
+19292 -> 19007 (98.5227%)	0 secs
+Filter Exact: *******************
+19007 -> 16059 (84.4899%)	0 secs
+FilterNeighbor:	16059 -> 14333 (89.2521%)	0 secs
+FilterGroups:	20
+14333 -> 13282 (92.6673%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...refinePatchBFGS failed!
+
+---- EXPANSION: 1 secs ----
+Total pass fail0 fail1 refinepatch: 16484 6357 4314 5813 12170
+Total pass fail0 fail1 refinepatch: 100 38.5647 26.1708 35.2645 73.8292
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.33416 0.869482
+19639 -> 19326 (98.4062%)	0 secs
+Filter Exact: *******************
+19326 -> 16603 (85.9102%)	0 secs
+FilterNeighbor:	16603 -> 15205 (91.5798%)	0 secs
+FilterGroups:	20
+15205 -> 14327 (94.2256%)	0 secs
+STATUS: 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+---- Total: 0 secs ----

@@ -1,0 +1,4037 @@
+0: sofa (1)
+image_size:	640x480
+#sift count:	3870
+
+1: sofa (2)
+image_size:	640x480
+#sift count:	2891
+
+2: sofa (3)
+image_size:	640x480
+#sift count:	3083
+
+3: sofa (4)
+image_size:	640x480
+#sift count:	3380
+
+4: sofa (5)
+image_size:	640x480
+#sift count:	3671
+
+5: sofa (6)
+image_size:	640x480
+#sift count:	3984
+
+6: sofa (7)
+image_size:	640x480
+#sift count:	4127
+
+7: sofa (8)
+image_size:	640x480
+#sift count:	4246
+
+8: sofa (9)
+image_size:	640x480
+#sift count:	4231
+
+9: sofa (10)
+image_size:	640x480
+#sift count:	4353
+
+10: sofa (11)
+image_size:	640x480
+#sift count:	4242
+
+11: sofa (12)
+image_size:	640x480
+#sift count:	4166
+
+12: sofa (13)
+image_size:	640x480
+#sift count:	3795
+
+13: sofa (14)
+image_size:	640x480
+#sift count:	3476
+
+14: sofa (15)
+image_size:	640x480
+#sift count:	3956
+
+15: sofa (16)
+image_size:	640x480
+#sift count:	3631
+
+16: sofa (17)
+image_size:	640x480
+#sift count:	3668
+
+17: sofa (18)
+image_size:	640x480
+#sift count:	3857
+
+18: sofa (19)
+image_size:	640x480
+#sift count:	3915
+
+19: sofa (20)
+image_size:	640x480
+#sift count:	4060
+
+20: sofa (21)
+image_size:	640x480
+#sift count:	4552
+
+21: sofa (22)
+image_size:	640x480
+#sift count:	4088
+
+22: sofa (23)
+image_size:	640x480
+#sift count:	4780
+
+23: sofa (24)
+image_size:	640x480
+#sift count:	4912
+
+24: sofa (25)
+image_size:	640x480
+#sift count:	4843
+
+25: sofa (26)
+image_size:	640x480
+#sift count:	4937
+
+26: sofa (27)
+image_size:	640x480
+#sift count:	4716
+
+27: sofa (28)
+image_size:	640x480
+#sift count:	4899
+
+28: sofa (29)
+image_size:	640x480
+#sift count:	4559
+
+29: sofa (30)
+image_size:	640x480
+#sift count:	4417
+
+30: sofa (31)
+image_size:	640x480
+#sift count:	4023
+
+31: sofa (32)
+image_size:	640x480
+#sift count:	3642
+
+32: sofa (33)
+image_size:	640x480
+#sift count:	3423
+
+33: sofa (34)
+image_size:	640x480
+#sift count:	3440
+
+34: sofa (35)
+image_size:	640x480
+#sift count:	3459
+
+35: sofa (36)
+image_size:	640x480
+#sift count:	3415
+
+36: sofa (37)
+image_size:	640x480
+#sift count:	3870
+
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+
+Modifying Calibration, begin...
+fx = 394.901672, cx = 2.000000
+fy = 338.379547, cy = 394.901672
+radial_distortion = 210.945450
+----------------------------------------------------------------
+Modifying Calibration, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+414 pairs have two-view models
+649 pairs have fundamental matrices
+Initialize with sofa (26) and sofa (27)
+1348 3D points initialized from two images
+PBA library version = 105
+PBA: 1348 3D pts, 2 cams and 2696 projs...
+PBA: 67791.664 -> 0.244 (34 LMs in 0.21sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (25)] sees 1851 (+1986) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (28)] sees 878 (+734) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (29)] sees 601 (+588) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (24)] sees 394 (+392) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (23)] sees 197 (+179) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 226 (+116) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 150 (+101) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 150 (+110) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (6)] sees 161 (+89) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 175 (+72) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (5)] sees 162 (+50) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 148 (+53) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 123 (+80) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 91 (+111) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (4)] sees 133 (+43) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (33)] sees 111 (+30) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (12)] sees 68 (+70) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (3)] sees 103 (+31) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 70 (+21) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 68 (+27) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (20)] sees 50 (+50) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (22)] sees 54 (+40) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 32 (+72) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 32 (+72) 3D points
+17: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 32 (+72) 3D points
+15: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (25) and sofa (28)
+971 3D points initialized from two images
+PBA: 971 3D pts, 2 cams and 1942 projs...
+PBA: 67765.930 -> 0.249 (21 LMs in 0.16sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (27)] sees 1243 (+1990) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 956 (+1518) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (29)] sees 625 (+892) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (24)] sees 280 (+284) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 246 (+211) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 179 (+125) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (23)] sees 125 (+129) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 150 (+117) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (6)] sees 158 (+83) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (5)] sees 142 (+74) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 121 (+96) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 132 (+74) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (4)] sees 114 (+62) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 81 (+77) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 54 (+92) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (3)] sees 101 (+36) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (33)] sees 79 (+54) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (11)] sees 55 (+68) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (12)] sees 60 (+59) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 65 (+43) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (35)] sees 73 (+38) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 61 (+38) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (2)] sees 69 (+31) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 59 (+31) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (10) and sofa (11)
+893 3D points initialized from two images
+PBA: 893 3D pts, 2 cams and 1786 projs...
+PBA: 66213.961 -> 0.250 (73 LMs in 0.79sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (12)] sees 757 (+1159) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 486 (+468) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 326 (+271) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (13)] sees 180 (+243) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 168 (+115) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (14)] sees 108 (+125) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (6)] sees 103 (+84) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (24)] sees 85 (+110) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 71 (+113) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (20)] sees 114 (+76) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 84 (+103) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (23)] sees 82 (+88) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 70 (+95) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 55 (+69) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (19)] sees 55 (+68) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (22)] sees 44 (+47) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (5)] sees 32 (+58) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (5)] sees 32 (+58) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (5)] sees 32 (+58) 3D points
+15: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (23) and sofa (24)
+916 3D points initialized from two images
+PBA: 916 3D pts, 2 cams and 1832 projs...
+PBA: 66763.695 -> 0.248 (13 LMs in 0.09sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (26)] sees 320 (+404) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 247 (+310) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 241 (+225) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 219 (+256) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 160 (+186) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (22)] sees 107 (+134) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 89 (+114) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 94 (+114) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (10)] sees 83 (+116) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (20)] sees 108 (+86) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (29)] sees 92 (+76) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 68 (+94) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 61 (+81) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 63 (+71) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (12)] sees 49 (+75) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (6)] sees 49 (+75) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (13)] sees 53 (+52) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 49 (+55) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (19)] sees 40 (+53) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 27 (+82) 3D points
+14: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 27 (+82) 3D points
+17: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 27 (+82) 3D points
+16: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (13) and sofa (14)
+690 3D points initialized from two images
+PBA: 690 3D pts, 2 cams and 1380 projs...
+PBA: 67596.695 -> 0.246 (17 LMs in 0.19sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (12)] sees 295 (+406) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 256 (+252) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 190 (+247) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (16)] sees 98 (+140) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (10)] sees 85 (+140) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 78 (+94) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (19)] sees 76 (+121) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 73 (+128) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (17)] sees 61 (+121) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (22)] sees 54 (+78) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 57 (+59) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 52 (+71) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 47 (+62) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (20)] sees 38 (+67) 3D points
+19: too few projection inliers
+
+#############################
+#3: [sofa (7)] sees 36 (+74) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 37 (+48) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (8)] sees 47 (+62) 3D points
+14: too few projection inliers
+
+#############################
+#3: [sofa (20)] sees 38 (+67) 3D points
+19: too few projection inliers
+
+#############################
+#3: [sofa (7)] sees 36 (+74) 3D points
+12: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 37 (+48) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (8)] sees 47 (+62) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (20)] sees 38 (+67) 3D points
+17: too few projection inliers
+
+#############################
+#3: [sofa (7)] sees 36 (+74) 3D points
+13: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 37 (+48) 3D points
+16: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (4) and sofa (35)
+236 3D points initialized from two images
+PBA: 236 3D pts, 2 cams and 472 projs...
+PBA: 67535.305 -> 0.239 (27 LMs in 0.24sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (33)] sees 273 (+1203) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (36)] sees 230 (+1411) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 186 (+899) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 181 (+916) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (3)] sees 102 (+548) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (2)] sees 78 (+308) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (5)] sees 79 (+756) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 45 (+206) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 35 (+339) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (20) and sofa (22)
+562 3D points initialized from two images
+PBA: 562 3D pts, 2 cams and 1124 projs...
+PBA: 66518.891 -> 0.245 (12 LMs in 0.11sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (21)] sees 247 (+408) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (16)] sees 168 (+300) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 181 (+212) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (17)] sees 154 (+252) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (19)] sees 141 (+215) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 108 (+247) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (23)] sees 61 (+191) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 35 (+132) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 43 (+112) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 31 (+110) 3D points
+13: too few projection inliers
+
+#############################
+#3: [sofa (12)] sees 27 (+119) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (13)] sees 31 (+110) 3D points
+12: too few projection inliers
+
+#############################
+#3: [sofa (12)] sees 27 (+119) 3D points
+12: too few projection inliers
+
+#############################
++3: [sofa (13)] sees 31 (+110) 3D points
+12: too few projection inliers
+
+#############################
+#3: [sofa (12)] sees 27 (+119) 3D points
+14: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (17) and sofa (19)
+389 3D points initialized from two images
+PBA: 389 3D pts, 2 cams and 778 projs...
+PBA: 67457.109 -> 0.249 (20 LMs in 0.14sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (16)] sees 441 (+1103) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 380 (+935) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 161 (+412) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (20)] sees 153 (+416) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (22)] sees 69 (+117) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (14)] sees 42 (+167) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 28 (+136) 3D points
+15: too few projection inliers
+
+#############################
++3: [sofa (13)] sees 28 (+136) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (13)] sees 28 (+136) 3D points
+14: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (5) and sofa (6)
+349 3D points initialized from two images
+PBA: 349 3D pts, 2 cams and 698 projs...
+PBA: 67293.125 -> 0.337 (100 LMs in 0.34sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (7)] sees 309 (+1233) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 262 (+492) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 239 (+537) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 207 (+491) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 163 (+349) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (33)] sees 141 (+431) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (36)] sees 136 (+279) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (3)] sees 138 (+160) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 128 (+219) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 113 (+234) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 117 (+198) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 87 (+283) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 96 (+260) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 126 (+120) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 125 (+125) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 81 (+259) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (2)] sees 96 (+115) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 105 (+106) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 101 (+98) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (29)] sees 76 (+75) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (10)] sees 47 (+141) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 61 (+77) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (16) and sofa (18)
+295 3D points initialized from two images
+PBA: 295 3D pts, 2 cams and 590 projs...
+PBA: 66663.445 -> 0.192 (3 LMs in 0.06sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (19)] sees 325 (+933) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (17)] sees 316 (+1209) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 191 (+655) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (20)] sees 133 (+426) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (22)] sees 61 (+199) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (3) and sofa (33)
+262 3D points initialized from two images
+PBA: 262 3D pts, 2 cams and 524 projs...
+PBA: 66971.602 -> 0.359 (38 LMs in 0.27sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (32)] sees 318 (+1147) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 299 (+1100) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 281 (+924) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 285 (+639) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (2)] sees 250 (+756) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (36)] sees 228 (+823) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 163 (+430) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 118 (+247) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 103 (+237) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 117 (+135) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 78 (+181) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 81 (+105) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 60 (+109) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 52 (+90) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 42 (+102) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (29) and sofa (30)
+236 3D points initialized from two images
+PBA: 236 3D pts, 2 cams and 472 projs...
+PBA: 67610.578 -> 0.174 (11 LMs in 0.13sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (28)] sees 204 (+892) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 189 (+788) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 201 (+665) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 186 (+801) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 144 (+427) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 95 (+173) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 90 (+158) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 72 (+126) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 62 (+139) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 58 (+149) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (33)] sees 46 (+102) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (3)] sees 65 (+64) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 44 (+114) 3D points
+19: too few projection inliers
+
+#############################
+#3: [sofa (34)] sees 47 (+112) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 56 (+130) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 42 (+96) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 41 (+87) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 40 (+66) 3D points
+17: too few projection inliers
+
+#############################
+#3: [sofa (36)] sees 35 (+62) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (2)] sees 35 (+57) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (23)] sees 37 (+77) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 44 (+114) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 40 (+66) 3D points
+18: too few projection inliers
+
+#############################
+#3: [sofa (36)] sees 35 (+62) 3D points
+17: too few projection inliers
+
+#############################
++3: [sofa (35)] sees 40 (+66) 3D points
+19: too few projection inliers
+
+#############################
+#3: [sofa (36)] sees 35 (+62) 3D points
+17: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (9) and sofa (12)
+229 3D points initialized from two images
+PBA: 229 3D pts, 2 cams and 458 projs...
+PBA: 67180.516 -> 0.752 (30 LMs in 0.14sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (10)] sees 250 (+1000) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 203 (+1358) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 202 (+1171) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 111 (+403) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 107 (+467) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (14)] sees 72 (+225) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 64 (+272) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 34 (+150) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 34 (+133) 3D points
+17: too few projection inliers
+
+#############################
++3: [sofa (24)] sees 32 (+131) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 32 (+129) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (20)] sees 35 (+112) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (22)] sees 33 (+50) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 34 (+150) 3D points
+17: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 34 (+133) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 32 (+131) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (21)] sees 34 (+150) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (24)] sees 32 (+131) 3D points
+16: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (2) and sofa (36)
+213 3D points initialized from two images
+PBA: 213 3D pts, 2 cams and 426 projs...
+PBA: 67929.203 -> 0.282 (40 LMs in 0.23sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (35)] sees 258 (+1361) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (3)] sees 228 (+832) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 214 (+842) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (33)] sees 204 (+798) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 164 (+519) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 143 (+448) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 112 (+297) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 122 (+187) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 125 (+190) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 63 (+83) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 65 (+143) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (30)] sees 52 (+71) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 39 (+77) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 37 (+68) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 33 (+63) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (15) and sofa (21)
+106 3D points initialized from two images
+PBA: 106 3D pts, 2 cams and 212 projs...
+PBA: 68451.422 -> 0.619 (100 LMs in 0.30sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (22)] sees 59 (+552) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (16)] sees 45 (+683) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (20)] sees 43 (+334) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 41 (+165) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (23)] sees 33 (+408) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 35 (+268) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (14)] sees 28 (+292) 3D points
+19: too few projection inliers
+
+#############################
++3: [sofa (12)] sees 29 (+192) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (14)] sees 28 (+292) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (14)] sees 28 (+292) 3D points
+18: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (7) and sofa (34)
+96 3D points initialized from two images
+PBA: 96 3D pts, 2 cams and 192 projs...
+PBA: 66991.383 -> 0.250 (25 LMs in 0.39sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (6)] sees 102 (+1347) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (33)] sees 94 (+1012) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (36)] sees 84 (+906) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 87 (+648) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 81 (+866) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 81 (+374) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 77 (+386) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 72 (+814) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (30)] sees 64 (+187) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 57 (+136) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (3)] sees 54 (+218) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 51 (+148) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (29)] sees 53 (+71) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (2)] sees 46 (+155) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 50 (+147) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 36 (+165) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (9)] sees 36 (+412) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 40 (+138) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 29 (+161) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (24)] sees 33 (+91) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 32 (+121) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 29 (+161) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (8) and sofa (31)
+40 3D points initialized from two images
+PBA: 40 3D pts, 2 cams and 80 projs...
+PBA: 66881.969 -> 0.177 (18 LMs in 0.09sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (7)] sees 44 (+855) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (30)] sees 41 (+670) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (9)] sees 44 (+1230) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 43 (+624) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (29)] sees 43 (+274) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 41 (+228) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 35 (+171) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 37 (+143) 3D points
+19: too few projection inliers
+
+#############################
++3: [sofa (24)] sees 37 (+143) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (32) and sofa (37)
+195 3D points initialized from two images
+PBA: 195 3D pts, 2 cams and 390 projs...
+PBA: 67259.539 -> 0.383 (29 LMs in 0.13sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (1)] sees 375 (+3674) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (33)] sees 183 (+1167) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 167 (+622) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 160 (+609) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 151 (+706) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (3)] sees 132 (+364) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (34)] sees 140 (+528) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (36)] sees 140 (+505) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (2)] sees 116 (+243) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (31)] sees 97 (+282) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (30)] sees 83 (+214) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 49 (+285) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 52 (+109) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (7)] sees 38 (+203) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (27)] sees 47 (+110) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 34 (+98) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (29)] sees 30 (+72) 3D points
+15: too few projection inliers
+
+#############################
++3: [sofa (7)] sees 38 (+203) 3D points
+13: too few projection inliers
+
+#############################
++3: [sofa (29)] sees 30 (+72) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (7)] sees 38 (+203) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (29)] sees 30 (+72) 3D points
+17: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Failed to find two images for initialization
+NOTE: 18 small models are deleted
+Resuming SfM finished, 9 sec used
+
+---------------------------------------------------
+1 model(s) reconstructed from 37 images;
+0 modeled; 0 reused; 0 EXIF; 
+2MB(2) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 9 sec used
+4.1(4.1) seconds on Bundle Adjustment (+)
+4.0(4.0) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 9.000 seconds used
+
+
+Compute Bundle Adjustment, begin...
+----------------------------------------------------------------
+Compute Bundle Adjustment, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+Initialize with sofa (26) and sofa (27)
+1348 3D points initialized from two images
+PBA: 1348 3D pts, 2 cams and 2696 projs...
+PBA: 67791.664 -> 0.244 (34 LMs in 0.17sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (25)] sees 1851 (+1986) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (28)] sees 878 (+734) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (29)] sees 601 (+588) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (24)] sees 394 (+392) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (23)] sees 197 (+179) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 226 (+116) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 150 (+101) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 150 (+110) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (6)] sees 161 (+89) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 175 (+72) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (5)] sees 162 (+50) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 148 (+53) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 123 (+80) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 91 (+111) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (4)] sees 133 (+43) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (33)] sees 111 (+30) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (12)] sees 68 (+70) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (3)] sees 103 (+31) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 70 (+21) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 68 (+27) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (20)] sees 50 (+50) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (22)] sees 54 (+40) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 32 (+72) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 32 (+72) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 32 (+72) 3D points
+15: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (25) and sofa (28)
+971 3D points initialized from two images
+PBA: 971 3D pts, 2 cams and 1942 projs...
+PBA: 67765.930 -> 0.249 (21 LMs in 0.15sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (27)] sees 1243 (+1990) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 956 (+1518) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (29)] sees 625 (+892) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (24)] sees 280 (+284) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 246 (+211) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 179 (+125) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (23)] sees 125 (+129) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 150 (+117) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (6)] sees 158 (+83) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (5)] sees 142 (+74) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 121 (+96) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 132 (+74) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (4)] sees 114 (+62) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 81 (+77) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 54 (+92) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (3)] sees 101 (+36) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (33)] sees 79 (+54) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (11)] sees 55 (+68) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (12)] sees 60 (+59) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 65 (+43) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (35)] sees 73 (+38) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 61 (+38) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (2)] sees 69 (+31) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 59 (+31) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (10) and sofa (11)
+893 3D points initialized from two images
+PBA: 893 3D pts, 2 cams and 1786 projs...
+PBA: 66213.961 -> 0.250 (73 LMs in 0.72sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (12)] sees 757 (+1159) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 486 (+468) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 326 (+271) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (13)] sees 180 (+243) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 168 (+115) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (14)] sees 108 (+125) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (6)] sees 103 (+84) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (24)] sees 85 (+110) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 71 (+113) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (20)] sees 114 (+76) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 84 (+103) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (23)] sees 82 (+88) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 70 (+95) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 55 (+69) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (19)] sees 55 (+68) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (22)] sees 44 (+47) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (5)] sees 32 (+58) 3D points
+14: too few projection inliers
+
+#############################
+#3: [sofa (5)] sees 32 (+58) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (5)] sees 32 (+58) 3D points
+18: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (23) and sofa (24)
+916 3D points initialized from two images
+PBA: 916 3D pts, 2 cams and 1832 projs...
+PBA: 66763.695 -> 0.248 (13 LMs in 0.09sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (26)] sees 320 (+404) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 247 (+310) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 241 (+225) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 219 (+256) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 160 (+186) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (22)] sees 107 (+134) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 89 (+114) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 94 (+114) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (10)] sees 83 (+116) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (20)] sees 108 (+86) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (29)] sees 92 (+76) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 68 (+94) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 61 (+81) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 63 (+71) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (12)] sees 49 (+75) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (6)] sees 49 (+75) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (13)] sees 53 (+52) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 49 (+55) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (19)] sees 40 (+53) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 27 (+82) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 27 (+82) 3D points
+18: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 27 (+82) 3D points
+17: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (13) and sofa (14)
+690 3D points initialized from two images
+PBA: 690 3D pts, 2 cams and 1380 projs...
+PBA: 67596.695 -> 0.246 (17 LMs in 0.19sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (12)] sees 295 (+406) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 256 (+252) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 190 (+247) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (16)] sees 98 (+140) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (10)] sees 85 (+140) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 78 (+94) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (19)] sees 76 (+121) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 73 (+128) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (17)] sees 61 (+121) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (22)] sees 54 (+78) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 57 (+59) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 52 (+71) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 47 (+62) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (20)] sees 38 (+67) 3D points
+19: too few projection inliers
+
+#############################
+#3: [sofa (7)] sees 36 (+74) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 37 (+48) 3D points
+14: too few projection inliers
+
+#############################
+#3: [sofa (8)] sees 47 (+62) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (20)] sees 38 (+67) 3D points
+19: too few projection inliers
+
+#############################
+#3: [sofa (7)] sees 36 (+74) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 37 (+48) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (8)] sees 47 (+62) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (20)] sees 38 (+67) 3D points
+19: too few projection inliers
+
+#############################
+#3: [sofa (7)] sees 36 (+74) 3D points
+13: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 37 (+48) 3D points
+15: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (4) and sofa (35)
+236 3D points initialized from two images
+PBA: 236 3D pts, 2 cams and 472 projs...
+PBA: 67535.305 -> 0.239 (27 LMs in 0.22sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (33)] sees 273 (+1203) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (36)] sees 230 (+1411) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 186 (+899) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 181 (+916) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (3)] sees 102 (+548) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (2)] sees 78 (+308) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (5)] sees 79 (+756) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 45 (+206) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 35 (+339) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (20) and sofa (22)
+562 3D points initialized from two images
+PBA: 562 3D pts, 2 cams and 1124 projs...
+PBA: 66518.891 -> 0.245 (12 LMs in 0.10sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (21)] sees 247 (+408) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (16)] sees 168 (+300) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 181 (+212) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (17)] sees 154 (+252) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (19)] sees 141 (+215) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 108 (+247) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (23)] sees 61 (+191) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 35 (+132) 3D points
+19: too few projection inliers
+
+#############################
++3: [sofa (24)] sees 43 (+112) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 31 (+110) 3D points
+14: too few projection inliers
+
+#############################
+#3: [sofa (12)] sees 27 (+119) 3D points
+12: too few projection inliers
+
+#############################
++3: [sofa (11)] sees 35 (+132) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 31 (+110) 3D points
+13: too few projection inliers
+
+#############################
+#3: [sofa (12)] sees 27 (+119) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (13)] sees 31 (+110) 3D points
+13: too few projection inliers
+
+#############################
+#3: [sofa (12)] sees 27 (+119) 3D points
+15: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (17) and sofa (19)
+389 3D points initialized from two images
+PBA: 389 3D pts, 2 cams and 778 projs...
+PBA: 67457.109 -> 0.249 (20 LMs in 0.14sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (16)] sees 441 (+1103) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (18)] sees 380 (+935) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 161 (+412) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (20)] sees 153 (+416) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (22)] sees 69 (+117) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (14)] sees 42 (+167) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 28 (+136) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (13)] sees 28 (+136) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (13)] sees 28 (+136) 3D points
+14: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (5) and sofa (6)
+349 3D points initialized from two images
+PBA: 349 3D pts, 2 cams and 698 projs...
+PBA: 67293.125 -> 0.337 (100 LMs in 0.31sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (7)] sees 309 (+1233) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 262 (+492) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 239 (+537) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 207 (+491) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 163 (+349) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (33)] sees 141 (+431) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (36)] sees 136 (+279) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (3)] sees 138 (+160) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 128 (+219) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 113 (+234) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 117 (+198) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 87 (+283) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (9)] sees 96 (+260) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 126 (+120) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 125 (+125) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 81 (+259) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (2)] sees 96 (+115) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 105 (+106) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 101 (+98) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (29)] sees 76 (+75) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (10)] sees 47 (+141) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (24)] sees 61 (+77) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (10)] sees 47 (+141) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (16) and sofa (18)
+295 3D points initialized from two images
+PBA: 295 3D pts, 2 cams and 590 projs...
+PBA: 66663.445 -> 0.192 (3 LMs in 0.06sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (19)] sees 325 (+933) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (17)] sees 316 (+1209) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (15)] sees 191 (+655) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (20)] sees 133 (+426) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (22)] sees 61 (+199) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (3) and sofa (33)
+262 3D points initialized from two images
+PBA: 262 3D pts, 2 cams and 524 projs...
+PBA: 66971.602 -> 0.359 (38 LMs in 0.24sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (32)] sees 318 (+1147) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 299 (+1100) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 281 (+924) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 285 (+639) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (2)] sees 250 (+756) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (36)] sees 228 (+823) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 163 (+430) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 118 (+247) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 103 (+237) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 117 (+135) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 78 (+181) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (30)] sees 81 (+105) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 60 (+109) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 52 (+90) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 42 (+102) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (29) and sofa (30)
+236 3D points initialized from two images
+PBA: 236 3D pts, 2 cams and 472 projs...
+PBA: 67610.578 -> 0.174 (11 LMs in 0.12sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (28)] sees 204 (+892) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 189 (+788) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 201 (+665) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 186 (+801) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 144 (+427) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 95 (+173) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 90 (+158) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 72 (+126) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 62 (+139) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 58 (+149) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (33)] sees 46 (+102) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (3)] sees 65 (+64) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 44 (+114) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 47 (+112) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 56 (+130) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 42 (+96) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 41 (+87) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 40 (+66) 3D points
+17: too few projection inliers
+
+#############################
+#3: [sofa (36)] sees 35 (+62) 3D points
+15: too few projection inliers
+
+#############################
+#3: [sofa (2)] sees 35 (+57) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (23)] sees 37 (+77) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 40 (+66) 3D points
+18: too few projection inliers
+
+#############################
+#3: [sofa (36)] sees 35 (+62) 3D points
+16: too few projection inliers
+
+#############################
+#3: [sofa (2)] sees 35 (+57) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 40 (+66) 3D points
+19: too few projection inliers
+
+#############################
+#3: [sofa (36)] sees 35 (+62) 3D points
+15: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (9) and sofa (12)
+229 3D points initialized from two images
+PBA: 229 3D pts, 2 cams and 458 projs...
+PBA: 67180.516 -> 0.752 (30 LMs in 0.13sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (10)] sees 250 (+1000) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 203 (+1358) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 202 (+1171) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 111 (+403) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 107 (+467) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (14)] sees 72 (+225) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 64 (+272) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (21)] sees 34 (+150) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (23)] sees 34 (+133) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 32 (+131) 3D points
+17: too few projection inliers
+
+#############################
+#3: [sofa (15)] sees 32 (+129) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (20)] sees 35 (+112) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (22)] sees 33 (+50) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 32 (+131) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (24)] sees 32 (+131) 3D points
+13: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (2) and sofa (36)
+213 3D points initialized from two images
+PBA: 213 3D pts, 2 cams and 426 projs...
+PBA: 67929.203 -> 0.282 (40 LMs in 0.22sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (35)] sees 258 (+1361) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (3)] sees 228 (+832) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (34)] sees 214 (+842) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (33)] sees 204 (+798) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 164 (+519) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 143 (+448) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 112 (+297) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 122 (+187) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 125 (+190) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 63 (+83) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 65 (+143) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (30)] sees 52 (+71) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 39 (+77) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (7)] sees 37 (+68) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 33 (+63) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (15) and sofa (21)
+106 3D points initialized from two images
+PBA: 106 3D pts, 2 cams and 212 projs...
+PBA: 68451.422 -> 0.619 (100 LMs in 0.27sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (22)] sees 59 (+552) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (16)] sees 45 (+683) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (20)] sees 43 (+334) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (11)] sees 41 (+165) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (23)] sees 33 (+408) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (13)] sees 35 (+268) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (14)] sees 28 (+292) 3D points
+17: too few projection inliers
+
+#############################
++3: [sofa (12)] sees 29 (+192) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (14)] sees 28 (+292) 3D points
+17: too few projection inliers
+
+#############################
++3: [sofa (14)] sees 28 (+292) 3D points
+18: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (7) and sofa (34)
+96 3D points initialized from two images
+PBA: 96 3D pts, 2 cams and 192 projs...
+PBA: 66991.383 -> 0.250 (25 LMs in 0.35sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (6)] sees 102 (+1347) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (33)] sees 94 (+1012) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (36)] sees 84 (+906) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (32)] sees 87 (+648) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 81 (+866) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 81 (+374) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 77 (+386) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (8)] sees 72 (+814) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (30)] sees 64 (+187) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 57 (+136) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (3)] sees 54 (+218) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (31)] sees 51 (+148) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (29)] sees 53 (+71) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (2)] sees 46 (+155) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 50 (+147) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (1)] sees 36 (+165) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (9)] sees 36 (+412) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 40 (+138) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 29 (+161) 3D points
+19: too few projection inliers
+
+#############################
++3: [sofa (24)] sees 33 (+91) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 32 (+121) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
+#3: [sofa (37)] sees 29 (+161) 3D points
+17: too few projection inliers
+
+#############################
+#3: [sofa (37)] sees 29 (+161) 3D points
+19: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (8) and sofa (31)
+40 3D points initialized from two images
+PBA: 40 3D pts, 2 cams and 80 projs...
+PBA: 66881.969 -> 0.177 (18 LMs in 0.09sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
++3: [sofa (7)] sees 44 (+855) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (30)] sees 41 (+670) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (9)] sees 44 (+1230) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 43 (+624) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (29)] sees 43 (+274) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (27)] sees 41 (+228) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (26)] sees 35 (+171) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (24)] sees 37 (+143) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+END: No more images to add [0 projs]
+
+#############################
+Initialize with sofa (32) and sofa (37)
+195 3D points initialized from two images
+PBA: 195 3D pts, 2 cams and 390 projs...
+PBA: 67259.539 -> 0.383 (29 LMs in 0.13sec)
+Focal Length : [394.902]->[394.902]
+Focal Length : [394.902]->[394.902]
+
+#############################
+#3: [sofa (1)] sees 375 (+3674) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (33)] sees 183 (+1167) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (5)] sees 167 (+622) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (4)] sees 160 (+609) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (35)] sees 151 (+706) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (3)] sees 132 (+364) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (34)] sees 140 (+528) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (36)] sees 140 (+505) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (2)] sees 116 (+243) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (31)] sees 97 (+282) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (30)] sees 83 (+214) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (6)] sees 49 (+285) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (28)] sees 52 (+109) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (7)] sees 38 (+203) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (27)] sees 47 (+110) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (25)] sees 34 (+98) 3D points
+Estimated Focal Length [395][0.62W]
+# 0 projs (0 pts and 0 merges)
+ERROR: too few projections are initiated
+
+#############################
++3: [sofa (29)] sees 30 (+72) 3D points
+16: too few projection inliers
+
+#############################
++3: [sofa (7)] sees 38 (+203) 3D points
+13: too few projection inliers
+
+#############################
++3: [sofa (29)] sees 30 (+72) 3D points
+18: too few projection inliers
+
+#############################
++3: [sofa (7)] sees 38 (+203) 3D points
+14: too few projection inliers
+
+#############################
++3: [sofa (29)] sees 30 (+72) 3D points
+17: too few projection inliers
+END: No more images to add [0 projs]
+
+#############################
+Failed to find two images for initialization
+NOTE: 18 small models are deleted
+Resuming SfM finished, 9 sec used
+3.8(3.8) seconds on Bundle Adjustment (+)
+3.7(3.7) seconds on Bundle Adjustment (*)
+
+---------------------------------------------------
+1 model(s) reconstructed from 37 images;
+0 modeled; 0 reused; 0 EXIF; 
+2MB(2) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 9.000 seconds used
+

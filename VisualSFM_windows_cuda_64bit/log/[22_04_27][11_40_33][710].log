@@ -1,0 +1,997 @@
+
+Load existing NView match, begin...
+Load 3.nvm...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = 0.000000
+
+sofa (6)
+image_size:	640x480
+#sift count:	6944
+
+sofa (24)
+image_size:	640x480
+#sift count:	7736
+
+sofa (25)
+image_size:	640x480
+#sift count:	7802
+
+sofa (27)
+image_size:	640x480
+#sift count:	7759
+
+sofa (26)
+image_size:	640x480
+#sift count:	7829
+
+sofa (23)
+image_size:	640x480
+#sift count:	7496
+
+sofa (28)
+image_size:	640x480
+#sift count:	7643
+
+sofa (21)
+image_size:	640x480
+#sift count:	7233
+
+sofa (7)
+image_size:	640x480
+#sift count:	6873
+
+sofa (8)
+image_size:	640x480
+#sift count:	7310
+
+sofa (9)
+image_size:	640x480
+#sift count:	7012
+
+sofa (10)
+image_size:	640x480
+#sift count:	7524
+
+sofa (29)
+image_size:	640x480
+#sift count:	7114
+
+sofa (5)
+image_size:	640x480
+#sift count:	6673
+
+sofa (11)
+image_size:	640x480
+#sift count:	7182
+
+sofa (12)
+image_size:	640x480
+#sift count:	7230
+
+sofa (32)
+image_size:	640x480
+#sift count:	7140
+
+sofa (33)
+image_size:	640x480
+#sift count:	6879
+
+sofa (4)
+image_size:	640x480
+#sift count:	6039
+
+sofa (35)
+image_size:	640x480
+#sift count:	6685
+
+sofa (36)
+image_size:	640x480
+#sift count:	6502
+
+sofa (3)
+image_size:	640x480
+#sift count:	6075
+
+sofa (2)
+image_size:	640x480
+#sift count:	5773
+
+sofa (34)
+image_size:	640x480
+#sift count:	6365
+
+sofa (31)
+image_size:	640x480
+#sift count:	7109
+
+sofa (30)
+image_size:	640x480
+#sift count:	7129
+
+sofa (1)
+image_size:	640x480
+#sift count:	6790
+
+sofa (37) 
+image_size:	640x480
+#sift count:	6790
+
+sofa (22)
+image_size:	640x480
+#sift count:	6347
+
+sofa (20)
+image_size:	640x480
+#sift count:	6298
+
+sofa (13)
+image_size:	640x480
+#sift count:	6760
+
+sofa (14)
+image_size:	640x480
+#sift count:	6781
+
+sofa (15)
+image_size:	640x480
+#sift count:	6984
+
+sofa (19)
+image_size:	640x480
+#sift count:	6305
+
+sofa (18)
+image_size:	640x480
+#sift count:	6276
+
+sofa (16)
+image_size:	640x480
+#sift count:	5757
+
+sofa (17)
+image_size:	640x480
+#sift count:	5542
+
+Loading 21967 3D points...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = 0.000000
+# images loaded:	37
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+----------------------------------------------------------------
+Load existing NView match, finished
+Totally 1.000 seconds used
+
+01: sofa (6), F=432/432X, 	D=0.000(0)
+02: sofa (24), F=432/432X, 	D=0.000(0)
+03: sofa (25), F=432/768, 	D=0.000(0)
+04: sofa (27), F=432/768, 	D=0.000(0)
+05: sofa (26), F=432/768, 	D=0.000(0)
+06: sofa (23), F=432/768, 	D=0.000(0)
+07: sofa (28), F=432/768, 	D=0.000(0)
+08: sofa (21), F=432/768, 	D=0.000(0)
+09: sofa (7), F=432/768, 	D=0.000(0)
+10: sofa (8), F=432/768, 	D=0.000(0)
+11: sofa (9), F=432/768, 	D=0.000(0)
+12: sofa (10), F=432/768, 	D=0.000(0)
+13: sofa (29), F=432/768, 	D=0.000(0)
+14: sofa (5), F=432/768, 	D=0.000(0)
+15: sofa (11), F=432/768, 	D=0.000(0)
+16: sofa (12), F=432/768, 	D=0.000(0)
+17: sofa (32), F=432/768, 	D=0.000(0)
+18: sofa (33), F=432/768, 	D=0.000(0)
+19: sofa (4), F=432/768, 	D=0.000(0)
+20: sofa (35), F=432/768, 	D=0.000(0)
+21: sofa (36), F=432/768, 	D=0.000(0)
+22: sofa (3), F=432/768, 	D=0.000(0)
+23: sofa (2), F=432/768, 	D=0.000(0)
+24: sofa (34), F=432/768, 	D=0.000(0)
+25: sofa (31), F=432/768, 	D=0.000(0)
+26: sofa (30), F=432/768, 	D=0.000(0)
+27: sofa (1), F=432/768, 	D=0.000(0)
+28: sofa (37) , F=432/768, 	D=0.000(0)
+29: sofa (22), F=432/768, 	D=0.000(0)
+30: sofa (20), F=432/768, 	D=0.000(0)
+31: sofa (13), F=432/768, 	D=0.000(0)
+32: sofa (14), F=432/768, 	D=0.000(0)
+33: sofa (15), F=432/768, 	D=0.000(0)
+34: sofa (19), F=432/768, 	D=0.000(0)
+35: sofa (18), F=432/768, 	D=0.000(0)
+36: sofa (16), F=432/768, 	D=0.000(0)
+37: sofa (17), F=432/768, 	D=0.000(0)
+---------------------------------------------------
+37 cams, 21968 pts (3+: 15480)
+140502 projections (3+: 127528)
+01: sofa (6), F=432/432X, 	D=0.000(0)
+02: sofa (24), F=432/432X, 	D=0.000(0)
+03: sofa (25), F=432/768, 	D=0.000(0)
+04: sofa (27), F=432/768, 	D=0.000(0)
+05: sofa (26), F=432/768, 	D=0.000(0)
+06: sofa (23), F=432/768, 	D=0.000(0)
+07: sofa (28), F=432/768, 	D=0.000(0)
+08: sofa (21), F=432/768, 	D=0.000(0)
+09: sofa (7), F=432/768, 	D=0.000(0)
+10: sofa (8), F=432/768, 	D=0.000(0)
+11: sofa (9), F=432/768, 	D=0.000(0)
+12: sofa (10), F=432/768, 	D=0.000(0)
+13: sofa (29), F=432/768, 	D=0.000(0)
+14: sofa (5), F=432/768, 	D=0.000(0)
+15: sofa (11), F=432/768, 	D=0.000(0)
+16: sofa (12), F=432/768, 	D=0.000(0)
+17: sofa (32), F=432/768, 	D=0.000(0)
+18: sofa (33), F=432/768, 	D=0.000(0)
+19: sofa (4), F=432/768, 	D=0.000(0)
+20: sofa (35), F=432/768, 	D=0.000(0)
+21: sofa (36), F=432/768, 	D=0.000(0)
+22: sofa (3), F=432/768, 	D=0.000(0)
+23: sofa (2), F=432/768, 	D=0.000(0)
+24: sofa (34), F=432/768, 	D=0.000(0)
+25: sofa (31), F=432/768, 	D=0.000(0)
+26: sofa (30), F=432/768, 	D=0.000(0)
+27: sofa (1), F=432/768, 	D=0.000(0)
+28: sofa (37) , F=432/768, 	D=0.000(0)
+29: sofa (22), F=432/768, 	D=0.000(0)
+30: sofa (20), F=432/768, 	D=0.000(0)
+31: sofa (13), F=432/768, 	D=0.000(0)
+32: sofa (14), F=432/768, 	D=0.000(0)
+33: sofa (15), F=432/768, 	D=0.000(0)
+34: sofa (19), F=432/768, 	D=0.000(0)
+35: sofa (18), F=432/768, 	D=0.000(0)
+36: sofa (16), F=432/768, 	D=0.000(0)
+37: sofa (17), F=432/768, 	D=0.000(0)
+---------------------------------------------------
+37 cams, 21968 pts (3+: 15480)
+140502 projections (3+: 127528)
+
+sofa (17)
+[640 x 480] [F0 = 768 ][5542]
+F = 432, D = [0.000 -> 0] < [2327]
+
+# features : 5757 and 5542
+[NM = 1866] [average scaling 0.996] [cov 1.065]
+[NF = 1790] [average scaling 0.996] [cov 1.061]
+[index] [2152: 0-5750] [2196: 1-5534]
+NH = 791 - 1796
+F1 = 431.910034, F2 = 431.910034
+C2 = [-0.659, 0.746, 0.090]
+Rz = [0.015, 0.010, 1.000]
+NS = 0, AA = 0.727, GE=0.1
+SV = 1.000, Forward = 0.090, Z = 1.000
+01: sofa (6), F=432/432X, 	D=0.000(0)
+02: sofa (24), F=432/432X, 	D=0.000(0)
+03: sofa (25), F=432/768, 	D=0.000(0)
+04: sofa (27), F=432/768, 	D=0.000(0)
+05: sofa (26), F=432/768, 	D=0.000(0)
+06: sofa (23), F=432/768, 	D=0.000(0)
+07: sofa (28), F=432/768, 	D=0.000(0)
+08: sofa (21), F=432/768, 	D=0.000(0)
+09: sofa (7), F=432/768, 	D=0.000(0)
+10: sofa (8), F=432/768, 	D=0.000(0)
+11: sofa (9), F=432/768, 	D=0.000(0)
+12: sofa (10), F=432/768, 	D=0.000(0)
+13: sofa (29), F=432/768, 	D=0.000(0)
+14: sofa (5), F=432/768, 	D=0.000(0)
+15: sofa (11), F=432/768, 	D=0.000(0)
+16: sofa (12), F=432/768, 	D=0.000(0)
+17: sofa (32), F=432/768, 	D=0.000(0)
+18: sofa (33), F=432/768, 	D=0.000(0)
+19: sofa (4), F=432/768, 	D=0.000(0)
+20: sofa (35), F=432/768, 	D=0.000(0)
+21: sofa (36), F=432/768, 	D=0.000(0)
+22: sofa (3), F=432/768, 	D=0.000(0)
+23: sofa (2), F=432/768, 	D=0.000(0)
+24: sofa (34), F=432/768, 	D=0.000(0)
+25: sofa (31), F=432/768, 	D=0.000(0)
+26: sofa (30), F=432/768, 	D=0.000(0)
+27: sofa (1), F=432/768, 	D=0.000(0)
+28: sofa (37) , F=432/768, 	D=0.000(0)
+29: sofa (22), F=432/768, 	D=0.000(0)
+30: sofa (20), F=432/768, 	D=0.000(0)
+31: sofa (13), F=432/768, 	D=0.000(0)
+32: sofa (14), F=432/768, 	D=0.000(0)
+33: sofa (15), F=432/768, 	D=0.000(0)
+34: sofa (19), F=432/768, 	D=0.000(0)
+35: sofa (18), F=432/768, 	D=0.000(0)
+36: sofa (16), F=432/768, 	D=0.000(0)
+37: sofa (17), F=432/768, 	D=0.000(0)
+---------------------------------------------------
+37 cams, 21968 pts (3+: 15480)
+140502 projections (3+: 127528)
+
+# features : 6502 and 6790
+[NM = 1653] [average scaling 0.884] [cov 1.094]
+[NF = 1531] [average scaling 0.885] [cov 1.091]
+[index] [2773: 3-6495] [2650: 1-6725]
+NH = 374 - 1294
+F1 = 431.910034, F2 = 431.910034
+C2 = [-0.590, 0.064, 0.805]
+Rz = [0.097, 0.100, 0.990]
+NS = 1438, AA = 5.905, GE=0.1
+SV = 1.000, Forward = 0.805, Z = 0.990
+
+Load existing NView match, begin...
+37 images deleted
+Load sofa3+7.nvm...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = 0.000000
+
+sofa (10)
+image_size:	640x480
+#sift count:	7524
+
+sofa (24)
+image_size:	640x480
+#sift count:	7736
+
+sofa (26)
+image_size:	640x480
+#sift count:	7829
+
+sofa (25)
+image_size:	640x480
+#sift count:	7802
+
+sofa (27)
+image_size:	640x480
+#sift count:	7759
+
+sofa (23)
+image_size:	640x480
+#sift count:	7496
+
+sofa (28)
+image_size:	640x480
+#sift count:	7643
+
+sofa (21)
+image_size:	640x480
+#sift count:	7233
+
+sofa (29)
+image_size:	640x480
+#sift count:	7114
+
+sofa (9)
+image_size:	640x480
+#sift count:	7012
+
+sofa (8)
+image_size:	640x480
+#sift count:	7310
+
+sofa (7)
+image_size:	640x480
+#sift count:	6873
+
+sofa (6)
+image_size:	640x480
+#sift count:	6944
+
+sofa (11)
+image_size:	640x480
+#sift count:	7182
+
+sofa (12)
+image_size:	640x480
+#sift count:	7230
+
+sofa (5)
+image_size:	640x480
+#sift count:	6673
+
+sofa (32)
+image_size:	640x480
+#sift count:	7140
+
+sofa (33)
+image_size:	640x480
+#sift count:	6879
+
+sofa (4)
+image_size:	640x480
+#sift count:	6039
+
+sofa (35)
+image_size:	640x480
+#sift count:	6685
+
+sofa (36)
+image_size:	640x480
+#sift count:	6502
+
+sofa (3)
+image_size:	640x480
+#sift count:	6075
+
+sofa (34)
+image_size:	640x480
+#sift count:	6365
+
+sofa (2)
+image_size:	640x480
+#sift count:	5773
+
+sofa (31)
+image_size:	640x480
+#sift count:	7109
+
+sofa (30)
+image_size:	640x480
+#sift count:	7129
+
+sofa (1)
+image_size:	640x480
+#sift count:	6790
+
+sofa (22)
+image_size:	640x480
+#sift count:	6347
+
+sofa (20)
+image_size:	640x480
+#sift count:	6298
+
+sofa (13)
+image_size:	640x480
+#sift count:	6760
+
+sofa (14)
+image_size:	640x480
+#sift count:	6781
+
+sofa (15)
+image_size:	640x480
+#sift count:	6984
+
+sofa (19)
+image_size:	640x480
+#sift count:	6305
+
+sofa (18)
+image_size:	640x480
+#sift count:	6276
+
+sofa (16)
+image_size:	640x480
+#sift count:	5757
+
+sofa (17)
+image_size:	640x480
+#sift count:	5542
+
+Loading 21776 3D points...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = 0.000000
+Loading sofa3+7.0.ply, 21159 vertices ...
+You can view existing dense reconstructions
+by using Menu "View->Dense 3D Points"
+# images loaded:	36
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+----------------------------------------------------------------
+Load existing NView match, finished
+Totally 1.000 seconds used
+
+
+# features : 6502 and 6790
+[NM = 1653] [average scaling 0.884] [cov 1.094]
+[NF = 1357] [average scaling 0.897] [cov 1.083]
+[index] [2810: 3-6495] [2745: 1-6725]
+NH = 677 - 1351
+F1 = 431.910034, F2 = 431.910034
+C2 = [-0.622, 0.111, 0.775]
+Rz = [0.113, 0.092, 0.989]
+NS = 1355, AA = 7.182, GE=0.1
+SV = 1.000, Forward = 0.775, Z = 0.989
+Current view added to #00
+Current view added to #01
+Current view added to #02
+Current view added to #03
+Current view added to #04
+Current view added to #05
+Current view added to #06
+Current view added to #07
+Current view added to #08
+Current view added to #09
+Current view added to #10
+Current view added to #11
+Current view added to #12
+Current view added to #13
+Current view added to #14
+Current view added to #15
+Current view added to #16
+Current view added to #17
+Current view added to #18
+Current view added to #19
+
+Run full 3D reconstruction, begin...
+619 pairs have two-view models
+630 pairs have fundamental matrices
+Initialize with sofa (10) and sofa (24)
+759 3D points initialized from two images
+PBA library version = 105
+PBA: 759 3D pts, 2 cams and 1518 projs...
+PBA: 6.009 -> 0.230 (2 LMs in 0.12sec)
+Focal Length : [431.910]->[431.910]
+Focal Length : [431.910]->[431.910]
+
+#############################
+#3: [sofa (26)] sees 829 (+2840) 3D points
+Estimated Focal Length [432][0.67W]
+# 493 projs (0 pts and 0 merges)
+PBA: 759 3D pts, 3 cams and 2011 projs...
+PBA: 0.298 -> 0.140 (1 LMs in 0.01sec)
+
+**************************************
+#3/3:  1216 projs and 302 pts added.
+PBA: 1057 3D pts, 3 cams and 2726 projs...
+PBA: 0.739 -> 0.606 (13 LMs in 0.05sec)
+PBA: 1057 3D pts, 3 cams and 2726 projs...
+PBA: 0.606 -> 0.606 (12 LMs in 0.06sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#4: [sofa (25)] sees 1514 (+3986) 3D points
+Estimated Focal Length [432][0.67W]
+# 3084 projs (860 pts and 0 merges)
+PBA: 1911 3D pts, 4 cams and 5798 projs...
+PBA: 0.433 -> 0.433 (12 LMs in 0.03sec)
+#points w/ large errors:	4
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#5: [sofa (27)] sees 3884 (+3958) 3D points
+Estimated Focal Length [432][0.67W]
+# 5480 projs (1232 pts and 18 merges)
+PBA: 3110 3D pts, 5 cams and 11244 projs...
+PBA: 0.247 -> 0.224 (1 LMs in 0.01sec)
+#points w/ large errors:	2
+
+**************************************
+#5/5:  5745 projs and 1280 pts added.
+PBA: 3153 3D pts, 5 cams and 11497 projs...
+PBA: 0.526 -> 0.421 (26 LMs in 0.06sec)
+PBA: 3153 3D pts, 5 cams and 11497 projs...
+PBA: 0.421 -> 0.421 (12 LMs in 0.03sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#6: [sofa (23)] sees 6031 (+2322) 3D points
+Estimated Focal Length [432][0.67W]
+# 4117 projs (931 pts and 39 merges)
+PBA: 4028 3D pts, 6 cams and 15580 projs...
+PBA: 0.528 -> 0.495 (26 LMs in 0.08sec)
+#points w/ large errors:	12
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#7: [sofa (28)] sees 6763 (+1981) 3D points
+Estimated Focal Length [432][0.67W]
+# 7016 projs (1888 pts and 171 merges)
+PBA: 5714 3D pts, 7 cams and 22512 projs...
+PBA: 0.356 -> 0.249 (5 LMs in 0.18sec)
+#points w/ large errors:	12
+
+**************************************
+#7/7:  7682 projs and 1975 pts added.
+PBA: 5771 3D pts, 7 cams and 23117 projs...
+PBA: 0.125 -> 0.125 (6 LMs in 0.02sec)
+PBA: 5771 3D pts, 7 cams and 23117 projs...
+PBA: 0.125 -> 0.124 (4 LMs in 0.01sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#8: [sofa (21)] sees 8405 (+1880) 3D points
+Estimated Focal Length [432][0.67W]
+# 4199 projs (760 pts and 146 merges)
+PBA: 5030 3D pts, 8 cams and 24606 projs...
+PBA: 0.347 -> 0.229 (1 LMs in 0.02sec)
+#points w/ large errors:	5
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#9: [sofa (29)] sees 9196 (+1432) 3D points
+Estimated Focal Length [432][0.67W]
+# 3558 projs (412 pts and 97 merges)
+PBA: 5198 3D pts, 9 cams and 27861 projs...
+PBA: 0.315 -> 0.228 (4 LMs in 0.01sec)
+#points w/ large errors:	7
+
+**************************************
+#9/9:  3997 projs and 493 pts added.
+PBA: 6681 3D pts, 9 cams and 31098 projs...
+PBA: 0.181 -> 0.143 (1 LMs in 0.01sec)
+#points w/ large errors:	1
+PBA: 6680 3D pts, 9 cams and 31095 projs...
+PBA: 0.146 -> 0.142 (1 LMs in 0.03sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#10: [sofa (9)] sees 4756 (+1863) 3D points
+Estimated Focal Length [432][0.67W]
+# 4054 projs (1244 pts and 75 merges)
+PBA: 6435 3D pts, 10 cams and 32321 projs...
+PBA: 0.152 -> 0.129 (3 LMs in 0.01sec)
+#points w/ large errors:	16
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#11: [sofa (8)] sees 7856 (+1920) 3D points
+Estimated Focal Length [432][0.67W]
+# 4866 projs (1058 pts and 216 merges)
+PBA: 6857 3D pts, 11 cams and 36317 projs...
+PBA: 0.222 -> 0.158 (1 LMs in 0.01sec)
+#points w/ large errors:	11
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#12: [sofa (7)] sees 8263 (+1349) 3D points
+Estimated Focal Length [432][0.67W]
+# 4415 projs (853 pts and 126 merges)
+PBA: 7292 3D pts, 12 cams and 40144 projs...
+PBA: 0.199 -> 0.147 (1 LMs in 0.01sec)
+#points w/ large errors:	9
+
+**************************************
+#12/12:  4645 projs and 893 pts added.
+PBA: 9329 3D pts, 12 cams and 44366 projs...
+PBA: 0.167 -> 0.154 (1 LMs in 0.01sec)
+PBA: 9329 3D pts, 12 cams and 44366 projs...
+PBA: 0.154 -> 0.154 (1 LMs in 0.04sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#13: [sofa (6)] sees 9546 (+1500) 3D points
+Estimated Focal Length [432][0.67W]
+# 4962 projs (961 pts and 135 merges)
+PBA: 7945 3D pts, 13 cams and 44908 projs...
+PBA: 0.200 -> 0.181 (1 LMs in 0.04sec)
+#points w/ large errors:	19
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#14: [sofa (11)] sees 8065 (+1481) 3D points
+Estimated Focal Length [432][0.67W]
+# 4284 projs (935 pts and 81 merges)
+PBA: 8452 3D pts, 14 cams and 48460 projs...
+PBA: 0.194 -> 0.159 (1 LMs in 0.01sec)
+#points w/ large errors:	25
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#15: [sofa (12)] sees 9189 (+1549) 3D points
+Estimated Focal Length [432][0.67W]
+# 2868 projs (0 pts and 69 merges)
+PBA: 8032 3D pts, 15 cams and 50559 projs...
+PBA: 0.530 -> 0.157 (1 LMs in 0.01sec)
+#points w/ large errors:	10
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#16: [sofa (5)] sees 7868 (+1009) 3D points
+Estimated Focal Length [432][0.67W]
+# 4045 projs (812 pts and 94 merges)
+PBA: 8945 3D pts, 16 cams and 54975 projs...
+PBA: 0.198 -> 0.155 (1 LMs in 0.01sec)
+#points w/ large errors:	19
+
+**************************************
+#16/16:  5849 projs and 1503 pts added.
+PBA: 12081 3D pts, 16 cams and 61589 projs...
+PBA: 0.187 -> 0.175 (4 LMs in 0.01sec)
+PBA: 12081 3D pts, 16 cams and 61589 projs...
+PBA: 0.175 -> 0.167 (1 LMs in 0.01sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#17: [sofa (32)] sees 7140 (+967) 3D points
+Estimated Focal Length [432][0.67W]
+# 3686 projs (738 pts and 89 merges)
+PBA: 9428 3D pts, 17 cams and 58671 projs...
+PBA: 0.229 -> 0.228 (6 LMs in 0.02sec)
+#points w/ large errors:	50
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#18: [sofa (33)] sees 6864 (+1451) 3D points
+Estimated Focal Length [432][0.67W]
+# 3380 projs (527 pts and 67 merges)
+PBA: 9532 3D pts, 18 cams and 61236 projs...
+PBA: 0.260 -> 0.185 (1 LMs in 0.01sec)
+#points w/ large errors:	14
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#19: [sofa (4)] sees 9355 (+1220) 3D points
+Estimated Focal Length [432][0.67W]
+# 3897 projs (615 pts and 128 merges)
+PBA: 9856 3D pts, 19 cams and 64787 projs...
+PBA: 0.256 -> 0.197 (1 LMs in 0.01sec)
+#points w/ large errors:	38
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#20: [sofa (35)] sees 6799 (+1352) 3D points
+Estimated Focal Length [432][0.67W]
+# 4014 projs (816 pts and 66 merges)
+PBA: 10338 3D pts, 20 cams and 68128 projs...
+PBA: 0.200 -> 0.171 (1 LMs in 0.01sec)
+#points w/ large errors:	25
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#21: [sofa (36)] sees 8426 (+1619) 3D points
+Estimated Focal Length [432][0.67W]
+# 3988 projs (609 pts and 92 merges)
+SKIP: 0 cams, 30 points, 172 projs
+PBA: 14550 3D pts, 20 cams and 79442 projs...
+PBA: 0.203 -> 0.172 (1 LMs in 0.01sec)
+#points w/ large errors:	7
+
+**************************************
+#21/21:  4796 projs and 789 pts added.
+PBA: 14679 3D pts, 21 cams and 80170 projs...
+PBA: 0.229 -> 0.217 (1 LMs in 0.01sec)
+PBA: 14679 3D pts, 21 cams and 80170 projs...
+PBA: 0.217 -> 0.217 (12 LMs in 0.12sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#22: [sofa (3)] sees 10937 (+1425) 3D points
+Estimated Focal Length [432][0.67W]
+# 4163 projs (626 pts and 112 merges)
+SKIP: 0 cams, 27 points, 86 projs
+PBA: 15080 3D pts, 20 cams and 84107 projs...
+PBA: 0.315 -> 0.273 (5 LMs in 0.10sec)
+#points w/ large errors:	93
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#23: [sofa (34)] sees 10796 (+1211) 3D points
+Estimated Focal Length [432][0.67W]
+# 3239 projs (288 pts and 73 merges)
+SKIP: 0 cams, 54 points, 522 projs
+PBA: 15146 3D pts, 20 cams and 86802 projs...
+PBA: 0.249 -> 0.226 (1 LMs in 0.01sec)
+#points w/ large errors:	34
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#24: [sofa (2)] sees 10035 (+1273) 3D points
+Estimated Focal Length [432][0.67W]
+# 3270 projs (353 pts and 87 merges)
+SKIP: 0 cams, 88 points, 308 projs
+PBA: 15319 3D pts, 20 cams and 89800 projs...
+PBA: 0.234 -> 0.207 (1 LMs in 0.01sec)
+#points w/ large errors:	32
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#25: [sofa (31)] sees 11955 (+1168) 3D points
+Estimated Focal Length [432][0.67W]
+# 4139 projs (712 pts and 144 merges)
+SKIP: 0 cams, 194 points, 680 projs
+PBA: 15708 3D pts, 20 cams and 93380 projs...
+PBA: 0.244 -> 0.216 (1 LMs in 0.01sec)
+#points w/ large errors:	36
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#26: [sofa (30)] sees 13714 (+940) 3D points
+Estimated Focal Length [432][0.67W]
+# 4337 projs (706 pts and 218 merges)
+PBA: 11905 3D pts, 26 cams and 89115 projs...
+PBA: 0.234 -> 0.210 (4 LMs in 0.01sec)
+#points w/ large errors:	40
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#27: [sofa (1)] sees 8434 (+1100) 3D points
+Estimated Focal Length [432][0.67W]
+# 4311 projs (940 pts and 90 merges)
+SKIP: 0 cams, 977 points, 2896 projs
+PBA: 16126 3D pts, 20 cams and 99358 projs...
+PBA: 0.214 -> 0.182 (1 LMs in 0.01sec)
+#points w/ large errors:	24
+
+**************************************
+#27/27:  6311 projs and 1282 pts added.
+PBA: 17286 3D pts, 27 cams and 103734 projs...
+PBA: 0.296 -> 0.257 (18 LMs in 0.18sec)
+PBA: 17286 3D pts, 27 cams and 103734 projs...
+PBA: 0.257 -> 0.257 (14 LMs in 0.14sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#28: [sofa (22)] sees 9110 (+944) 3D points
+Estimated Focal Length [432][0.67W]
+# 2902 projs (353 pts and 67 merges)
+SKIP: 0 cams, 1340 points, 3976 projs
+PBA: 16150 3D pts, 20 cams and 102504 projs...
+PBA: 0.319 -> 0.282 (5 LMs in 0.07sec)
+#points w/ large errors:	163
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#29: [sofa (20)] sees 7992 (+1100) 3D points
+Estimated Focal Length [432][0.67W]
+# 3730 projs (764 pts and 75 merges)
+SKIP: 0 cams, 1781 points, 6763 projs
+PBA: 16216 3D pts, 20 cams and 103415 projs...
+PBA: 0.179 -> 0.160 (1 LMs in 0.01sec)
+#points w/ large errors:	10
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#30: [sofa (13)] sees 7771 (+1034) 3D points
+Estimated Focal Length [432][0.67W]
+# 3526 projs (668 pts and 79 merges)
+SKIP: 0 cams, 1977 points, 6506 projs
+PBA: 16535 3D pts, 20 cams and 106284 projs...
+PBA: 0.225 -> 0.214 (1 LMs in 0.01sec)
+#points w/ large errors:	24
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#31: [sofa (14)] sees 7802 (+1212) 3D points
+Estimated Focal Length [432][0.67W]
+# 3962 projs (883 pts and 66 merges)
+SKIP: 0 cams, 2301 points, 7489 projs
+PBA: 16959 3D pts, 20 cams and 109100 projs...
+PBA: 0.243 -> 0.240 (3 LMs in 0.01sec)
+#points w/ large errors:	47
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#32: [sofa (15)] sees 10372 (+1399) 3D points
+Estimated Focal Length [432][0.67W]
+# 4232 projs (676 pts and 120 merges)
+PBA: 13910 3D pts, 32 cams and 108751 projs...
+PBA: 0.278 -> 0.191 (1 LMs in 0.01sec)
+#points w/ large errors:	39
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#33: [sofa (19)] sees 10936 (+1213) 3D points
+Estimated Focal Length [432][0.67W]
+# 5122 projs (1108 pts and 213 merges)
+SKIP: 0 cams, 3126 points, 10005 projs
+PBA: 17453 3D pts, 20 cams and 115528 projs...
+PBA: 0.223 -> 0.191 (1 LMs in 0.01sec)
+#points w/ large errors:	31
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#34: [sofa (18)] sees 12773 (+1181) 3D points
+Estimated Focal Length [432][0.67W]
+# 4759 projs (793 pts and 294 merges)
+SKIP: 0 cams, 3622 points, 11240 projs
+PBA: 17466 3D pts, 20 cams and 118915 projs...
+PBA: 0.242 -> 0.215 (1 LMs in 0.04sec)
+#points w/ large errors:	22
+
+**************************************
+#34/34:  6168 projs and 1223 pts added.
+PBA: 21339 3D pts, 34 cams and 131177 projs...
+PBA: 0.250 -> 0.222 (1 LMs in 0.01sec)
+#points w/ large errors:	1
+PBA: 21338 3D pts, 34 cams and 131175 projs...
+PBA: 0.241 -> 0.241 (3 LMs in 0.12sec)
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#35: [sofa (16)] sees 10131 (+843) 3D points
+Estimated Focal Length [432][0.67W]
+# 3267 projs (441 pts and 98 merges)
+SKIP: 0 cams, 4089 points, 13048 projs
+PBA: 17472 3D pts, 20 cams and 121198 projs...
+PBA: 0.296 -> 0.280 (5 LMs in 0.03sec)
+#points w/ large errors:	109
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+
+#############################
+#36: [sofa (17)] sees 9642 (+856) 3D points
+Estimated Focal Length [432][0.67W]
+# 3072 projs (362 pts and 96 merges)
+SKIP: 0 cams, 4564 points, 14929 projs
+PBA: 17171 3D pts, 20 cams and 122333 projs...
+PBA: 0.236 -> 0.215 (1 LMs in 0.01sec)
+#points w/ large errors:	28
+Focal Length : [431.910]->[431.910]
+Radial Distortion : [0.000 -> 0]
+END: No more images to add [0 projs]
+
+#############################
+Failed to find two images for initialization
+Resuming SfM finished, 4 sec used
+
+---------------------------------------------------
+36 cams, 21841 pts (3+: 14833)
+137030 projections (3+: 123010)
+---------------------------------------------------
+1 model(s) reconstructed from 36 images;
+36 modeled; 0 reused; 0 EXIF; 
+4MB(4) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 4 sec used
+2.6(2.0) seconds on Bundle Adjustment (+)
+1.9(1.5) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 4.000 seconds used
+
+
+Compute Bundle Adjustment, begin...
+PBA: 21654 3D pts, 36 cams and 136652 projs...
+PBA: 0.194 -> 0.193 (1 LMs in 0.11sec)
+----------------------------------------------------------------
+Compute Bundle Adjustment, finished
+Totally 0.000 seconds used
+
+
+Compute Bundle Adjustment, begin...
+PBA: 21654 3D pts, 36 cams and 136652 projs...
+PBA: 0.193 -> 0.193 (1 LMs in 0.06sec)
+----------------------------------------------------------------
+Compute Bundle Adjustment, finished
+Totally 0.000 seconds used
+
+Current view added to #20
+
+Compute Bundle Adjustment, begin...
+PBA: 21654 3D pts, 36 cams and 136652 projs...
+PBA: 0.193 -> 0.193 (1 LMs in 0.34sec)
+----------------------------------------------------------------
+Compute Bundle Adjustment, finished
+Totally 0.000 seconds used
+

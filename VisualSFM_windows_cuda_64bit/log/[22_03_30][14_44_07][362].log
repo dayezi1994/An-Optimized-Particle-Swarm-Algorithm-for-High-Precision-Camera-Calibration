@@ -1,0 +1,81 @@
+0: sofa (1) - 副本
+image_size:	640x480
+1: sofa (1)
+image_size:	640x480
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 112MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0000, 640x480, 	6790, 0.78sec
+SIFT: 0001, 640x480, 	6790, 0.10sec
+
+###########-------timing------#########
+2 Feature Detection finished, 2 sec used
+#############################
+
+1 pairs to compute match
+0000 and 0001: 6763 matches, 0.17sec, #0
+
+###########-------timing------#########
+1 Image Match finished, 0 sec used
+#############################
+
+0000 and 0001: [6763/6763], H[6763], 0.04sec
+
+###########-------timing------#########
+1 Putative Match finished, 0 sec used
+1 Geometric Verification finished, 0 sec used
+#############################
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 2.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+Set initialization pair for the next model:
+0[sofa (1) - 副本] and 1[sofa (1)]
+Number of putative matches = 6763
+Number of inlier matches = 6763
+Oops, two-View reconstruction is missing
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+1 pairs have fundamental matrices
+Using manually selected initialization pair
+Initialize with sof.. 副本 and sofa (1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+Set initialization pair for the next model:
+0[sofa (1) - 副本] and 1[sofa (1)]
+Number of putative matches = 6763
+Number of inlier matches = 6763
+Oops, two-View reconstruction is missing

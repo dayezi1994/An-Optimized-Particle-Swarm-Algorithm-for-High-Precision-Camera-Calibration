@@ -1,0 +1,323 @@
+0: sofa (1)
+image_size:	640x480
+#sift count:	6790
+
+1: sofa (1-1)
+image_size:	640x480
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 112MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0001, 640x480, 	6790, 0.78sec
+
+###########-------timing------#########
+1 Feature Detection finished, 1 sec used
+#############################
+
+1 pairs to compute match
+NOTE: using 2 matching workers
+0000 and 0001: 6763 matches, 0.20sec, #0
+0000 and 0001: [6763/6763], H[6763], 0.03sec
+
+###########-------timing------#########
+1 Image Match finished, 0 sec used
+#############################
+
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 1.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sofa (1) and sofa (1-1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sofa (1) and sofa (1-1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+PBA library version = 105
+Initialize with sofa (1) and sofa (1-1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+NOTE: 1 small models are deleted
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+0 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+Initialize with sofa (1) and sofa (1-1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+NOTE: 1 small models are deleted
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+0 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+Initialize with sofa (1) and sofa (1-1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+NOTE: 1 small models are deleted
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+0 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with sofa (1) and sofa (1-1)
+Failed to initialize with the chosen pair
+Failed to find two images for initialization
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+Set initialization pair for the next model:
+0[sofa (1)] and 1[sofa (1-1)]
+Number of putative matches = 6763
+Number of inlier matches = 6763
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Using manually selected initialization pair
+Initialize with sofa (1) and sofa (1-1)
+6759 3D points initialized from two images
+PBA: 6759 3D pts, 2 cams and 13518 projs...
+PBA: 0.000 -> 0.000 (1 LMs in 0.12sec)
+Focal Length : [768.000]->[768.000]
+Focal Length : [768.000]->[768.000]
+Failed to find two images for initialization
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+2 cams, 6760 pts (3+: 0)
+13518 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 0 sec used
+0.2(0.2) seconds on Bundle Adjustment (+)
+0.1(0.1) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+0: sofa (2)
+image_size:	640x480
+1: sofa (3)
+image_size:	640x480
+2: sofa (4)
+image_size:	640x480
+3: sofa (5)
+image_size:	640x480
+4: sofa (6)
+image_size:	640x480
+5: sofa (7)
+image_size:	640x480
+6: sofa (8)
+image_size:	640x480
+7: sofa (9)
+image_size:	640x480
+8: sofa (10)
+image_size:	640x480
+9: sofa (11)
+image_size:	640x480
+10: sofa (12)
+image_size:	640x480
+11: sofa (13)
+image_size:	640x480
+12: sofa (14)
+image_size:	640x480
+13: sofa (15)
+image_size:	640x480
+14: sofa (16)
+image_size:	640x480
+15: sofa (17)
+image_size:	640x480
+16: sofa (18)
+image_size:	640x480
+17: sofa (19)
+image_size:	640x480
+18: sofa (20)
+image_size:	640x480
+19: sofa (21)
+image_size:	640x480
+20: sofa (22)
+image_size:	640x480
+21: sofa (23)
+image_size:	640x480
+22: sofa (24)
+image_size:	640x480
+23: sofa (25)
+image_size:	640x480
+24: sofa (26)
+image_size:	640x480
+25: sofa (27)
+image_size:	640x480
+26: sofa (28)
+image_size:	640x480
+27: sofa (29)
+image_size:	640x480
+28: sofa (30)
+image_size:	640x480
+29: sofa (31)
+image_size:	640x480
+30: sofa (32)
+image_size:	640x480
+31: sofa (33)
+image_size:	640x480
+32: sofa (34)
+image_size:	640x480
+33: sofa (35)
+image_size:	640x480
+34: sofa (36)
+image_size:	640x480
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 6760 pts (3+: 0)
+13518 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 37 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, aborted
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 112MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0002, 640x480, 	5773, 0.77sec
+SIFT: 0003, 640x480, 	6075, 0.11sec
+SIFT: 0004, 640x480, 	6039, 0.11sec
+SIFT: 0005, 640x480, 	6673, 0.11sec
+SIFT: 0006, 640x480, 	6944, 0.12sec
+SIFT: 0007, 640x480, 	6873, 0.11sec
+SIFT: 0008, 640x480, 	7310, 0.11sec
+SIFT: 0009, 640x480, 	7012, 0.10sec
+SIFT: 0010, 640x480, 	7524, 0.12sec
+SIFT: 0011, 640x480, 	7182, 0.11sec
+SIFT: 0012, 640x480, 	7230, 0.13sec
+SIFT: 0013, 640x480, 	6760, 0.13sec
+SIFT: 0014, 640x480, 	6781, 0.13sec
+SIFT: 0015, 640x480, 	6984, 0.12sec
+SIFT: 0016, 640x480, 	5757, 0.11sec
+SIFT: 0017, 640x480, 	5542, 0.10sec
+SIFT: 0018, 640x480, 	6276, 0.11sec
+SIFT: 0019, 640x480, 	6305, 0.11sec
+SIFT: 0020, 640x480, 	6298, 0.11sec
+SIFT: 0021, 640x480, 	7233, 0.12sec
+SIFT: 0022, 640x480, 	6347, 0.11sec
+SIFT: 0023, 640x480, 	7496, 0.12sec
+SIFT: 0024, 640x480, 	7736, 0.12sec
+SIFT: 0025, 640x480, 	7802, 0.12sec
+SIFT: 0026, 640x480, 	7829, 0.12sec
+SIFT: 0027, 640x480, 	7759, 0.11sec
+SIFT: 0028, 640x480, 	7643, 0.12sec
+SIFT: 0029, 640x480, 	7114, 0.14sec
+SIFT: 0030, 640x480, 	7129, 0.13sec
+SIFT: 0031, 640x480, 	7109, 0.12sec
+SIFT: 0032, 640x480, 	7140, 0.11sec
+SIFT: 0033, 640x480, 	6879, 0.10sec
+SIFT: 0034, 640x480, 	6365, 0.10sec
+SIFT: 0035, 640x480, 	6685, 0.11sec
+SIFT: 0036, 640x480, 	6502, 0.10sec
+
+###########-------timing------#########
+35 Feature Detection finished, 5 sec used
+#############################
+
+665 pairs to compute match
+NOTE: using 3 matching workers
+0000 and 0004: 531 matches, 0.10sec, #1
+0001 and 0003: 1079 matches, 0.12sec, #2
+0000 and 0004: [396/531], H[137], 0.00sec
+0001 and 0003: [896/1079], H[194], 0.39sec
+0001 and 0004: 531 matches, 0.07sec, #1
+0001 and 0004: [438/531], H[143], 0.00sec
+0002 and 0003: 2128 matches, 0.08sec, #2
+0002 and 0003: [1937/2128], H[742], 0.01sec
+0002 and 0004: 1029 matches, 0.08sec, #1
+0002 and 0004: [898/1029], H[365], 0.37sec
+0002 and 0006: 519 matches, 0.42sec, #2
+0002 and 0006: [401/519], H[77], 0.00sec

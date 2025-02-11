@@ -1,0 +1,365 @@
+0: WIN_20220324_10_43_09_Pro
+image_size:	640x480
+#sift count:	7476
+
+1: WIN_20220324_10_43_11_Pro
+image_size:	640x480
+#sift count:	7778
+
+Loading image pixel data ...done in 0s
+
+Modifying Calibration, begin...
+fx = 432.324402, cx = 319.813385
+fy = 432.324402, cy = 242.546066
+radial_distortion = -0.362921
+----------------------------------------------------------------
+Modifying Calibration, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0001: [1313/1745], H[230], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with WIN..9_Pro and WIN..1_Pro
+1311 3D points initialized from two images
+PBA library version = 105
+PBA: 1311 3D pts, 2 cams and 2622 projs...
+PBA: 3.309 -> 0.053 (4 LMs in 0.10sec)
+Focal Length : [432.324]->[432.324]
+Focal Length : [432.324]->[432.324]
+Failed to find two images for initialization
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 0 sec used
+0.1(0.1) seconds on Bundle Adjustment (+)
+0.1(0.1) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, aborted
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, aborted
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, aborted
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, aborted
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, aborted
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, aborted
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, aborted
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+1 pairs have two-view models
+1 pairs have fundamental matrices
+Initialize with WIN..9_Pro and WIN..1_Pro
+1311 3D points initialized from two images
+PBA: 1311 3D pts, 2 cams and 2622 projs...
+PBA: 3.309 -> 0.053 (4 LMs in 0.09sec)
+Focal Length : [432.324]->[432.324]
+Focal Length : [432.324]->[432.324]
+Failed to find two images for initialization
+Resuming SfM finished, 0 sec used
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 0 sec used
+0.1(0.1) seconds on Bundle Adjustment (+)
+0.1(0.1) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+
+---------------------------------------------------
+2 cams, 1312 pts (3+: 0)
+2622 projections (3+: 0)
+---------------------------------------------------
+1 model(s) reconstructed from 2 images;
+2 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+0: WIN_20220324_10_43_14_Pro
+image_size:	640x480
+#sift count:	6981
+
+Loading image pixel data ...done in 0s
+
+Compute remaining photos, begin...
+
+#############################
+#3: [WIN..4_Pro] sees 481 (+689) 3D points
+Estimated Focal Length [432][0.68W]
+# 324 projs (0 pts and 0 merges)
+PBA: 1311 3D pts, 3 cams and 2946 projs...
+PBA: 2.275 -> 0.263 (33 LMs in 0.20sec)
+
+**************************************
+#3/3:  1917 projs and 759 pts added.
+PBA: 1991 3D pts, 3 cams and 4381 projs...
+PBA: 10.025 -> 3.174 (50 LMs in 0.15sec)
+PBA: 1991 3D pts, 3 cams and 4381 projs...
+PBA: 3.174 -> 2.853 (21 LMs in 0.12sec)
+Focal Length : [432.324]->[432.324]
+Radial Distortion : [-0.363 -> -64]
+END: No more images to add [0 projs]
+
+#############################
+0.5(0.5) seconds on Bundle Adjustment (+)
+0.5(0.5) seconds on Bundle Adjustment (*)
+
+---------------------------------------------------
+3 cams, 1992 pts (3+: 399)
+4381 projections (3+: 1197)
+---------------------------------------------------
+1 model(s) reconstructed from 3 images;
+3 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+0: WIN_20220324_10_43_16_Pro
+image_size:	640x480
+#sift count:	7787
+
+Loading image pixel data ...done in 0s
+
+Compute remaining photos, begin...
+
+#############################
+#4: [WIN..6_Pro] sees 956 (+808) 3D points
+Estimated Focal Length [432][0.68W]
+# 442 projs (0 pts and 0 merges)
+PBA: 1810 3D pts, 4 cams and 4461 projs...
+PBA: 6.201 -> 3.807 (18 LMs in 0.31sec)
+#points w/ large errors:	307
+Focal Length : [432.324]->[432.324]
+Radial Distortion : [-0.363 -> -64]
+END: No more images to add [0 projs]
+
+#############################
+0.3(0.3) seconds on Bundle Adjustment (+)
+0.3(0.3) seconds on Bundle Adjustment (*)
+
+---------------------------------------------------
+4 cams, 1992 pts (3+: 497)
+4807 projections (3+: 1734)
+---------------------------------------------------
+1 model(s) reconstructed from 4 images;
+4 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+0: WIN_20220324_10_43_18_Pro
+image_size:	640x480
+#sift count:	7715
+
+1: WIN_20220324_10_43_19_Pro
+image_size:	640x480
+#sift count:	7599
+
+Loading image pixel data ...done in 0s
+
+Compute remaining photos, begin...
+
+#############################
+#5: [WIN..8_Pro] sees 879 (+2183) 3D points
+Estimated Focal Length [432][0.68W]
+# 393 projs (0 pts and 0 merges)
+PBA: 1524 3D pts, 5 cams and 4181 projs...
+PBA: 5.589 -> 1.895 (20 LMs in 0.33sec)
+#points w/ large errors:	119
+
+**************************************
+#5/5:  6418 projs and 2659 pts added.
+PBA: 4047 3D pts, 5 cams and 9875 projs...
+PBA: 5.850 -> 1.767 (25 LMs in 0.26sec)
+#points w/ large errors:	56
+PBA: 3991 3D pts, 5 cams and 9759 projs...
+PBA: 1.697 -> 1.623 (50 LMs in 0.24sec)
+#points w/ large errors:	8
+Focal Length : [432.324]->[432.324]
+Radial Distortion : [-0.363 -> -64]
+
+#############################
+#6: [WIN..9_Pro] sees 3265 (+1733) 3D points
+Estimated Focal Length [432][0.68W]
+# 1467 projs (0 pts and 4 merges)
+PBA: 3748 3D pts, 6 cams and 10744 projs...
+PBA: 5.233 -> 2.195 (100 LMs in 0.74sec)
+#points w/ large errors:	210
+Focal Length : [432.324]->[432.324]
+Radial Distortion : [-0.363 -> -64]
+END: No more images to add [0 projs]
+
+#############################
+1.6(1.6) seconds on Bundle Adjustment (+)
+1.6(1.6) seconds on Bundle Adjustment (*)
+
+---------------------------------------------------
+6 cams, 4048 pts (3+: 1708)
+11196 projections (3+: 6427)
+---------------------------------------------------
+1 model(s) reconstructed from 6 images;
+6 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 2.000 seconds used
+

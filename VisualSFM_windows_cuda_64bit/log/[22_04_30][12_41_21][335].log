@@ -1,0 +1,2074 @@
+0: sofa (1)
+image_size:	640x480
+1: sofa (2)
+image_size:	640x480
+2: sofa (3)
+image_size:	640x480
+3: sofa (4)
+image_size:	640x480
+4: sofa (5)
+image_size:	640x480
+5: sofa (6)
+image_size:	640x480
+6: sofa (7)
+image_size:	640x480
+7: sofa (8)
+image_size:	640x480
+8: sofa (9)
+image_size:	640x480
+9: sofa (10)
+image_size:	640x480
+10: sofa (11)
+image_size:	640x480
+11: sofa (12)
+image_size:	640x480
+12: sofa (13)
+image_size:	640x480
+13: sofa (14)
+image_size:	640x480
+14: sofa (15)
+image_size:	640x480
+15: sofa (16)
+image_size:	640x480
+16: sofa (17)
+image_size:	640x480
+17: sofa (18)
+image_size:	640x480
+18: sofa (19)
+image_size:	640x480
+19: sofa (20)
+image_size:	640x480
+20: sofa (21)
+image_size:	640x480
+21: sofa (22)
+image_size:	640x480
+22: sofa (23)
+image_size:	640x480
+23: sofa (24)
+image_size:	640x480
+24: sofa (25)
+image_size:	640x480
+25: sofa (26)
+image_size:	640x480
+26: sofa (27)
+image_size:	640x480
+27: sofa (28)
+image_size:	640x480
+28: sofa (29)
+image_size:	640x480
+29: sofa (30)
+image_size:	640x480
+30: sofa (31)
+image_size:	640x480
+31: sofa (32)
+image_size:	640x480
+32: sofa (33)
+image_size:	640x480
+33: sofa (34)
+image_size:	640x480
+34: sofa (35)
+image_size:	640x480
+35: sofa (36)
+image_size:	640x480
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+
+Modifying Calibration, begin...
+fx = 426.169830, cx = 318.996307
+fy = 426.169830, cy = 242.324814
+radial_distortion = 0.000000
+----------------------------------------------------------------
+Modifying Calibration, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 112MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0000, 640x480, 	6664, 0.85sec
+SIFT: 0001, 640x480, 	5696, 0.10sec
+SIFT: 0002, 640x480, 	5951, 0.11sec
+SIFT: 0003, 640x480, 	5999, 0.11sec
+SIFT: 0004, 640x480, 	6632, 0.12sec
+SIFT: 0005, 640x480, 	6913, 0.12sec
+SIFT: 0006, 640x480, 	6834, 0.12sec
+SIFT: 0007, 640x480, 	7240, 0.11sec
+SIFT: 0008, 640x480, 	7020, 0.11sec
+SIFT: 0009, 640x480, 	7379, 0.12sec
+SIFT: 0010, 640x480, 	7142, 0.16sec
+SIFT: 0011, 640x480, 	7255, 0.13sec
+SIFT: 0012, 640x480, 	6690, 0.11sec
+SIFT: 0013, 640x480, 	6690, 0.11sec
+SIFT: 0014, 640x480, 	6926, 0.12sec
+SIFT: 0015, 640x480, 	5770, 0.10sec
+SIFT: 0016, 640x480, 	5593, 0.10sec
+SIFT: 0017, 640x480, 	6265, 0.11sec
+SIFT: 0018, 640x480, 	6271, 0.11sec
+SIFT: 0019, 640x480, 	6218, 0.11sec
+SIFT: 0020, 640x480, 	7251, 0.11sec
+SIFT: 0021, 640x480, 	6396, 0.11sec
+SIFT: 0022, 640x480, 	7418, 0.12sec
+SIFT: 0023, 640x480, 	7675, 0.12sec
+SIFT: 0024, 640x480, 	7731, 0.11sec
+SIFT: 0025, 640x480, 	7784, 0.12sec
+SIFT: 0026, 640x480, 	7769, 0.17sec
+SIFT: 0027, 640x480, 	7650, 0.14sec
+SIFT: 0028, 640x480, 	7101, 0.13sec
+SIFT: 0029, 640x480, 	6961, 0.11sec
+SIFT: 0030, 640x480, 	7015, 0.13sec
+SIFT: 0031, 640x480, 	7128, 0.12sec
+SIFT: 0032, 640x480, 	6763, 0.11sec
+SIFT: 0033, 640x480, 	6280, 0.11sec
+SIFT: 0034, 640x480, 	6642, 0.11sec
+SIFT: 0035, 640x480, 	6419, 0.10sec
+
+###########-------timing------#########
+36 Feature Detection finished, 5 sec used
+#############################
+
+630 pairs to compute match
+0000 and 0001: 1338 matches, 0.19sec, #0
+0000 and 0002: 1039 matches, 0.08sec, #0
+0001 and 0002: 2078 matches, 0.07sec, #0
+0000 and 0003: 532 matches, 0.07sec, #0
+0001 and 0003: 1050 matches, 0.07sec, #0
+0002 and 0003: 1719 matches, 0.07sec, #0
+0000 and 0004: 532 matches, 0.09sec, #0
+0001 and 0004: 927 matches, 0.07sec, #0
+0002 and 0004: 1457 matches, 0.07sec, #0
+0003 and 0004: 2078 matches, 0.08sec, #0
+0000 and 0005: 334 matches, 0.09sec, #0
+0001 and 0005: 497 matches, 0.08sec, #0
+0002 and 0005: 837 matches, 0.08sec, #0
+0003 and 0005: 1168 matches, 0.08sec, #0
+0004 and 0005: 2166 matches, 0.09sec, #0
+0000 and 0006: 206 matches, 0.08sec, #0
+0001 and 0006: 320 matches, 0.07sec, #0
+0002 and 0006: 476 matches, 0.07sec, #0
+0003 and 0006: 814 matches, 0.08sec, #0
+0004 and 0006: 1207 matches, 0.08sec, #0
+0005 and 0006: 2400 matches, 0.09sec, #0
+0000 and 0007: 246 matches, 0.09sec, #0
+0001 and 0007: 288 matches, 0.08sec, #0
+0002 and 0007: 443 matches, 0.08sec, #0
+0003 and 0007: 759 matches, 0.08sec, #0
+0004 and 0007: 1173 matches, 0.09sec, #0
+0005 and 0007: 2219 matches, 0.09sec, #0
+0006 and 0007: 2470 matches, 0.09sec, #0
+0000 and 0008: 195 matches, 0.09sec, #0
+0001 and 0008: 227 matches, 0.08sec, #0
+0002 and 0008: 357 matches, 0.08sec, #0
+0003 and 0008: 611 matches, 0.08sec, #0
+0004 and 0008: 895 matches, 0.09sec, #0
+0005 and 0008: 1622 matches, 0.09sec, #0
+0006 and 0008: 1885 matches, 0.09sec, #0
+0007 and 0008: 2797 matches, 0.10sec, #0
+0000 and 0009: 171 matches, 0.09sec, #0
+0001 and 0009: 198 matches, 0.08sec, #0
+0002 and 0009: 247 matches, 0.08sec, #0
+0003 and 0009: 338 matches, 0.08sec, #0
+0004 and 0009: 516 matches, 0.09sec, #0
+0005 and 0009: 1038 matches, 0.09sec, #0
+0006 and 0009: 1355 matches, 0.09sec, #0
+0007 and 0009: 2176 matches, 0.10sec, #0
+0008 and 0009: 2455 matches, 0.09sec, #0
+0000 and 0010: 110 matches, 0.09sec, #0
+0001 and 0010: 127 matches, 0.08sec, #0
+0002 and 0010: 127 matches, 0.08sec, #0
+0003 and 0010: 207 matches, 0.08sec, #0
+0004 and 0010: 239 matches, 0.09sec, #0
+0005 and 0010: 440 matches, 0.09sec, #0
+0006 and 0010: 755 matches, 0.09sec, #0
+0007 and 0010: 940 matches, 0.09sec, #0
+0008 and 0010: 1072 matches, 0.09sec, #0
+0009 and 0010: 2146 matches, 0.09sec, #0
+0000 and 0011: 128 matches, 0.09sec, #0
+0001 and 0011: 128 matches, 0.08sec, #0
+0002 and 0011: 181 matches, 0.08sec, #0
+0003 and 0011: 236 matches, 0.09sec, #0
+0004 and 0011: 289 matches, 0.10sec, #0
+0005 and 0011: 456 matches, 0.09sec, #0
+0006 and 0011: 591 matches, 0.09sec, #0
+0007 and 0011: 800 matches, 0.10sec, #0
+0008 and 0011: 1027 matches, 0.09sec, #0
+0009 and 0011: 1648 matches, 0.10sec, #0
+0010 and 0011: 2703 matches, 0.09sec, #0
+0000 and 0012: 81 matches, 0.08sec, #0
+0001 and 0012: 98 matches, 0.07sec, #0
+0002 and 0012: 111 matches, 0.07sec, #0
+0003 and 0012: 139 matches, 0.07sec, #0
+0004 and 0012: 144 matches, 0.08sec, #0
+0005 and 0012: 226 matches, 0.08sec, #0
+0006 and 0012: 321 matches, 0.08sec, #0
+0007 and 0012: 378 matches, 0.09sec, #0
+0008 and 0012: 482 matches, 0.09sec, #0
+0009 and 0012: 775 matches, 0.09sec, #0
+0010 and 0012: 1349 matches, 0.09sec, #0
+0011 and 0012: 1790 matches, 0.09sec, #0
+0000 and 0013: 81 matches, 0.08sec, #0
+0001 and 0013: 97 matches, 0.07sec, #0
+0002 and 0013: 110 matches, 0.07sec, #0
+0003 and 0013: 120 matches, 0.07sec, #0
+0004 and 0013: 136 matches, 0.08sec, #0
+0005 and 0013: 196 matches, 0.08sec, #0
+0006 and 0013: 209 matches, 0.09sec, #0
+0007 and 0013: 310 matches, 0.09sec, #0
+0008 and 0013: 399 matches, 0.08sec, #0
+0009 and 0013: 696 matches, 0.09sec, #0
+0010 and 0013: 904 matches, 0.09sec, #0
+0011 and 0013: 1356 matches, 0.09sec, #0
+0012 and 0013: 1865 matches, 0.08sec, #0
+0000 and 0014: 103 matches, 0.09sec, #0
+0001 and 0014: 98 matches, 0.08sec, #0
+0002 and 0014: 100 matches, 0.08sec, #0
+0003 and 0014: 121 matches, 0.08sec, #0
+0004 and 0014: 156 matches, 0.09sec, #0
+0005 and 0014: 213 matches, 0.08sec, #0
+0006 and 0014: 245 matches, 0.09sec, #0
+0007 and 0014: 349 matches, 0.09sec, #0
+0008 and 0014: 426 matches, 0.09sec, #0
+0009 and 0014: 759 matches, 0.09sec, #0
+0010 and 0014: 1096 matches, 0.09sec, #0
+0011 and 0014: 1637 matches, 0.09sec, #0
+0012 and 0014: 1703 matches, 0.08sec, #0
+0013 and 0014: 2285 matches, 0.09sec, #0
+0000 and 0015: 39 matches, 0.07sec, #0
+0001 and 0015: 41 matches, 0.06sec, #0
+0002 and 0015: 57 matches, 0.06sec, #0
+0003 and 0015: 55 matches, 0.07sec, #0
+0004 and 0015: 67 matches, 0.07sec, #0
+0005 and 0015: 98 matches, 0.08sec, #0
+0006 and 0015: 133 matches, 0.07sec, #0
+0007 and 0015: 157 matches, 0.08sec, #0
+0008 and 0015: 197 matches, 0.07sec, #0
+0009 and 0015: 318 matches, 0.08sec, #0
+0010 and 0015: 509 matches, 0.08sec, #0
+0011 and 0015: 646 matches, 0.08sec, #0
+0012 and 0015: 1346 matches, 0.07sec, #0
+0013 and 0015: 1430 matches, 0.07sec, #0
+0014 and 0015: 1576 matches, 0.07sec, #0
+0000 and 0016: 43 matches, 0.07sec, #0
+0001 and 0016: 44 matches, 0.06sec, #0
+0002 and 0016: 42 matches, 0.07sec, #0
+0003 and 0016: 55 matches, 0.07sec, #0
+0004 and 0016: 68 matches, 0.07sec, #0
+0005 and 0016: 85 matches, 0.07sec, #0
+0006 and 0016: 125 matches, 0.07sec, #0
+0007 and 0016: 146 matches, 0.09sec, #0
+0008 and 0016: 152 matches, 0.08sec, #0
+0009 and 0016: 282 matches, 0.09sec, #0
+0010 and 0016: 487 matches, 0.08sec, #0
+0011 and 0016: 645 matches, 0.08sec, #0
+0012 and 0016: 1036 matches, 0.07sec, #0
+0013 and 0016: 1010 matches, 0.07sec, #0
+0014 and 0016: 1220 matches, 0.07sec, #0
+0015 and 0016: 1901 matches, 0.06sec, #0
+0000 and 0017: 59 matches, 0.08sec, #0
+0001 and 0017: 78 matches, 0.06sec, #0
+0002 and 0017: 81 matches, 0.07sec, #0
+0003 and 0017: 82 matches, 0.07sec, #0
+0004 and 0017: 116 matches, 0.08sec, #0
+0005 and 0017: 187 matches, 0.08sec, #0
+0006 and 0017: 243 matches, 0.08sec, #0
+0007 and 0017: 314 matches, 0.08sec, #0
+0008 and 0017: 304 matches, 0.08sec, #0
+0009 and 0017: 652 matches, 0.09sec, #0
+0010 and 0017: 1001 matches, 0.08sec, #0
+0011 and 0017: 1036 matches, 0.08sec, #0
+0012 and 0017: 1161 matches, 0.08sec, #0
+0013 and 0017: 1036 matches, 0.08sec, #0
+0014 and 0017: 1770 matches, 0.08sec, #0
+0015 and 0017: 1142 matches, 0.07sec, #0
+0016 and 0017: 1047 matches, 0.07sec, #0
+0000 and 0018: 74 matches, 0.07sec, #0
+0001 and 0018: 81 matches, 0.07sec, #0
+0002 and 0018: 75 matches, 0.07sec, #0
+0003 and 0018: 87 matches, 0.07sec, #0
+0004 and 0018: 132 matches, 0.08sec, #0
+0005 and 0018: 170 matches, 0.08sec, #0
+0006 and 0018: 205 matches, 0.08sec, #0
+0007 and 0018: 264 matches, 0.08sec, #0
+0008 and 0018: 326 matches, 0.08sec, #0
+0009 and 0018: 592 matches, 0.09sec, #0
+0010 and 0018: 901 matches, 0.08sec, #0
+0011 and 0018: 1025 matches, 0.08sec, #0
+0012 and 0018: 1059 matches, 0.07sec, #0
+0013 and 0018: 1352 matches, 0.08sec, #0
+0014 and 0018: 2070 matches, 0.08sec, #0
+0015 and 0018: 1476 matches, 0.07sec, #0
+0016 and 0018: 1161 matches, 0.07sec, #0
+0017 and 0018: 2469 matches, 0.07sec, #0
+0000 and 0019: 62 matches, 0.08sec, #0
+0001 and 0019: 58 matches, 0.07sec, #0
+0002 and 0019: 55 matches, 0.07sec, #0
+0003 and 0019: 97 matches, 0.07sec, #0
+0004 and 0019: 106 matches, 0.08sec, #0
+0005 and 0019: 127 matches, 0.08sec, #0
+0006 and 0019: 199 matches, 0.08sec, #0
+0007 and 0019: 249 matches, 0.08sec, #0
+0008 and 0019: 253 matches, 0.08sec, #0
+0009 and 0019: 473 matches, 0.09sec, #0
+0010 and 0019: 965 matches, 0.08sec, #0
+0011 and 0019: 736 matches, 0.09sec, #0
+0012 and 0019: 690 matches, 0.08sec, #0
+0013 and 0019: 485 matches, 0.08sec, #0
+0014 and 0019: 745 matches, 0.08sec, #0
+0015 and 0019: 614 matches, 0.07sec, #0
+0016 and 0019: 594 matches, 0.06sec, #0
+0017 and 0019: 1392 matches, 0.07sec, #0
+0018 and 0019: 1080 matches, 0.07sec, #0
+0000 and 0020: 107 matches, 0.09sec, #0
+0001 and 0020: 126 matches, 0.08sec, #0
+0002 and 0020: 134 matches, 0.08sec, #0
+0003 and 0020: 189 matches, 0.08sec, #0
+0004 and 0020: 267 matches, 0.09sec, #0
+0005 and 0020: 445 matches, 0.09sec, #0
+0006 and 0020: 458 matches, 0.09sec, #0
+0007 and 0020: 736 matches, 0.09sec, #0
+0008 and 0020: 748 matches, 0.09sec, #0
+0009 and 0020: 1127 matches, 0.10sec, #0
+0010 and 0020: 916 matches, 0.09sec, #0
+0011 and 0020: 857 matches, 0.09sec, #0
+0012 and 0020: 599 matches, 0.09sec, #0
+0013 and 0020: 630 matches, 0.10sec, #0
+0014 and 0020: 795 matches, 0.10sec, #0
+0015 and 0020: 472 matches, 0.07sec, #0
+0016 and 0020: 414 matches, 0.07sec, #0
+0017 and 0020: 959 matches, 0.08sec, #0
+0018 and 0020: 875 matches, 0.09sec, #0
+0019 and 0020: 1417 matches, 0.09sec, #0
+0000 and 0021: 66 matches, 0.08sec, #0
+0001 and 0021: 76 matches, 0.07sec, #0
+0002 and 0021: 73 matches, 0.07sec, #0
+0003 and 0021: 112 matches, 0.07sec, #0
+0004 and 0021: 131 matches, 0.08sec, #0
+0005 and 0021: 207 matches, 0.09sec, #0
+0006 and 0021: 202 matches, 0.08sec, #0
+0007 and 0021: 333 matches, 0.09sec, #0
+0008 and 0021: 401 matches, 0.08sec, #0
+0009 and 0021: 527 matches, 0.09sec, #0
+0010 and 0021: 553 matches, 0.09sec, #0
+0011 and 0021: 442 matches, 0.08sec, #0
+0012 and 0021: 448 matches, 0.08sec, #0
+0013 and 0021: 447 matches, 0.08sec, #0
+0014 and 0021: 518 matches, 0.08sec, #0
+0015 and 0021: 522 matches, 0.07sec, #0
+0016 and 0021: 318 matches, 0.07sec, #0
+0017 and 0021: 820 matches, 0.07sec, #0
+0018 and 0021: 850 matches, 0.07sec, #0
+0019 and 0021: 1345 matches, 0.07sec, #0
+0020 and 0021: 1902 matches, 0.09sec, #0
+0000 and 0022: 121 matches, 0.09sec, #0
+0001 and 0022: 157 matches, 0.08sec, #0
+0002 and 0022: 156 matches, 0.08sec, #0
+0003 and 0022: 264 matches, 0.09sec, #0
+0004 and 0022: 333 matches, 0.09sec, #0
+0005 and 0022: 460 matches, 0.09sec, #0
+0006 and 0022: 420 matches, 0.09sec, #0
+0007 and 0022: 719 matches, 0.10sec, #0
+0008 and 0022: 722 matches, 0.09sec, #0
+0009 and 0022: 836 matches, 0.10sec, #0
+0010 and 0022: 636 matches, 0.10sec, #0
+0011 and 0022: 636 matches, 0.09sec, #0
+0012 and 0022: 398 matches, 0.10sec, #0
+0013 and 0022: 452 matches, 0.09sec, #0
+0014 and 0022: 511 matches, 0.09sec, #0
+0015 and 0022: 341 matches, 0.08sec, #0
+0016 and 0022: 253 matches, 0.08sec, #0
+0017 and 0022: 507 matches, 0.09sec, #0
+0018 and 0022: 558 matches, 0.09sec, #0
+0019 and 0022: 978 matches, 0.08sec, #0
+0020 and 0022: 2576 matches, 0.10sec, #0
+0021 and 0022: 1774 matches, 0.09sec, #0
+0000 and 0023: 167 matches, 0.10sec, #0
+0001 and 0023: 207 matches, 0.08sec, #0
+0002 and 0023: 241 matches, 0.08sec, #0
+0003 and 0023: 370 matches, 0.08sec, #0
+0004 and 0023: 487 matches, 0.09sec, #0
+0005 and 0023: 740 matches, 0.09sec, #0
+0006 and 0023: 673 matches, 0.10sec, #0
+0007 and 0023: 957 matches, 0.10sec, #0
+0008 and 0023: 842 matches, 0.10sec, #0
+0009 and 0023: 962 matches, 0.10sec, #0
+0010 and 0023: 708 matches, 0.10sec, #0
+0011 and 0023: 746 matches, 0.10sec, #0
+0012 and 0023: 401 matches, 0.10sec, #0
+0013 and 0023: 419 matches, 0.09sec, #0
+0014 and 0023: 505 matches, 0.10sec, #0
+0015 and 0023: 297 matches, 0.08sec, #0
+0016 and 0023: 255 matches, 0.08sec, #0
+0017 and 0023: 495 matches, 0.09sec, #0
+0018 and 0023: 542 matches, 0.10sec, #0
+0019 and 0023: 763 matches, 0.09sec, #0
+0020 and 0023: 2477 matches, 0.10sec, #0
+0021 and 0023: 1158 matches, 0.09sec, #0
+0022 and 0023: 3094 matches, 0.10sec, #0
+0000 and 0024: 227 matches, 0.10sec, #0
+0001 and 0024: 334 matches, 0.09sec, #0
+0002 and 0024: 454 matches, 0.09sec, #0
+0003 and 0024: 540 matches, 0.09sec, #0
+0004 and 0024: 767 matches, 0.09sec, #0
+0005 and 0024: 893 matches, 0.10sec, #0
+0006 and 0024: 851 matches, 0.10sec, #0
+0007 and 0024: 947 matches, 0.10sec, #0
+0008 and 0024: 712 matches, 0.10sec, #0
+0009 and 0024: 722 matches, 0.10sec, #0
+0010 and 0024: 582 matches, 0.10sec, #0
+0011 and 0024: 646 matches, 0.10sec, #0
+0012 and 0024: 359 matches, 0.10sec, #0
+0013 and 0024: 276 matches, 0.10sec, #0
+0014 and 0024: 355 matches, 0.10sec, #0
+0015 and 0024: 199 matches, 0.09sec, #0
+0016 and 0024: 167 matches, 0.08sec, #0
+0017 and 0024: 326 matches, 0.09sec, #0
+0018 and 0024: 340 matches, 0.09sec, #0
+0019 and 0024: 477 matches, 0.09sec, #0
+0020 and 0024: 1368 matches, 0.10sec, #0
+0021 and 0024: 651 matches, 0.09sec, #0
+0022 and 0024: 1813 matches, 0.10sec, #0
+0023 and 0024: 2928 matches, 0.10sec, #0
+0000 and 0025: 205 matches, 0.09sec, #0
+0001 and 0025: 291 matches, 0.08sec, #0
+0002 and 0025: 394 matches, 0.09sec, #0
+0003 and 0025: 509 matches, 0.09sec, #0
+0004 and 0025: 674 matches, 0.09sec, #0
+0005 and 0025: 864 matches, 0.10sec, #0
+0006 and 0025: 835 matches, 0.10sec, #0
+0007 and 0025: 1011 matches, 0.10sec, #0
+0008 and 0025: 772 matches, 0.10sec, #0
+0009 and 0025: 805 matches, 0.10sec, #0
+0010 and 0025: 653 matches, 0.10sec, #0
+0011 and 0025: 694 matches, 0.10sec, #0
+0012 and 0025: 369 matches, 0.10sec, #0
+0013 and 0025: 311 matches, 0.10sec, #0
+0014 and 0025: 417 matches, 0.10sec, #0
+0015 and 0025: 223 matches, 0.08sec, #0
+0016 and 0025: 215 matches, 0.08sec, #0
+0017 and 0025: 402 matches, 0.09sec, #0
+0018 and 0025: 376 matches, 0.09sec, #0
+0019 and 0025: 548 matches, 0.09sec, #0
+0020 and 0025: 1571 matches, 0.10sec, #0
+0021 and 0025: 715 matches, 0.09sec, #0
+0022 and 0025: 2148 matches, 0.11sec, #0
+0023 and 0025: 3282 matches, 0.10sec, #0
+0024 and 0025: 3996 matches, 0.11sec, #0
+0000 and 0026: 225 matches, 0.10sec, #0
+0001 and 0026: 347 matches, 0.09sec, #0
+0002 and 0026: 495 matches, 0.09sec, #0
+0003 and 0026: 568 matches, 0.09sec, #0
+0004 and 0026: 765 matches, 0.10sec, #0
+0005 and 0026: 919 matches, 0.10sec, #0
+0006 and 0026: 905 matches, 0.10sec, #0
+0007 and 0026: 986 matches, 0.10sec, #0
+0008 and 0026: 698 matches, 0.10sec, #0
+0009 and 0026: 761 matches, 0.10sec, #0
+0010 and 0026: 580 matches, 0.10sec, #0
+0011 and 0026: 568 matches, 0.10sec, #0
+0012 and 0026: 290 matches, 0.10sec, #0
+0013 and 0026: 249 matches, 0.10sec, #0
+0014 and 0026: 325 matches, 0.10sec, #0
+0015 and 0026: 175 matches, 0.08sec, #0
+0016 and 0026: 166 matches, 0.08sec, #0
+0017 and 0026: 316 matches, 0.09sec, #0
+0018 and 0026: 301 matches, 0.09sec, #0
+0019 and 0026: 460 matches, 0.09sec, #0
+0020 and 0026: 1315 matches, 0.10sec, #0
+0021 and 0026: 604 matches, 0.09sec, #0
+0022 and 0026: 1705 matches, 0.11sec, #0
+0023 and 0026: 2725 matches, 0.11sec, #0
+0024 and 0026: 4095 matches, 0.10sec, #0
+0025 and 0026: 3757 matches, 0.11sec, #0
+0000 and 0027: 294 matches, 0.09sec, #0
+0001 and 0027: 396 matches, 0.08sec, #0
+0002 and 0027: 467 matches, 0.08sec, #0
+0003 and 0027: 620 matches, 0.09sec, #0
+0004 and 0027: 648 matches, 0.09sec, #0
+0005 and 0027: 738 matches, 0.09sec, #0
+0006 and 0027: 815 matches, 0.10sec, #0
+0007 and 0027: 740 matches, 0.10sec, #0
+0008 and 0027: 522 matches, 0.10sec, #0
+0009 and 0027: 497 matches, 0.10sec, #0
+0010 and 0027: 471 matches, 0.10sec, #0
+0011 and 0027: 403 matches, 0.10sec, #0
+0012 and 0027: 272 matches, 0.10sec, #0
+0013 and 0027: 178 matches, 0.10sec, #0
+0014 and 0027: 223 matches, 0.10sec, #0
+0015 and 0027: 134 matches, 0.08sec, #0
+0016 and 0027: 131 matches, 0.08sec, #0
+0017 and 0027: 221 matches, 0.09sec, #0
+0018 and 0027: 213 matches, 0.09sec, #0
+0019 and 0027: 343 matches, 0.09sec, #0
+0020 and 0027: 830 matches, 0.10sec, #0
+0021 and 0027: 397 matches, 0.09sec, #0
+0022 and 0027: 1088 matches, 0.10sec, #0
+0023 and 0027: 1634 matches, 0.10sec, #0
+0024 and 0027: 2511 matches, 0.10sec, #0
+0025 and 0027: 2244 matches, 0.10sec, #0
+0026 and 0027: 2780 matches, 0.11sec, #0
+0000 and 0028: 188 matches, 0.09sec, #0
+0001 and 0028: 251 matches, 0.07sec, #0
+0002 and 0028: 342 matches, 0.08sec, #0
+0003 and 0028: 457 matches, 0.08sec, #0
+0004 and 0028: 482 matches, 0.09sec, #0
+0005 and 0028: 558 matches, 0.08sec, #0
+0006 and 0028: 599 matches, 0.09sec, #0
+0007 and 0028: 508 matches, 0.09sec, #0
+0008 and 0028: 386 matches, 0.09sec, #0
+0009 and 0028: 376 matches, 0.09sec, #0
+0010 and 0028: 425 matches, 0.09sec, #0
+0011 and 0028: 456 matches, 0.09sec, #0
+0012 and 0028: 295 matches, 0.09sec, #0
+0013 and 0028: 203 matches, 0.10sec, #0
+0014 and 0028: 243 matches, 0.09sec, #0
+0015 and 0028: 204 matches, 0.08sec, #0
+0016 and 0028: 203 matches, 0.08sec, #0
+0017 and 0028: 196 matches, 0.08sec, #0
+0018 and 0028: 210 matches, 0.08sec, #0
+0019 and 0028: 345 matches, 0.09sec, #0
+0020 and 0028: 629 matches, 0.09sec, #0
+0021 and 0028: 365 matches, 0.09sec, #0
+0022 and 0028: 871 matches, 0.10sec, #0
+0023 and 0028: 1352 matches, 0.10sec, #0
+0024 and 0028: 2177 matches, 0.10sec, #0
+0025 and 0028: 1928 matches, 0.10sec, #0
+0026 and 0028: 2260 matches, 0.10sec, #0
+0027 and 0028: 2331 matches, 0.10sec, #0
+0000 and 0029: 232 matches, 0.08sec, #0
+0001 and 0029: 385 matches, 0.08sec, #0
+0002 and 0029: 543 matches, 0.08sec, #0
+0003 and 0029: 795 matches, 0.08sec, #0
+0004 and 0029: 749 matches, 0.09sec, #0
+0005 and 0029: 664 matches, 0.09sec, #0
+0006 and 0029: 649 matches, 0.09sec, #0
+0007 and 0029: 501 matches, 0.09sec, #0
+0008 and 0029: 420 matches, 0.09sec, #0
+0009 and 0029: 287 matches, 0.09sec, #0
+0010 and 0029: 350 matches, 0.09sec, #0
+0011 and 0029: 261 matches, 0.09sec, #0
+0012 and 0029: 209 matches, 0.08sec, #0
+0013 and 0029: 127 matches, 0.09sec, #0
+0014 and 0029: 149 matches, 0.09sec, #0
+0015 and 0029: 97 matches, 0.08sec, #0
+0016 and 0029: 81 matches, 0.07sec, #0
+0017 and 0029: 109 matches, 0.08sec, #0
+0018 and 0029: 110 matches, 0.08sec, #0
+0019 and 0029: 176 matches, 0.08sec, #0
+0020 and 0029: 295 matches, 0.09sec, #0
+0021 and 0029: 204 matches, 0.08sec, #0
+0022 and 0029: 472 matches, 0.09sec, #0
+0023 and 0029: 519 matches, 0.09sec, #0
+0024 and 0029: 822 matches, 0.10sec, #0
+0025 and 0029: 741 matches, 0.10sec, #0
+0026 and 0029: 888 matches, 0.10sec, #0
+0027 and 0029: 1585 matches, 0.10sec, #0
+0028 and 0029: 877 matches, 0.09sec, #0
+0000 and 0030: 365 matches, 0.09sec, #0
+0001 and 0030: 652 matches, 0.08sec, #0
+0002 and 0030: 823 matches, 0.08sec, #0
+0003 and 0030: 811 matches, 0.08sec, #0
+0004 and 0030: 743 matches, 0.09sec, #0
+0005 and 0030: 540 matches, 0.09sec, #0
+0006 and 0030: 403 matches, 0.09sec, #0
+0007 and 0030: 396 matches, 0.09sec, #0
+0008 and 0030: 287 matches, 0.09sec, #0
+0009 and 0030: 241 matches, 0.09sec, #0
+0010 and 0030: 207 matches, 0.09sec, #0
+0011 and 0030: 242 matches, 0.09sec, #0
+0012 and 0030: 168 matches, 0.09sec, #0
+0013 and 0030: 152 matches, 0.09sec, #0
+0014 and 0030: 137 matches, 0.09sec, #0
+0015 and 0030: 114 matches, 0.07sec, #0
+0016 and 0030: 105 matches, 0.07sec, #0
+0017 and 0030: 101 matches, 0.08sec, #0
+0018 and 0030: 117 matches, 0.08sec, #0
+0019 and 0030: 124 matches, 0.08sec, #0
+0020 and 0030: 235 matches, 0.09sec, #0
+0021 and 0030: 150 matches, 0.08sec, #0
+0022 and 0030: 312 matches, 0.09sec, #0
+0023 and 0030: 446 matches, 0.10sec, #0
+0024 and 0030: 759 matches, 0.10sec, #0
+0025 and 0030: 610 matches, 0.10sec, #0
+0026 and 0030: 753 matches, 0.10sec, #0
+0027 and 0030: 1113 matches, 0.10sec, #0
+0028 and 0030: 1272 matches, 0.09sec, #0
+0029 and 0030: 1213 matches, 0.09sec, #0
+0000 and 0031: 705 matches, 0.09sec, #0
+0001 and 0031: 1139 matches, 0.08sec, #0
+0002 and 0031: 1373 matches, 0.08sec, #0
+0003 and 0031: 1561 matches, 0.08sec, #0
+0004 and 0031: 1543 matches, 0.09sec, #0
+0005 and 0031: 1050 matches, 0.09sec, #0
+0006 and 0031: 825 matches, 0.09sec, #0
+0007 and 0031: 611 matches, 0.09sec, #0
+0008 and 0031: 470 matches, 0.09sec, #0
+0009 and 0031: 353 matches, 0.09sec, #0
+0010 and 0031: 229 matches, 0.09sec, #0
+0011 and 0031: 223 matches, 0.09sec, #0
+0012 and 0031: 164 matches, 0.09sec, #0
+0013 and 0031: 143 matches, 0.10sec, #0
+0014 and 0031: 145 matches, 0.09sec, #0
+0015 and 0031: 79 matches, 0.08sec, #0
+0016 and 0031: 73 matches, 0.08sec, #0
+0017 and 0031: 105 matches, 0.08sec, #0
+0018 and 0031: 115 matches, 0.08sec, #0
+0019 and 0031: 114 matches, 0.08sec, #0
+0020 and 0031: 254 matches, 0.09sec, #0
+0021 and 0031: 130 matches, 0.09sec, #0
+0022 and 0031: 345 matches, 0.10sec, #0
+0023 and 0031: 435 matches, 0.10sec, #0
+0024 and 0031: 682 matches, 0.10sec, #0
+0025 and 0031: 597 matches, 0.10sec, #0
+0026 and 0031: 719 matches, 0.10sec, #0
+0027 and 0031: 953 matches, 0.10sec, #0
+0028 and 0031: 538 matches, 0.09sec, #0
+0029 and 0031: 1093 matches, 0.09sec, #0
+0030 and 0031: 1460 matches, 0.09sec, #0
+0000 and 0032: 1009 matches, 0.08sec, #0
+0001 and 0032: 1317 matches, 0.07sec, #0
+0002 and 0032: 1509 matches, 0.07sec, #0
+0003 and 0032: 1557 matches, 0.08sec, #0
+0004 and 0032: 1387 matches, 0.09sec, #0
+0005 and 0032: 867 matches, 0.09sec, #0
+0006 and 0032: 582 matches, 0.09sec, #0
+0007 and 0032: 530 matches, 0.10sec, #0
+0008 and 0032: 404 matches, 0.10sec, #0
+0009 and 0032: 309 matches, 0.09sec, #0
+0010 and 0032: 163 matches, 0.10sec, #0
+0011 and 0032: 183 matches, 0.09sec, #0
+0012 and 0032: 102 matches, 0.09sec, #0
+0013 and 0032: 99 matches, 0.09sec, #0
+0014 and 0032: 93 matches, 0.10sec, #0
+0015 and 0032: 56 matches, 0.08sec, #0
+0016 and 0032: 54 matches, 0.07sec, #0
+0017 and 0032: 100 matches, 0.08sec, #0
+0018 and 0032: 99 matches, 0.08sec, #0
+0019 and 0032: 86 matches, 0.08sec, #0
+0020 and 0032: 224 matches, 0.09sec, #0
+0021 and 0032: 117 matches, 0.09sec, #0
+0022 and 0032: 274 matches, 0.11sec, #0
+0023 and 0032: 307 matches, 0.12sec, #0
+0024 and 0032: 500 matches, 0.11sec, #0
+0025 and 0032: 442 matches, 0.12sec, #0
+0026 and 0032: 518 matches, 0.11sec, #0
+0027 and 0032: 597 matches, 0.11sec, #0
+0028 and 0032: 349 matches, 0.10sec, #0
+0029 and 0032: 732 matches, 0.10sec, #0
+0030 and 0032: 907 matches, 0.09sec, #0
+0031 and 0032: 2595 matches, 0.11sec, #0
+0000 and 0033: 826 matches, 0.09sec, #0
+0001 and 0033: 993 matches, 0.08sec, #0
+0002 and 0033: 1175 matches, 0.07sec, #0
+0003 and 0033: 1122 matches, 0.07sec, #0
+0004 and 0033: 778 matches, 0.08sec, #0
+0005 and 0033: 528 matches, 0.10sec, #0
+0006 and 0033: 526 matches, 0.09sec, #0
+0007 and 0033: 382 matches, 0.11sec, #0
+0008 and 0033: 276 matches, 0.09sec, #0
+0009 and 0033: 193 matches, 0.09sec, #0
+0010 and 0033: 184 matches, 0.09sec, #0
+0011 and 0033: 163 matches, 0.11sec, #0
+0012 and 0033: 136 matches, 0.09sec, #0
+0013 and 0033: 88 matches, 0.10sec, #0
+0014 and 0033: 94 matches, 0.10sec, #0
+0015 and 0033: 53 matches, 0.09sec, #0
+0016 and 0033: 57 matches, 0.07sec, #0
+0017 and 0033: 75 matches, 0.08sec, #0
+0018 and 0033: 75 matches, 0.08sec, #0
+0019 and 0033: 79 matches, 0.07sec, #0
+0020 and 0033: 129 matches, 0.09sec, #0
+0021 and 0033: 76 matches, 0.08sec, #0
+0022 and 0033: 155 matches, 0.09sec, #0
+0023 and 0033: 217 matches, 0.10sec, #0
+0024 and 0033: 333 matches, 0.09sec, #0
+0025 and 0033: 298 matches, 0.09sec, #0
+0026 and 0033: 375 matches, 0.10sec, #0
+0027 and 0033: 641 matches, 0.10sec, #0
+0028 and 0033: 369 matches, 0.09sec, #0
+0029 and 0033: 682 matches, 0.08sec, #0
+0030 and 0033: 869 matches, 0.09sec, #0
+0031 and 0033: 1334 matches, 0.08sec, #0
+0032 and 0033: 1764 matches, 0.08sec, #0
+0000 and 0034: 1583 matches, 0.09sec, #0
+0001 and 0034: 1550 matches, 0.08sec, #0
+0002 and 0034: 1670 matches, 0.08sec, #0
+0003 and 0034: 1118 matches, 0.08sec, #0
+0004 and 0034: 1048 matches, 0.08sec, #0
+0005 and 0034: 628 matches, 0.09sec, #0
+0006 and 0034: 386 matches, 0.08sec, #0
+0007 and 0034: 387 matches, 0.09sec, #0
+0008 and 0034: 270 matches, 0.09sec, #0
+0009 and 0034: 247 matches, 0.09sec, #0
+0010 and 0034: 138 matches, 0.09sec, #0
+0011 and 0034: 151 matches, 0.09sec, #0
+0012 and 0034: 110 matches, 0.08sec, #0
+0013 and 0034: 82 matches, 0.09sec, #0
+0014 and 0034: 93 matches, 0.10sec, #0
+0015 and 0034: 48 matches, 0.07sec, #0
+0016 and 0034: 50 matches, 0.07sec, #0
+0017 and 0034: 87 matches, 0.08sec, #0
+0018 and 0034: 95 matches, 0.08sec, #0
+0019 and 0034: 53 matches, 0.08sec, #0
+0020 and 0034: 154 matches, 0.09sec, #0
+0021 and 0034: 79 matches, 0.08sec, #0
+0022 and 0034: 161 matches, 0.09sec, #0
+0023 and 0034: 235 matches, 0.10sec, #0
+0024 and 0034: 338 matches, 0.10sec, #0
+0025 and 0034: 302 matches, 0.09sec, #0
+0026 and 0034: 341 matches, 0.09sec, #0
+0027 and 0034: 440 matches, 0.09sec, #0
+0028 and 0034: 251 matches, 0.09sec, #0
+0029 and 0034: 420 matches, 0.08sec, #0
+0030 and 0034: 574 matches, 0.09sec, #0
+0031 and 0034: 1502 matches, 0.09sec, #0
+0032 and 0034: 2318 matches, 0.09sec, #0
+0033 and 0034: 1685 matches, 0.10sec, #0
+0000 and 0035: 1668 matches, 0.09sec, #0
+0001 and 0035: 1525 matches, 0.09sec, #0
+0002 and 0035: 1656 matches, 0.09sec, #0
+0003 and 0035: 1095 matches, 0.09sec, #0
+0004 and 0035: 945 matches, 0.10sec, #0
+0005 and 0035: 610 matches, 0.10sec, #0
+0006 and 0035: 392 matches, 0.10sec, #0
+0007 and 0035: 372 matches, 0.10sec, #0
+0008 and 0035: 271 matches, 0.11sec, #0
+0009 and 0035: 205 matches, 0.11sec, #0
+0010 and 0035: 148 matches, 0.10sec, #0
+0011 and 0035: 176 matches, 0.10sec, #0
+0012 and 0035: 101 matches, 0.09sec, #0
+0013 and 0035: 93 matches, 0.09sec, #0
+0014 and 0035: 119 matches, 0.09sec, #0
+0015 and 0035: 46 matches, 0.07sec, #0
+0016 and 0035: 51 matches, 0.07sec, #0
+0017 and 0035: 91 matches, 0.08sec, #0
+0018 and 0035: 96 matches, 0.07sec, #0
+0019 and 0035: 61 matches, 0.08sec, #0
+0020 and 0035: 160 matches, 0.09sec, #0
+0021 and 0035: 86 matches, 0.08sec, #0
+0022 and 0035: 173 matches, 0.09sec, #0
+0023 and 0035: 237 matches, 0.09sec, #0
+0024 and 0035: 371 matches, 0.10sec, #0
+0025 and 0035: 309 matches, 0.10sec, #0
+0026 and 0035: 383 matches, 0.10sec, #0
+0027 and 0035: 430 matches, 0.09sec, #0
+0028 and 0035: 244 matches, 0.09sec, #0
+0029 and 0035: 400 matches, 0.09sec, #0
+0030 and 0035: 569 matches, 0.09sec, #0
+0031 and 0035: 1435 matches, 0.09sec, #0
+0032 and 0035: 2004 matches, 0.08sec, #0
+0033 and 0035: 1534 matches, 0.08sec, #0
+0034 and 0035: 2883 matches, 0.08sec, #0
+
+###########-------timing------#########
+630 Image Match finished, 58 sec used
+#############################
+
+0000 and 0001: [1182/1338], H[347], 0.01sec
+0000 and 0002: [919/1039], H[319], 0.01sec
+0000 and 0003: [427/532], H[166], 0.00sec
+0000 and 0004: [402/532], H[204], 0.00sec
+0000 and 0005: [219/334], H[65], 0.00sec
+0000 and 0006: [130/206], H[29], 0.00sec
+0000 and 0007: [141/246], H[28], 0.01sec
+0000 and 0008: [106/195], H[36], 0.01sec
+0000 and 0009: [82/171], H[16], 0.01sec
+0000 and 0010: [46/110], H[10], 0.02sec
+0000 and 0011: [54/128], H[8], 0.02sec
+0000 and 0012: [24/81], H[10], 0.04sec
+0000 and 0013: [26/81], H[10], 0.05sec
+0000 and 0014: [32/103], H[7], 0.04sec
+0000 and 0015: [15/39], H[5], 0.02sec
+0000 and 0016: [17/43], H[6], 0.02sec
+0000 and 0017: [12/59], H[4], 0.04sec
+0000 and 0018: [23/74], H[13], 0.04sec
+0000 and 0019: [17/62], H[8], 0.04sec
+0000 and 0020: [52/107], H[11], 0.01sec
+0000 and 0021: [36/66], H[10], 0.01sec
+0000 and 0022: [69/121], H[14], 0.01sec
+0000 and 0023: [89/167], H[22], 0.01sec
+0000 and 0024: [143/227], H[23], 0.00sec
+0000 and 0025: [119/205], H[38], 0.01sec
+0000 and 0026: [129/225], H[40], 0.01sec
+0000 and 0027: [207/294], H[61], 0.00sec
+0000 and 0028: [116/188], H[26], 0.00sec
+0000 and 0029: [174/232], H[44], 0.00sec
+0000 and 0030: [295/365], H[101], 0.00sec
+0000 and 0031: [575/705], H[123], 0.00sec
+0000 and 0032: [885/1009], H[181], 0.01sec
+0000 and 0033: [738/826], H[355], 0.00sec
+0000 and 0034: [1421/1583], H[310], 0.01sec
+0000 and 0035: [1537/1668], H[418], 0.01sec
+0001 and 0002: [1939/2078], H[948], 0.01sec
+0001 and 0003: [955/1050], H[480], 0.01sec
+0001 and 0004: [763/927], H[326], 0.00sec
+0001 and 0005: [388/497], H[242], 0.00sec
+0001 and 0006: [234/320], H[117], 0.00sec
+0001 and 0007: [199/288], H[85], 0.00sec
+0001 and 0008: [138/227], H[43], 0.00sec
+0001 and 0009: [111/198], H[21], 0.01sec
+0001 and 0010: [67/127], H[10], 0.01sec
+0001 and 0011: [65/128], H[15], 0.01sec
+0001 and 0012: [42/98], H[10], 0.01sec
+0001 and 0013: [37/97], H[13], 0.03sec
+0001 and 0014: [36/98], H[11], 0.03sec
+0001 and 0015: [15/41], H[7], 0.03sec
+0001 and 0016: [21/44], H[11], 0.01sec
+0001 and 0017: [16/78], H[5], 0.04sec
+0001 and 0018: [26/81], H[17], 0.05sec
+0001 and 0019: [25/58], H[10], 0.01sec
+0001 and 0020: [62/126], H[14], 0.01sec
+0001 and 0021: [40/76], H[18], 0.01sec
+0001 and 0022: [97/157], H[37], 0.00sec
+0001 and 0023: [123/207], H[25], 0.00sec
+0001 and 0024: [246/334], H[56], 0.00sec
+0001 and 0025: [217/291], H[53], 0.00sec
+0001 and 0026: [266/347], H[67], 0.00sec
+0001 and 0027: [287/396], H[133], 0.00sec
+0001 and 0028: [196/251], H[55], 0.00sec
+0001 and 0029: [336/385], H[129], 0.00sec
+0001 and 0030: [544/652], H[259], 0.00sec
+0001 and 0031: [1033/1139], H[361], 0.01sec
+0001 and 0032: [1199/1317], H[266], 0.01sec
+0001 and 0033: [909/993], H[300], 0.01sec
+0001 and 0034: [1416/1550], H[596], 0.01sec
+0001 and 0035: [1421/1525], H[362], 0.01sec
+0002 and 0003: [1633/1719], H[1112], 0.01sec
+0002 and 0004: [1321/1457], H[827], 0.01sec
+0002 and 0005: [711/837], H[456], 0.00sec
+0002 and 0006: [385/476], H[166], 0.00sec
+0002 and 0007: [336/443], H[212], 0.00sec
+0002 and 0008: [262/357], H[138], 0.00sec
+0002 and 0009: [164/247], H[39], 0.00sec
+0002 and 0010: [80/127], H[19], 0.00sec
+0002 and 0011: [90/181], H[14], 0.01sec
+0002 and 0012: [51/111], H[17], 0.01sec
+0002 and 0013: [53/110], H[10], 0.01sec
+0002 and 0014: [40/100], H[14], 0.03sec
+0002 and 0015: [28/57], H[7], 0.01sec
+0002 and 0016: [19/42], H[7], 0.01sec
+0002 and 0017: [31/81], H[9], 0.03sec
+0002 and 0018: [31/75], H[11], 0.02sec
+0002 and 0019: [22/55], H[9], 0.02sec
+0002 and 0020: [79/134], H[19], 0.00sec
+0002 and 0021: [52/73], H[19], 0.00sec
+0002 and 0022: [104/156], H[19], 0.00sec
+0002 and 0023: [172/241], H[61], 0.00sec
+0002 and 0024: [378/454], H[109], 0.00sec
+0002 and 0025: [301/394], H[132], 0.00sec
+0002 and 0026: [401/495], H[244], 0.00sec
+0002 and 0027: [332/467], H[158], 0.00sec
+0002 and 0028: [279/342], H[127], 0.00sec
+0002 and 0029: [492/543], H[133], 0.00sec
+0002 and 0030: [753/823], H[416], 0.00sec
+0002 and 0031: [1275/1373], H[865], 0.01sec
+0002 and 0032: [1421/1509], H[677], 0.01sec
+0002 and 0033: [1120/1175], H[668], 0.01sec
+0002 and 0034: [1540/1670], H[642], 0.01sec
+0002 and 0035: [1526/1656], H[492], 0.01sec
+0003 and 0004: [1967/2078], H[622], 0.01sec
+0003 and 0005: [1056/1168], H[453], 0.01sec
+0003 and 0006: [709/814], H[215], 0.01sec
+0003 and 0007: [639/759], H[331], 0.00sec
+0003 and 0008: [467/611], H[107], 0.00sec
+0003 and 0009: [250/338], H[102], 0.00sec
+0003 and 0010: [145/207], H[33], 0.00sec
+0003 and 0011: [161/236], H[74], 0.00sec
+0003 and 0012: [75/139], H[16], 0.01sec
+0003 and 0013: [67/120], H[18], 0.01sec
+0003 and 0014: [62/121], H[16], 0.01sec
+0003 and 0015: [28/55], H[11], 0.01sec
+0003 and 0016: [27/55], H[8], 0.03sec
+0003 and 0017: [41/82], H[15], 0.01sec
+0003 and 0018: [43/87], H[10], 0.01sec
+0003 and 0019: [45/97], H[19], 0.04sec
+0003 and 0020: [127/189], H[47], 0.00sec
+0003 and 0021: [75/112], H[19], 0.00sec
+0003 and 0022: [203/264], H[105], 0.00sec
+0003 and 0023: [258/370], H[92], 0.00sec
+0003 and 0024: [409/540], H[201], 0.00sec
+0003 and 0025: [402/509], H[157], 0.00sec
+0003 and 0026: [460/568], H[110], 0.00sec
+0003 and 0027: [523/620], H[219], 0.00sec
+0003 and 0028: [362/457], H[127], 0.00sec
+0003 and 0029: [695/795], H[154], 0.00sec
+0003 and 0030: [734/811], H[236], 0.00sec
+0003 and 0031: [1447/1561], H[482], 0.01sec
+0003 and 0032: [1378/1557], H[758], 0.01sec
+0003 and 0033: [1016/1122], H[498], 0.01sec
+0003 and 0034: [992/1118], H[223], 0.01sec
+0003 and 0035: [986/1095], H[61], 0.01sec
+0004 and 0005: [2007/2166], H[907], 0.01sec
+0004 and 0006: [1087/1207], H[270], 0.01sec
+0004 and 0007: [1004/1173], H[602], 0.01sec
+0004 and 0008: [752/895], H[192], 0.00sec
+0004 and 0009: [382/516], H[130], 0.00sec
+0004 and 0010: [165/239], H[54], 0.00sec
+0004 and 0011: [195/289], H[79], 0.00sec
+0004 and 0012: [88/144], H[45], 0.00sec
+0004 and 0013: [84/136], H[23], 0.00sec
+0004 and 0014: [85/156], H[25], 0.01sec
+0004 and 0015: [36/67], H[8], 0.01sec
+0004 and 0016: [39/68], H[5], 0.00sec
+0004 and 0017: [46/116], H[13], 0.02sec
+0004 and 0018: [62/132], H[13], 0.01sec
+0004 and 0019: [51/106], H[32], 0.01sec
+0004 and 0020: [193/267], H[58], 0.00sec
+0004 and 0021: [104/131], H[31], 0.00sec
+0004 and 0022: [257/333], H[130], 0.00sec
+0004 and 0023: [374/487], H[237], 0.00sec
+0004 and 0024: [622/767], H[429], 0.00sec
+0004 and 0025: [542/674], H[316], 0.00sec
+0004 and 0026: [619/765], H[250], 0.00sec
+0004 and 0027: [531/648], H[84], 0.00sec
+0004 and 0028: [406/482], H[112], 0.00sec
+0004 and 0029: [684/749], H[156], 0.00sec
+0004 and 0030: [637/743], H[148], 0.00sec
+0004 and 0031: [1393/1543], H[851], 0.01sec
+0004 and 0032: [1253/1387], H[498], 0.01sec
+0004 and 0033: [674/778], H[348], 0.01sec
+0004 and 0034: [830/1048], H[254], 0.01sec
+0004 and 0035: [798/945], H[445], 0.00sec
+0005 and 0006: [2290/2400], H[601], 0.01sec
+0005 and 0007: [2077/2219], H[616], 0.01sec
+0005 and 0008: [1502/1622], H[486], 0.01sec
+0005 and 0009: [875/1038], H[571], 0.01sec
+0005 and 0010: [331/440], H[66], 0.00sec
+0005 and 0011: [344/456], H[111], 0.00sec
+0005 and 0012: [155/226], H[59], 0.00sec
+0005 and 0013: [135/196], H[31], 0.00sec
+0005 and 0014: [125/213], H[55], 0.00sec
+0005 and 0015: [57/98], H[17], 0.00sec
+0005 and 0016: [55/85], H[23], 0.00sec
+0005 and 0017: [108/187], H[27], 0.00sec
+0005 and 0018: [102/170], H[27], 0.00sec
+0005 and 0019: [71/127], H[23], 0.00sec
+0005 and 0020: [353/445], H[190], 0.00sec
+0005 and 0021: [155/207], H[60], 0.00sec
+0005 and 0022: [383/460], H[223], 0.00sec
+0005 and 0023: [557/740], H[216], 0.01sec
+0005 and 0024: [721/893], H[224], 0.00sec
+0005 and 0025: [705/864], H[543], 0.00sec
+0005 and 0026: [759/919], H[238], 0.00sec
+0005 and 0027: [589/738], H[392], 0.00sec
+0005 and 0028: [473/558], H[158], 0.00sec
+0005 and 0029: [600/664], H[218], 0.00sec
+0005 and 0030: [456/540], H[148], 0.00sec
+0005 and 0031: [847/1050], H[238], 0.00sec
+0005 and 0032: [733/867], H[320], 0.00sec
+0005 and 0033: [447/528], H[97], 0.00sec
+0005 and 0034: [475/628], H[259], 0.00sec
+0005 and 0035: [466/610], H[83], 0.00sec
+0006 and 0007: [2357/2470], H[1012], 0.01sec
+0006 and 0008: [1781/1885], H[255], 0.01sec
+0006 and 0009: [1227/1355], H[665], 0.01sec
+0006 and 0010: [644/755], H[328], 0.00sec
+0006 and 0011: [471/591], H[98], 0.00sec
+0006 and 0012: [264/321], H[146], 0.00sec
+0006 and 0013: [160/209], H[73], 0.00sec
+0006 and 0014: [174/245], H[59], 0.00sec
+0006 and 0015: [87/133], H[37], 0.00sec
+0006 and 0016: [80/125], H[37], 0.00sec
+0006 and 0017: [164/243], H[70], 0.00sec
+0006 and 0018: [143/205], H[77], 0.00sec
+0006 and 0019: [128/199], H[79], 0.00sec
+0006 and 0020: [377/458], H[185], 0.00sec
+0006 and 0021: [163/202], H[64], 0.00sec
+0006 and 0022: [348/420], H[226], 0.00sec
+0006 and 0023: [552/673], H[124], 0.00sec
+0006 and 0024: [726/851], H[485], 0.00sec
+0006 and 0025: [688/835], H[424], 0.00sec
+0006 and 0026: [778/905], H[538], 0.00sec
+0006 and 0027: [696/815], H[380], 0.01sec
+0006 and 0028: [513/599], H[305], 0.00sec
+0006 and 0029: [591/649], H[216], 0.00sec
+0006 and 0030: [343/403], H[155], 0.00sec
+0006 and 0031: [697/825], H[181], 0.00sec
+0006 and 0032: [448/582], H[149], 0.00sec
+0006 and 0033: [419/526], H[238], 0.00sec
+0006 and 0034: [274/386], H[39], 0.00sec
+0006 and 0035: [285/392], H[135], 0.00sec
+0007 and 0008: [2684/2797], H[777], 0.01sec
+0007 and 0009: [2043/2176], H[359], 0.01sec
+0007 and 0010: [825/940], H[136], 0.00sec
+0007 and 0011: [649/800], H[207], 0.00sec
+0007 and 0012: [311/378], H[191], 0.00sec
+0007 and 0013: [235/310], H[118], 0.00sec
+0007 and 0014: [253/349], H[103], 0.00sec
+0007 and 0015: [106/157], H[39], 0.00sec
+0007 and 0016: [109/146], H[56], 0.00sec
+0007 and 0017: [221/314], H[104], 0.00sec
+0007 and 0018: [175/264], H[60], 0.00sec
+0007 and 0019: [184/249], H[80], 0.00sec
+0007 and 0020: [603/736], H[344], 0.00sec
+0007 and 0021: [262/333], H[80], 0.00sec
+0007 and 0022: [600/719], H[314], 0.00sec
+0007 and 0023: [808/957], H[308], 0.00sec
+0007 and 0024: [779/947], H[175], 0.00sec
+0007 and 0025: [835/1011], H[349], 0.00sec
+0007 and 0026: [825/986], H[395], 0.01sec
+0007 and 0027: [615/740], H[162], 0.00sec
+0007 and 0028: [419/508], H[289], 0.00sec
+0007 and 0029: [411/501], H[187], 0.00sec
+0007 and 0030: [317/396], H[87], 0.00sec
+0007 and 0031: [490/611], H[311], 0.00sec
+0007 and 0032: [411/530], H[103], 0.00sec
+0007 and 0033: [301/382], H[135], 0.00sec
+0007 and 0034: [251/387], H[144], 0.01sec
+0007 and 0035: [256/372], H[67], 0.00sec
+0008 and 0009: [2333/2455], H[805], 0.01sec
+0008 and 0010: [883/1072], H[200], 0.01sec
+0008 and 0011: [831/1027], H[296], 0.00sec
+0008 and 0012: [400/482], H[104], 0.00sec
+0008 and 0013: [331/399], H[193], 0.00sec
+0008 and 0014: [315/426], H[81], 0.00sec
+0008 and 0015: [125/197], H[71], 0.00sec
+0008 and 0016: [111/152], H[88], 0.00sec
+0008 and 0017: [241/304], H[150], 0.00sec
+0008 and 0018: [243/326], H[74], 0.00sec
+0008 and 0019: [190/253], H[109], 0.00sec
+0008 and 0020: [620/748], H[396], 0.00sec
+0008 and 0021: [336/401], H[45], 0.00sec
+0008 and 0022: [581/722], H[285], 0.00sec
+0008 and 0023: [685/842], H[377], 0.00sec
+0008 and 0024: [589/712], H[248], 0.00sec
+0008 and 0025: [629/772], H[426], 0.00sec
+0008 and 0026: [562/698], H[262], 0.00sec
+0008 and 0027: [430/522], H[219], 0.00sec
+0008 and 0028: [319/386], H[211], 0.00sec
+0008 and 0029: [339/420], H[76], 0.00sec
+0008 and 0030: [225/287], H[76], 0.00sec
+0008 and 0031: [360/470], H[157], 0.00sec
+0008 and 0032: [289/404], H[101], 0.00sec
+0008 and 0033: [201/276], H[74], 0.00sec
+0008 and 0034: [187/270], H[47], 0.00sec
+0008 and 0035: [186/271], H[31], 0.00sec
+0009 and 0010: [2028/2146], H[618], 0.01sec
+0009 and 0011: [1470/1648], H[301], 0.01sec
+0009 and 0012: [693/775], H[395], 0.01sec
+0009 and 0013: [583/696], H[212], 0.01sec
+0009 and 0014: [579/759], H[245], 0.00sec
+0009 and 0015: [247/318], H[82], 0.00sec
+0009 and 0016: [221/282], H[92], 0.00sec
+0009 and 0017: [516/652], H[151], 0.00sec
+0009 and 0018: [471/592], H[142], 0.00sec
+0009 and 0019: [382/473], H[61], 0.00sec
+0009 and 0020: [927/1127], H[427], 0.01sec
+0009 and 0021: [440/527], H[52], 0.00sec
+0009 and 0022: [737/836], H[347], 0.00sec
+0009 and 0023: [821/962], H[225], 0.01sec
+0009 and 0024: [585/722], H[284], 0.00sec
+0009 and 0025: [658/805], H[182], 0.00sec
+0009 and 0026: [639/761], H[238], 0.00sec
+0009 and 0027: [390/497], H[175], 0.00sec
+0009 and 0028: [327/376], H[76], 0.00sec
+0009 and 0029: [220/287], H[53], 0.00sec
+0009 and 0030: [192/241], H[81], 0.00sec
+0009 and 0031: [265/353], H[46], 0.00sec
+0009 and 0032: [205/309], H[65], 0.00sec
+0009 and 0033: [151/193], H[85], 0.00sec
+0009 and 0034: [136/247], H[25], 0.01sec
+0009 and 0035: [116/205], H[28], 0.01sec
+0010 and 0011: [2587/2703], H[999], 0.01sec
+0010 and 0012: [1249/1349], H[193], 0.01sec
+0010 and 0013: [714/904], H[65], 0.00sec
+0010 and 0014: [964/1096], H[422], 0.01sec
+0010 and 0015: [357/509], H[67], 0.00sec
+0010 and 0016: [412/487], H[104], 0.00sec
+0010 and 0017: [862/1001], H[70], 0.01sec
+0010 and 0018: [774/901], H[90], 0.01sec
+0010 and 0019: [864/965], H[92], 0.01sec
+0010 and 0020: [735/916], H[126], 0.01sec
+0010 and 0021: [488/553], H[82], 0.00sec
+0010 and 0022: [554/636], H[266], 0.00sec
+0010 and 0023: [609/708], H[88], 0.00sec
+0010 and 0024: [442/582], H[123], 0.00sec
+0010 and 0025: [529/653], H[209], 0.00sec
+0010 and 0026: [473/580], H[243], 0.00sec
+0010 and 0027: [364/471], H[186], 0.00sec
+0010 and 0028: [351/425], H[43], 0.00sec
+0010 and 0029: [260/350], H[91], 0.00sec
+0010 and 0030: [130/207], H[27], 0.00sec
+0010 and 0031: [134/229], H[47], 0.00sec
+0010 and 0032: [93/163], H[29], 0.01sec
+0010 and 0033: [124/184], H[41], 0.00sec
+0010 and 0034: [73/138], H[16], 0.01sec
+0010 and 0035: [87/148], H[29], 0.01sec
+0011 and 0012: [1697/1790], H[309], 0.01sec
+0011 and 0013: [1235/1356], H[151], 0.01sec
+0011 and 0014: [1447/1637], H[269], 0.01sec
+0011 and 0015: [563/646], H[106], 0.00sec
+0011 and 0016: [549/645], H[60], 0.00sec
+0011 and 0017: [875/1036], H[86], 0.01sec
+0011 and 0018: [906/1025], H[152], 0.01sec
+0011 and 0019: [683/736], H[96], 0.00sec
+0011 and 0020: [740/857], H[153], 0.00sec
+0011 and 0021: [372/442], H[75], 0.00sec
+0011 and 0022: [537/636], H[143], 0.00sec
+0011 and 0023: [616/746], H[253], 0.01sec
+0011 and 0024: [507/646], H[161], 0.00sec
+0011 and 0025: [568/694], H[305], 0.00sec
+0011 and 0026: [459/568], H[213], 0.00sec
+0011 and 0027: [294/403], H[70], 0.00sec
+0011 and 0028: [375/456], H[154], 0.00sec
+0011 and 0029: [189/261], H[83], 0.00sec
+0011 and 0030: [182/242], H[72], 0.00sec
+0011 and 0031: [139/223], H[13], 0.00sec
+0011 and 0032: [96/183], H[32], 0.01sec
+0011 and 0033: [96/163], H[40], 0.01sec
+0011 and 0034: [78/151], H[21], 0.01sec
+0011 and 0035: [91/176], H[13], 0.01sec
+0012 and 0013: [1784/1865], H[492], 0.01sec
+0012 and 0014: [1565/1703], H[246], 0.01sec
+0012 and 0015: [1244/1346], H[211], 0.01sec
+0012 and 0016: [928/1036], H[247], 0.01sec
+0012 and 0017: [966/1161], H[205], 0.01sec
+0012 and 0018: [987/1059], H[160], 0.01sec
+0012 and 0019: [613/690], H[73], 0.00sec
+0012 and 0020: [521/599], H[109], 0.00sec
+0012 and 0021: [385/448], H[37], 0.00sec
+0012 and 0022: [331/398], H[96], 0.00sec
+0012 and 0023: [319/401], H[115], 0.00sec
+0012 and 0024: [256/359], H[32], 0.00sec
+0012 and 0025: [272/369], H[114], 0.00sec
+0012 and 0026: [207/290], H[50], 0.00sec
+0012 and 0027: [179/272], H[100], 0.00sec
+0012 and 0028: [226/295], H[25], 0.00sec
+0012 and 0029: [149/209], H[52], 0.00sec
+0012 and 0030: [113/168], H[68], 0.00sec
+0012 and 0031: [89/164], H[38], 0.01sec
+0012 and 0032: [51/102], H[22], 0.01sec
+0012 and 0033: [78/136], H[13], 0.00sec
+0012 and 0034: [48/110], H[7], 0.01sec
+0012 and 0035: [48/101], H[16], 0.01sec
+0013 and 0014: [2185/2285], H[860], 0.01sec
+0013 and 0015: [1362/1430], H[354], 0.01sec
+0013 and 0016: [900/1010], H[163], 0.01sec
+0013 and 0017: [914/1036], H[113], 0.01sec
+0013 and 0018: [1250/1352], H[134], 0.01sec
+0013 and 0019: [430/485], H[91], 0.00sec
+0013 and 0020: [529/630], H[285], 0.00sec
+0013 and 0021: [369/447], H[150], 0.00sec
+0013 and 0022: [374/452], H[183], 0.00sec
+0013 and 0023: [334/419], H[120], 0.00sec
+0013 and 0024: [193/276], H[75], 0.00sec
+0013 and 0025: [220/311], H[133], 0.00sec
+0013 and 0026: [182/249], H[59], 0.00sec
+0013 and 0027: [117/178], H[53], 0.00sec
+0013 and 0028: [144/203], H[48], 0.00sec
+0013 and 0029: [87/127], H[15], 0.00sec
+0013 and 0030: [94/152], H[34], 0.00sec
+0013 and 0031: [79/143], H[10], 0.01sec
+0013 and 0032: [50/99], H[15], 0.01sec
+0013 and 0033: [55/88], H[18], 0.00sec
+0013 and 0034: [37/82], H[9], 0.02sec
+0013 and 0035: [47/93], H[9], 0.01sec
+0014 and 0015: [1508/1576], H[758], 0.01sec
+0014 and 0016: [1137/1220], H[465], 0.01sec
+0014 and 0017: [1614/1770], H[170], 0.01sec
+0014 and 0018: [1902/2070], H[163], 0.01sec
+0014 and 0019: [653/745], H[118], 0.01sec
+0014 and 0020: [660/795], H[347], 0.00sec
+0014 and 0021: [418/518], H[48], 0.00sec
+0014 and 0022: [381/511], H[140], 0.00sec
+0014 and 0023: [359/505], H[160], 0.00sec
+0014 and 0024: [240/355], H[37], 0.00sec
+0014 and 0025: [294/417], H[56], 0.00sec
+0014 and 0026: [229/325], H[87], 0.00sec
+0014 and 0027: [143/223], H[78], 0.00sec
+0014 and 0028: [175/243], H[70], 0.00sec
+0014 and 0029: [101/149], H[20], 0.00sec
+0014 and 0030: [83/137], H[27], 0.01sec
+0014 and 0031: [79/145], H[30], 0.01sec
+0014 and 0032: [45/93], H[19], 0.01sec
+0014 and 0033: [43/94], H[22], 0.01sec
+0014 and 0034: [39/93], H[18], 0.02sec
+0014 and 0035: [54/119], H[11], 0.02sec
+0015 and 0016: [1817/1901], H[1504], 0.01sec
+0015 and 0017: [1059/1142], H[411], 0.01sec
+0015 and 0018: [1414/1476], H[340], 0.01sec
+0015 and 0019: [543/614], H[98], 0.00sec
+0015 and 0020: [372/472], H[43], 0.00sec
+0015 and 0021: [444/522], H[68], 0.00sec
+0015 and 0022: [278/341], H[80], 0.00sec
+0015 and 0023: [227/297], H[114], 0.00sec
+0015 and 0024: [158/199], H[59], 0.00sec
+0015 and 0025: [149/223], H[79], 0.00sec
+0015 and 0026: [116/175], H[24], 0.00sec
+0015 and 0027: [95/134], H[20], 0.00sec
+0015 and 0028: [137/204], H[63], 0.00sec
+0015 and 0029: [67/97], H[14], 0.00sec
+0015 and 0030: [65/114], H[20], 0.00sec
+0015 and 0031: [37/79], H[11], 0.01sec
+0015 and 0032: [26/56], H[8], 0.02sec
+0015 and 0033: [29/53], H[10], 0.01sec
+0015 and 0034: [20/48], H[5], 0.01sec
+0015 and 0035: [21/46], H[9], 0.01sec
+0016 and 0017: [978/1047], H[344], 0.01sec
+0016 and 0018: [1106/1161], H[536], 0.01sec
+0016 and 0019: [532/594], H[62], 0.00sec
+0016 and 0020: [350/414], H[125], 0.00sec
+0016 and 0021: [256/318], H[35], 0.00sec
+0016 and 0022: [195/253], H[92], 0.00sec
+0016 and 0023: [204/255], H[132], 0.00sec
+0016 and 0024: [132/167], H[86], 0.00sec
+0016 and 0025: [159/215], H[79], 0.00sec
+0016 and 0026: [119/166], H[64], 0.00sec
+0016 and 0027: [93/131], H[45], 0.00sec
+0016 and 0028: [145/203], H[39], 0.00sec
+0016 and 0029: [62/81], H[15], 0.00sec
+0016 and 0030: [69/105], H[34], 0.00sec
+0016 and 0031: [39/73], H[12], 0.01sec
+0016 and 0032: [27/54], H[6], 0.02sec
+0016 and 0033: [31/57], H[12], 0.01sec
+0016 and 0034: [24/50], H[10], 0.03sec
+0016 and 0035: [24/51], H[6], 0.01sec
+0017 and 0018: [2353/2469], H[1028], 0.01sec
+0017 and 0019: [1262/1392], H[335], 0.01sec
+0017 and 0020: [805/959], H[98], 0.01sec
+0017 and 0021: [727/820], H[160], 0.00sec
+0017 and 0022: [357/507], H[39], 0.01sec
+0017 and 0023: [366/495], H[103], 0.00sec
+0017 and 0024: [231/326], H[88], 0.00sec
+0017 and 0025: [290/402], H[65], 0.00sec
+0017 and 0026: [214/316], H[28], 0.00sec
+0017 and 0027: [143/221], H[33], 0.01sec
+0017 and 0028: [141/196], H[28], 0.00sec
+0017 and 0029: [66/109], H[17], 0.01sec
+0017 and 0030: [54/101], H[13], 0.01sec
+0017 and 0031: [39/105], H[17], 0.03sec
+0017 and 0032: [30/100], H[14], 0.04sec
+0017 and 0033: [39/75], H[6], 0.01sec
+0017 and 0034: [29/87], H[10], 0.04sec
+0017 and 0035: [32/91], H[10], 0.04sec
+0018 and 0019: [920/1080], H[205], 0.01sec
+0018 and 0020: [706/875], H[133], 0.01sec
+0018 and 0021: [742/850], H[96], 0.00sec
+0018 and 0022: [447/558], H[126], 0.00sec
+0018 and 0023: [407/542], H[33], 0.00sec
+0018 and 0024: [241/340], H[62], 0.00sec
+0018 and 0025: [251/376], H[125], 0.00sec
+0018 and 0026: [216/301], H[73], 0.00sec
+0018 and 0027: [147/213], H[50], 0.00sec
+0018 and 0028: [149/210], H[35], 0.00sec
+0018 and 0029: [76/110], H[16], 0.00sec
+0018 and 0030: [64/117], H[15], 0.01sec
+0018 and 0031: [67/115], H[18], 0.01sec
+0018 and 0032: [45/99], H[14], 0.01sec
+0018 and 0033: [35/75], H[12], 0.01sec
+0018 and 0034: [36/95], H[24], 0.02sec
+0018 and 0035: [37/96], H[18], 0.03sec
+0019 and 0020: [1314/1417], H[332], 0.01sec
+0019 and 0021: [1302/1345], H[270], 0.01sec
+0019 and 0022: [897/978], H[186], 0.01sec
+0019 and 0023: [699/763], H[126], 0.01sec
+0019 and 0024: [377/477], H[30], 0.00sec
+0019 and 0025: [464/548], H[80], 0.00sec
+0019 and 0026: [373/460], H[45], 0.01sec
+0019 and 0027: [265/343], H[93], 0.00sec
+0019 and 0028: [299/345], H[36], 0.00sec
+0019 and 0029: [115/176], H[67], 0.00sec
+0019 and 0030: [78/124], H[37], 0.00sec
+0019 and 0031: [57/114], H[8], 0.01sec
+0019 and 0032: [37/86], H[8], 0.01sec
+0019 and 0033: [49/79], H[18], 0.00sec
+0019 and 0034: [17/53], H[7], 0.04sec
+0019 and 0035: [25/61], H[7], 0.04sec
+0020 and 0021: [1811/1902], H[1008], 0.01sec
+0020 and 0022: [2480/2576], H[1099], 0.01sec
+0020 and 0023: [2359/2477], H[683], 0.01sec
+0020 and 0024: [1257/1368], H[204], 0.01sec
+0020 and 0025: [1464/1571], H[227], 0.01sec
+0020 and 0026: [1180/1315], H[137], 0.01sec
+0020 and 0027: [681/830], H[263], 0.01sec
+0020 and 0028: [562/629], H[97], 0.01sec
+0020 and 0029: [250/295], H[67], 0.00sec
+0020 and 0030: [185/235], H[88], 0.00sec
+0020 and 0031: [173/254], H[58], 0.00sec
+0020 and 0032: [135/224], H[73], 0.00sec
+0020 and 0033: [98/129], H[31], 0.00sec
+0020 and 0034: [87/154], H[49], 0.01sec
+0020 and 0035: [88/160], H[38], 0.01sec
+0021 and 0022: [1692/1774], H[173], 0.01sec
+0021 and 0023: [1093/1158], H[319], 0.01sec
+0021 and 0024: [591/651], H[82], 0.00sec
+0021 and 0025: [661/715], H[120], 0.00sec
+0021 and 0026: [536/604], H[102], 0.00sec
+0021 and 0027: [343/397], H[43], 0.00sec
+0021 and 0028: [322/365], H[40], 0.00sec
+0021 and 0029: [170/204], H[20], 0.00sec
+0021 and 0030: [118/150], H[15], 0.00sec
+0021 and 0031: [90/130], H[31], 0.00sec
+0021 and 0032: [87/117], H[20], 0.00sec
+0021 and 0033: [60/76], H[37], 0.00sec
+0021 and 0034: [51/79], H[22], 0.00sec
+0021 and 0035: [55/86], H[19], 0.00sec
+0022 and 0023: [3013/3094], H[1279], 0.01sec
+0022 and 0024: [1700/1813], H[502], 0.01sec
+0022 and 0025: [2049/2148], H[347], 0.01sec
+0022 and 0026: [1552/1705], H[220], 0.01sec
+0022 and 0027: [989/1088], H[154], 0.01sec
+0022 and 0028: [805/871], H[128], 0.01sec
+0022 and 0029: [379/472], H[58], 0.00sec
+0022 and 0030: [276/312], H[133], 0.00sec
+0022 and 0031: [287/345], H[32], 0.00sec
+0022 and 0032: [209/274], H[86], 0.00sec
+0022 and 0033: [111/155], H[55], 0.00sec
+0022 and 0034: [107/161], H[61], 0.00sec
+0022 and 0035: [118/173], H[25], 0.00sec
+0023 and 0024: [2767/2928], H[1046], 0.01sec
+0023 and 0025: [3173/3282], H[1628], 0.01sec
+0023 and 0026: [2544/2725], H[770], 0.01sec
+0023 and 0027: [1473/1634], H[265], 0.01sec
+0023 and 0028: [1212/1352], H[202], 0.01sec
+0023 and 0029: [440/519], H[58], 0.00sec
+0023 and 0030: [348/446], H[212], 0.00sec
+0023 and 0031: [339/435], H[126], 0.00sec
+0023 and 0032: [240/307], H[61], 0.00sec
+0023 and 0033: [163/217], H[46], 0.00sec
+0023 and 0034: [145/235], H[42], 0.00sec
+0023 and 0035: [158/237], H[60], 0.00sec
+0024 and 0025: [3886/3996], H[1474], 0.02sec
+0024 and 0026: [3963/4095], H[2541], 0.02sec
+0024 and 0027: [2385/2511], H[395], 0.01sec
+0024 and 0028: [2078/2177], H[623], 0.01sec
+0024 and 0029: [763/822], H[112], 0.00sec
+0024 and 0030: [650/759], H[164], 0.00sec
+0024 and 0031: [566/682], H[306], 0.00sec
+0024 and 0032: [372/500], H[110], 0.00sec
+0024 and 0033: [263/333], H[123], 0.00sec
+0024 and 0034: [245/338], H[54], 0.00sec
+0024 and 0035: [253/371], H[46], 0.00sec
+0025 and 0026: [3634/3757], H[2004], 0.02sec
+0025 and 0027: [2104/2244], H[471], 0.01sec
+0025 and 0028: [1812/1928], H[308], 0.01sec
+0025 and 0029: [662/741], H[102], 0.00sec
+0025 and 0030: [508/610], H[177], 0.00sec
+0025 and 0031: [463/597], H[157], 0.00sec
+0025 and 0032: [320/442], H[169], 0.00sec
+0025 and 0033: [234/298], H[103], 0.00sec
+0025 and 0034: [192/302], H[70], 0.00sec
+0025 and 0035: [209/309], H[60], 0.00sec
+0026 and 0027: [2619/2780], H[546], 0.01sec
+0026 and 0028: [2174/2260], H[668], 0.01sec
+0026 and 0029: [797/888], H[102], 0.01sec
+0026 and 0030: [649/753], H[152], 0.00sec
+0026 and 0031: [591/719], H[164], 0.00sec
+0026 and 0032: [384/518], H[161], 0.00sec
+0026 and 0033: [287/375], H[147], 0.00sec
+0026 and 0034: [235/341], H[44], 0.00sec
+0026 and 0035: [268/383], H[94], 0.00sec
+0027 and 0028: [2218/2331], H[1259], 0.01sec
+0027 and 0029: [1472/1585], H[186], 0.01sec
+0027 and 0030: [1000/1113], H[172], 0.01sec
+0027 and 0031: [819/953], H[249], 0.01sec
+0027 and 0032: [472/597], H[164], 0.00sec
+0027 and 0033: [512/641], H[262], 0.00sec
+0027 and 0034: [323/440], H[153], 0.00sec
+0027 and 0035: [322/430], H[43], 0.00sec
+0028 and 0029: [822/877], H[126], 0.01sec
+0028 and 0030: [1122/1272], H[365], 0.01sec
+0028 and 0031: [462/538], H[144], 0.00sec
+0028 and 0032: [266/349], H[111], 0.00sec
+0028 and 0033: [285/369], H[131], 0.00sec
+0028 and 0034: [198/251], H[36], 0.00sec
+0028 and 0035: [177/244], H[31], 0.00sec
+0029 and 0030: [1173/1213], H[398], 0.01sec
+0029 and 0031: [1029/1093], H[276], 0.01sec
+0029 and 0032: [665/732], H[113], 0.00sec
+0029 and 0033: [605/682], H[272], 0.00sec
+0029 and 0034: [341/420], H[162], 0.00sec
+0029 and 0035: [344/400], H[223], 0.00sec
+0030 and 0031: [1409/1460], H[567], 0.01sec
+0030 and 0032: [821/907], H[131], 0.01sec
+0030 and 0033: [763/869], H[224], 0.00sec
+0030 and 0034: [451/574], H[196], 0.00sec
+0030 and 0035: [441/569], H[151], 0.00sec
+0031 and 0032: [2470/2595], H[982], 0.01sec
+0031 and 0033: [1235/1334], H[267], 0.01sec
+0031 and 0034: [1321/1502], H[284], 0.01sec
+0031 and 0035: [1291/1435], H[376], 0.01sec
+0032 and 0033: [1686/1764], H[1351], 0.01sec
+0032 and 0034: [2169/2318], H[667], 0.01sec
+0032 and 0035: [1889/2004], H[560], 0.01sec
+0033 and 0034: [1619/1685], H[553], 0.01sec
+0033 and 0035: [1445/1534], H[551], 0.01sec
+0034 and 0035: [2728/2883], H[2069], 0.01sec
+
+###########-------timing------#########
+630 Putative Match finished, 58 sec used
+630 Geometric Verification finished, 7 sec used
+#############################
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 70.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+621 pairs have two-view models
+630 pairs have fundamental matrices
+Initialize with sofa (5) and sofa (35)
+826 3D points initialized from two images
+PBA library version = 105
+PBA: 826 3D pts, 2 cams and 1652 projs...
+PBA: 3.223 -> 0.045 (1 LMs in 0.16sec)
+Focal Length : [426.170]->[426.170]
+Focal Length : [426.170]->[426.170]
+
+#############################
+#3: [sofa (36)] sees 1047 (+2337) 3D points
+Estimated Focal Length [426][0.67W]
+# 1442 projs (347 pts and 0 merges)
+PBA: 1173 3D pts, 3 cams and 3094 projs...
+PBA: 0.206 -> 0.077 (1 LMs in 0.00sec)
+
+**************************************
+#3/3:  1442 projs and 347 pts added.
+PBA: 1173 3D pts, 3 cams and 3094 projs...
+PBA: 0.077 -> 0.068 (1 LMs in 0.00sec)
+PBA: 1173 3D pts, 3 cams and 3094 projs...
+PBA: 0.068 -> 0.067 (1 LMs in 0.00sec)
+Focal Length : [426.170]->[426.170]
+
+#############################
+#4: [sofa (33)] sees 1806 (+2492) 3D points
+Estimated Focal Length [426][0.67W]
+# 3792 projs (1277 pts and 1 merges)
+PBA: 2447 3D pts, 4 cams and 6882 projs...
+PBA: 0.123 -> 0.080 (1 LMs in 0.01sec)
+#points w/ large errors:	2
+Focal Length : [426.170]->[426.170]
+
+#############################
+#5: [sofa (32)] sees 3401 (+2106) 3D points
+Estimated Focal Length [426][0.67W]
+# 3948 projs (1013 pts and 118 merges)
+PBA: 3336 3D pts, 5 cams and 10816 projs...
+PBA: 0.140 -> 0.079 (1 LMs in 0.00sec)
+#points w/ large errors:	6
+
+**************************************
+#5/5:  4293 projs and 1035 pts added.
+PBA: 3351 3D pts, 5 cams and 11143 projs...
+PBA: 0.077 -> 0.057 (1 LMs in 0.01sec)
+PBA: 3351 3D pts, 5 cams and 11143 projs...
+PBA: 0.057 -> 0.057 (1 LMs in 0.02sec)
+Focal Length : [426.170]->[426.170]
+
+#############################
+#6: [sofa (3)] sees 4389 (+1907) 3D points
+Estimated Focal Length [426][0.67W]
+# 4358 projs (1118 pts and 56 merges)
+PBA: 4405 3D pts, 6 cams and 15485 projs...
+PBA: 0.203 -> 0.139 (1 LMs in 0.03sec)
+#points w/ large errors:	6
+Focal Length : [426.170]->[426.170]
+
+#############################
+#7: [sofa (2)] sees 5408 (+1655) 3D points
+Estimated Focal Length [426][0.67W]
+# 3468 projs (706 pts and 45 merges)
+PBA: 5047 3D pts, 7 cams and 18909 projs...
+PBA: 0.340 -> 0.137 (1 LMs in 0.01sec)
+#points w/ large errors:	8
+
+**************************************
+#7/7:  3852 projs and 724 pts added.
+PBA: 5051 3D pts, 7 cams and 19240 projs...
+PBA: 0.228 -> 0.209 (1 LMs in 0.01sec)
+PBA: 5051 3D pts, 7 cams and 19240 projs...
+PBA: 0.209 -> 0.209 (12 LMs in 0.10sec)
+Focal Length : [426.170]->[426.170]
+
+#############################
+#8: [sofa (4)] sees 7242 (+1527) 3D points
+Estimated Focal Length [426][0.67W]
+# 3772 projs (658 pts and 68 merges)
+PBA: 5618 3D pts, 8 cams and 22966 projs...
+PBA: 0.186 -> 0.156 (1 LMs in 0.04sec)
+#points w/ large errors:	17
+Focal Length : [426.170]->[426.170]
+
+#############################
+#9: [sofa (34)] sees 7560 (+1452) 3D points
+Estimated Focal Length [426][0.67W]
+# 2766 projs (248 pts and 50 merges)
+PBA: 4293 3D pts, 9 cams and 22652 projs...
+PBA: 0.218 -> 0.151 (1 LMs in 0.01sec)
+#points w/ large errors:	10
+
+**************************************
+#9/9:  3343 projs and 316 pts added.
+PBA: 5841 3D pts, 9 cams and 26175 projs...
+PBA: 0.165 -> 0.150 (1 LMs in 0.01sec)
+PBA: 5841 3D pts, 9 cams and 26175 projs...
+PBA: 0.150 -> 0.150 (11 LMs in 0.10sec)
+Focal Length : [426.170]->[426.170]
+
+#############################
+#10: [sofa (6)] sees 5625 (+1519) 3D points
+Estimated Focal Length [426][0.67W]
+# 4029 projs (956 pts and 68 merges)
+PBA: 5321 3D pts, 10 cams and 27388 projs...
+PBA: 0.189 -> 0.183 (2 LMs in 0.01sec)
+#points w/ large errors:	26
+Focal Length : [426.170]->[426.170]
+
+#############################
+#11: [sofa (7)] sees 5302 (+1366) 3D points
+Estimated Focal Length [426][0.67W]
+# 3068 projs (515 pts and 71 merges)
+PBA: 5326 3D pts, 11 cams and 29546 projs...
+PBA: 0.356 -> 0.215 (8 LMs in 0.02sec)
+#points w/ large errors:	5
+Focal Length : [426.170]->[426.170]
+
+#############################
+#12: [sofa (8)] sees 6102 (+1683) 3D points
+Estimated Focal Length [426][0.67W]
+# 4341 projs (918 pts and 84 merges)
+PBA: 6031 3D pts, 12 cams and 33620 projs...
+PBA: 0.261 -> 0.193 (1 LMs in 0.01sec)
+#points w/ large errors:	16
+
+**************************************
+#12/12:  4692 projs and 1028 pts added.
+PBA: 7935 3D pts, 12 cams and 37538 projs...
+PBA: 0.188 -> 0.173 (1 LMs in 0.02sec)
+PBA: 7935 3D pts, 12 cams and 37538 projs...
+PBA: 0.173 -> 0.172 (1 LMs in 0.04sec)
+Focal Length : [426.170]->[426.170]
+
+#############################
+#13: [sofa (9)] sees 6862 (+1563) 3D points
+Estimated Focal Length [426][0.67W]
+# 4005 projs (711 pts and 68 merges)
+PBA: 6500 3D pts, 13 cams and 37387 projs...
+PBA: 0.260 -> 0.208 (1 LMs in 0.01sec)
+#points w/ large errors:	36
+Focal Length : [426.170]->[426.170]
+
+#############################
+#14: [sofa (10)] sees 6395 (+1437) 3D points
+Estimated Focal Length [426][0.67W]
+# 4484 projs (1007 pts and 51 merges)
+PBA: 7184 3D pts, 14 cams and 41264 projs...
+PBA: 0.259 -> 0.209 (1 LMs in 0.01sec)
+#points w/ large errors:	20
+Focal Length : [426.170]->[426.170]
+
+#############################
+#15: [sofa (1)] sees 7223 (+1310) 3D points
+Estimated Focal Length [426][0.67W]
+# 3861 projs (783 pts and 76 merges)
+PBA: 7376 3D pts, 15 cams and 44063 projs...
+PBA: 0.263 -> 0.223 (1 LMs in 0.01sec)
+#points w/ large errors:	30
+Focal Length : [426.170]->[426.170]
+
+#############################
+#16: [sofa (11)] sees 4446 (+1110) 3D points
+Estimated Focal Length [426][0.67W]
+# 3709 projs (998 pts and 36 merges)
+PBA: 7967 3D pts, 16 cams and 46972 projs...
+PBA: 0.246 -> 0.196 (1 LMs in 0.01sec)
+#points w/ large errors:	27
+
+**************************************
+#16/16:  4481 projs and 1214 pts added.
+PBA: 11077 3D pts, 16 cams and 53461 projs...
+PBA: 0.244 -> 0.222 (1 LMs in 0.01sec)
+PBA: 11077 3D pts, 16 cams and 53461 projs...
+PBA: 0.222 -> 0.222 (12 LMs in 0.05sec)
+Focal Length : [426.170]->[426.170]
+
+#############################
+#17: [sofa (12)] sees 5696 (+1513) 3D points
+Estimated Focal Length [426][0.67W]
+# 3528 projs (643 pts and 30 merges)
+PBA: 8328 3D pts, 17 cams and 50265 projs...
+PBA: 0.319 -> 0.271 (18 LMs in 0.15sec)
+#points w/ large errors:	57
+Focal Length : [426.170]->[426.170]
+
+#############################
+#18: [sofa (31)] sees 7373 (+1031) 3D points
+Estimated Focal Length [426][0.67W]
+# 2895 projs (504 pts and 55 merges)
+PBA: 8317 3D pts, 18 cams and 52162 projs...
+PBA: 0.303 -> 0.261 (17 LMs in 0.09sec)
+#points w/ large errors:	45
+Focal Length : [426.170]->[426.170]
+
+#############################
+#19: [sofa (30)] sees 7958 (+1009) 3D points
+Estimated Focal Length [426][0.67W]
+# 3038 projs (515 pts and 80 merges)
+PBA: 8511 3D pts, 19 cams and 54615 projs...
+PBA: 0.208 -> 0.185 (1 LMs in 0.01sec)
+#points w/ large errors:	26
+Focal Length : [426.170]->[426.170]
+
+#############################
+#20: [sofa (28)] sees 8671 (+1175) 3D points
+Estimated Focal Length [426][0.67W]
+# 4552 projs (1094 pts and 143 merges)
+PBA: 9300 3D pts, 20 cams and 58747 projs...
+PBA: 0.241 -> 0.202 (1 LMs in 0.04sec)
+#points w/ large errors:	21
+Focal Length : [426.170]->[426.170]
+
+#############################
+#21: [sofa (27)] sees 10179 (+1652) 3D points
+Estimated Focal Length [426][0.67W]
+# 5314 projs (1209 pts and 194 merges)
+SKIP: 0 cams, 1 points, 155 projs
+PBA: 14210 3D pts, 20 cams and 71776 projs...
+PBA: 0.265 -> 0.167 (1 LMs in 0.01sec)
+#points w/ large errors:	16
+
+**************************************
+#21/21:  6350 projs and 1565 pts added.
+PBA: 14522 3D pts, 21 cams and 72672 projs...
+PBA: 0.196 -> 0.178 (1 LMs in 0.01sec)
+PBA: 14522 3D pts, 21 cams and 72672 projs...
+PBA: 0.178 -> 0.178 (1 LMs in 0.05sec)
+#points w/ large errors:	1
+Focal Length : [426.170]->[426.170]
+
+#############################
+#22: [sofa (25)] sees 13156 (+1928) 3D points
+Estimated Focal Length [426][0.67W]
+# 5537 projs (858 pts and 234 merges)
+SKIP: 0 cams, 83 points, 70 projs
+PBA: 15075 3D pts, 20 cams and 78061 projs...
+PBA: 0.282 -> 0.225 (1 LMs in 0.04sec)
+#points w/ large errors:	61
+Focal Length : [426.170]->[426.170]
+
+#############################
+#23: [sofa (26)] sees 15495 (+1879) 3D points
+Estimated Focal Length [426][0.67W]
+# 5307 projs (612 pts and 247 merges)
+SKIP: 0 cams, 151 points, 385 projs
+PBA: 15318 3D pts, 20 cams and 82993 projs...
+PBA: 0.236 -> 0.224 (2 LMs in 0.01sec)
+#points w/ large errors:	11
+Focal Length : [426.170]->[426.170]
+
+#############################
+#24: [sofa (24)] sees 14867 (+1575) 3D points
+Estimated Focal Length [426][0.67W]
+# 5871 projs (899 pts and 222 merges)
+SKIP: 0 cams, 237 points, 543 projs
+PBA: 15779 3D pts, 20 cams and 88364 projs...
+PBA: 0.300 -> 0.235 (1 LMs in 0.01sec)
+#points w/ large errors:	32
+Focal Length : [426.170]->[426.170]
+
+#############################
+#25: [sofa (23)] sees 13463 (+1278) 3D points
+Estimated Focal Length [426][0.67W]
+# 4721 projs (635 pts and 126 merges)
+SKIP: 0 cams, 422 points, 1096 projs
+PBA: 16031 3D pts, 20 cams and 92399 projs...
+PBA: 0.214 -> 0.196 (1 LMs in 0.05sec)
+#points w/ large errors:	22
+Focal Length : [426.170]->[426.170]
+
+#############################
+#26: [sofa (21)] sees 13525 (+1210) 3D points
+Estimated Focal Length [426][0.67W]
+# 5019 projs (778 pts and 147 merges)
+PBA: 12137 3D pts, 26 cams and 88428 projs...
+PBA: 0.253 -> 0.228 (1 LMs in 0.01sec)
+#points w/ large errors:	23
+Focal Length : [426.170]->[426.170]
+
+#############################
+#27: [sofa (29)] sees 16471 (+1199) 3D points
+Estimated Focal Length [426][0.67W]
+# 4603 projs (631 pts and 219 merges)
+SKIP: 0 cams, 909 points, 2269 projs
+PBA: 16495 3D pts, 20 cams and 100474 projs...
+PBA: 0.283 -> 0.199 (1 LMs in 0.01sec)
+#points w/ large errors:	33
+
+**************************************
+#27/27:  5861 projs and 868 pts added.
+PBA: 17513 3D pts, 27 cams and 103607 projs...
+PBA: 0.314 -> 0.243 (1 LMs in 0.01sec)
+PBA: 17513 3D pts, 27 cams and 103607 projs...
+PBA: 0.243 -> 0.238 (1 LMs in 0.01sec)
+#points w/ large errors:	1
+Focal Length : [426.170]->[426.170]
+
+#############################
+#28: [sofa (22)] sees 9162 (+817) 3D points
+Estimated Focal Length [426][0.67W]
+# 3083 projs (458 pts and 81 merges)
+SKIP: 0 cams, 1336 points, 3510 projs
+PBA: 16474 3D pts, 20 cams and 103026 projs...
+PBA: 0.283 -> 0.265 (5 LMs in 0.17sec)
+#points w/ large errors:	116
+Focal Length : [426.170]->[426.170]
+
+#############################
+#29: [sofa (20)] sees 7750 (+939) 3D points
+Estimated Focal Length [426][0.67W]
+# 1938 projs (0 pts and 32 merges)
+SKIP: 0 cams, 1789 points, 5394 projs
+PBA: 16009 3D pts, 20 cams and 103024 projs...
+PBA: 0.280 -> 0.196 (1 LMs in 0.01sec)
+#points w/ large errors:	14
+Focal Length : [426.170]->[426.170]
+
+#############################
+#30: [sofa (13)] sees 7540 (+1055) 3D points
+Estimated Focal Length [426][0.67W]
+# 3497 projs (685 pts and 64 merges)
+SKIP: 0 cams, 1948 points, 5830 projs
+PBA: 16258 3D pts, 20 cams and 105413 projs...
+PBA: 0.224 -> 0.210 (4 LMs in 0.01sec)
+#points w/ large errors:	31
+Focal Length : [426.170]->[426.170]
+
+#############################
+#31: [sofa (15)] sees 8304 (+1125) 3D points
+Estimated Focal Length [426][0.67W]
+# 4391 projs (1030 pts and 106 merges)
+SKIP: 0 cams, 2173 points, 6682 projs
+PBA: 16886 3D pts, 20 cams and 108769 projs...
+PBA: 0.230 -> 0.207 (4 LMs in 0.02sec)
+#points w/ large errors:	26
+Focal Length : [426.170]->[426.170]
+
+#############################
+#32: [sofa (14)] sees 9272 (+1326) 3D points
+Estimated Focal Length [426][0.67W]
+# 3831 projs (628 pts and 114 merges)
+PBA: 13688 3D pts, 32 cams and 107150 projs...
+PBA: 0.386 -> 0.361 (18 LMs in 0.63sec)
+#points w/ large errors:	24
+Focal Length : [426.170]->[426.170]
+
+#############################
+#33: [sofa (19)] sees 9998 (+1137) 3D points
+Estimated Focal Length [426][0.67W]
+# 4972 projs (1119 pts and 172 merges)
+SKIP: 0 cams, 2947 points, 9087 projs
+PBA: 17438 3D pts, 20 cams and 114635 projs...
+PBA: 0.388 -> 0.254 (5 LMs in 0.05sec)
+#points w/ large errors:	27
+Focal Length : [426.170]->[426.170]
+
+#############################
+#34: [sofa (18)] sees 12049 (+1173) 3D points
+Estimated Focal Length [426][0.67W]
+# 4751 projs (843 pts and 263 merges)
+SKIP: 0 cams, 3578 points, 10872 projs
+PBA: 17405 3D pts, 20 cams and 117458 projs...
+PBA: 0.254 -> 0.226 (1 LMs in 0.02sec)
+#points w/ large errors:	23
+
+**************************************
+#34/34:  6754 projs and 1402 pts added.
+PBA: 21354 3D pts, 34 cams and 129959 projs...
+PBA: 0.304 -> 0.254 (24 LMs in 0.21sec)
+PBA: 21354 3D pts, 34 cams and 129959 projs...
+PBA: 0.254 -> 0.254 (11 LMs in 0.04sec)
+Focal Length : [426.170]->[426.170]
+
+#############################
+#35: [sofa (16)] sees 9755 (+860) 3D points
+Estimated Focal Length [426][0.67W]
+# 3224 projs (456 pts and 94 merges)
+SKIP: 0 cams, 4714 points, 15694 projs
+PBA: 16925 3D pts, 20 cams and 117355 projs...
+PBA: 0.329 -> 0.284 (5 LMs in 0.09sec)
+#points w/ large errors:	100
+Focal Length : [426.170]->[426.170]
+
+#############################
+#36: [sofa (17)] sees 9530 (+912) 3D points
+Estimated Focal Length [426][0.67W]
+# 3005 projs (350 pts and 89 merges)
+SKIP: 0 cams, 5146 points, 17426 projs
+PBA: 16653 3D pts, 20 cams and 118580 projs...
+PBA: 0.293 -> 0.275 (5 LMs in 0.05sec)
+#points w/ large errors:	20
+Focal Length : [426.170]->[426.170]
+END: No more images to add [0 projs]
+
+#############################
+Failed to find two images for initialization
+Resuming SfM finished, 4 sec used
+
+---------------------------------------------------
+36 cams, 21881 pts (3+: 14818)
+135650 projections (3+: 121502)
+---------------------------------------------------
+1 model(s) reconstructed from 36 images;
+36 modeled; 0 reused; 0 EXIF; 
+4MB(4) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 5 sec used
+3.2(2.4) seconds on Bundle Adjustment (+)
+2.5(1.9) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 5.000 seconds used
+
+
+Run dense reconstruction, begin...
+Save to hope.nvm ... done
+
+#############################
+Undistorting 36 images in model #0
+param_undistortion_thread_num = 0
+NOTE: using 16 threads...
+#01: sofa (36) -> 00000002.jpg, 0.020 sec
+#00: sofa (5) -> 00000000.jpg, 0.020 sec
+#02: sofa (32) -> 00000004.jpg, 0.021 sec
+#05: sofa (3) -> 00000005.jpg, 0.021 sec
+#09: sofa (34) -> 00000008.jpg, 0.021 sec
+#15: sofa (10) -> 00000013.jpg, 0.022 sec
+#08: sofa (2) -> 00000006.jpg, 0.022 sec
+#14: sofa (9) -> 00000012.jpg, 0.022 sec
+#11: sofa (26) -> 00000022.jpg, 0.023 sec
+#07: sofa (30) -> 00000018.jpg, 0.023 sec
+#12: sofa (27) -> 00000020.jpg, 0.023 sec
+#10: sofa (12) -> 00000016.jpg, 0.024 sec
+#04: sofa (11) -> 00000015.jpg, 0.024 sec
+#13: sofa (7) -> 00000010.jpg, 0.024 sec
+#06: sofa (25) -> 00000021.jpg, 0.025 sec
+#03: sofa (1) -> 00000014.jpg, 0.025 sec
+#01: sofa (33) -> 00000003.jpg, 0.003 sec
+#00: sofa (35) -> 00000001.jpg, 0.001 sec
+#02: sofa (23) -> 00000024.jpg, 0.002 sec
+#05: sofa (29) -> 00000026.jpg, 0.002 sec
+#09: sofa (6) -> 00000009.jpg, 0.002 sec
+#15: sofa (20) -> 00000028.jpg, 0.001 sec
+#08: sofa (4) -> 00000007.jpg, 0.001 sec
+#14: sofa (15) -> 00000030.jpg, 0.002 sec
+#11: sofa (24) -> 00000023.jpg, 0.001 sec
+#07: sofa (28) -> 00000019.jpg, 0.001 sec
+#12: sofa (19) -> 00000032.jpg, 0.002 sec
+#10: sofa (31) -> 00000017.jpg, 0.002 sec
+#04: sofa (16) -> 00000034.jpg, 0.002 sec
+#13: sofa (8) -> 00000011.jpg, 0.002 sec
+#02: sofa (21) -> 00000025.jpg, 0.002 sec
+#05: sofa (22) -> 00000027.jpg, 0.002 sec
+#15: sofa (13) -> 00000029.jpg, 0.002 sec
+#14: sofa (14) -> 00000031.jpg, 0.002 sec
+#12: sofa (18) -> 00000033.jpg, 0.002 sec
+#04: sofa (17) -> 00000035.jpg, 0.003 sec
+----------------------------------------------------------------
+Running Yasutaka Furukawa's CMVS tool...
+cmvs C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\3+2wizard\hope.nvm.cmvs\00\ 50 16
+genOption C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\3+2wizard\hope.nvm.cmvs\00\ 1 2 0.700000 7 3 16
+1 cluster is generated for pmvs reconstruction.
+pmvs2 C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\3+2wizard\hope.nvm.cmvs\00\ option-0000
+This may take a little more time, waiting...
+5 seconds were used by PMVS
+Loading option-0000.ply, 20340 vertices ...
+
+#############################
+You can manually remove bad MVS points:
+1. Switch to dense MVS points mode;
+2. Hit F1 key to enter the selection mode;
+3. Select points by dragging a rectangle;
+4. Hit DELETE to delete the selected points.
+
+#############################
+Save to hope.nvm ... done
+Save C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\3+2wizard\hope.0.ply ...done
+----------------------------------------------------------------
+Run dense reconstruction, finished
+Totally 9.000 seconds used
+
+36: sofa (37)
+image_size:	640x480
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 112MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0036, 640x480, 	6664, 0.77sec
+
+###########-------timing------#########
+1 Feature Detection finished, 1 sec used
+#############################
+
+36 pairs to compute match
+0000 and 0036: 6633 matches, 0.18sec, #0
+0001 and 0036: 1338 matches, 0.07sec, #0
+0002 and 0036: 1039 matches, 0.07sec, #0
+0003 and 0036: 532 matches, 0.08sec, #0
+0004 and 0036: 532 matches, 0.08sec, #0
+0005 and 0036: 334 matches, 0.08sec, #0
+0006 and 0036: 206 matches, 0.08sec, #0
+0007 and 0036: 246 matches, 0.09sec, #0
+0008 and 0036: 195 matches, 0.09sec, #0
+0009 and 0036: 171 matches, 0.10sec, #0
+0010 and 0036: 110 matches, 0.10sec, #0
+0011 and 0036: 128 matches, 0.09sec, #0
+0012 and 0036: 81 matches, 0.08sec, #0
+0013 and 0036: 81 matches, 0.09sec, #0
+0014 and 0036: 103 matches, 0.09sec, #0
+0015 and 0036: 39 matches, 0.08sec, #0
+0016 and 0036: 43 matches, 0.07sec, #0
+0017 and 0036: 59 matches, 0.08sec, #0
+0018 and 0036: 74 matches, 0.08sec, #0
+0019 and 0036: 62 matches, 0.08sec, #0
+0020 and 0036: 107 matches, 0.09sec, #0
+0021 and 0036: 66 matches, 0.08sec, #0
+0022 and 0036: 121 matches, 0.09sec, #0
+0023 and 0036: 167 matches, 0.10sec, #0
+0024 and 0036: 227 matches, 0.09sec, #0
+0025 and 0036: 205 matches, 0.10sec, #0
+0026 and 0036: 225 matches, 0.10sec, #0
+0027 and 0036: 294 matches, 0.10sec, #0
+0028 and 0036: 188 matches, 0.09sec, #0
+0029 and 0036: 232 matches, 0.08sec, #0
+0030 and 0036: 365 matches, 0.09sec, #0
+0031 and 0036: 705 matches, 0.09sec, #0
+0032 and 0036: 1009 matches, 0.08sec, #0
+0033 and 0036: 826 matches, 0.08sec, #0
+0034 and 0036: 1583 matches, 0.08sec, #0
+0035 and 0036: 1668 matches, 0.08sec, #0
+
+###########-------timing------#########
+36 Image Match finished, 4 sec used
+#############################
+
+0000 and 0036: [6633/6633], H[6633], 0.03sec
+0001 and 0036: [1209/1338], H[491], 0.01sec
+0002 and 0036: [912/1039], H[495], 0.00sec
+0003 and 0036: [400/532], H[108], 0.00sec
+0004 and 0036: [406/532], H[158], 0.00sec
+0005 and 0036: [217/334], H[118], 0.00sec
+0006 and 0036: [130/206], H[33], 0.00sec
+0007 and 0036: [148/246], H[58], 0.01sec
+0008 and 0036: [106/195], H[43], 0.01sec
+0009 and 0036: [89/171], H[21], 0.02sec
+0010 and 0036: [50/110], H[10], 0.01sec
+0011 and 0036: [51/128], H[7], 0.03sec
+0012 and 0036: [25/81], H[9], 0.04sec
+0013 and 0036: [29/81], H[7], 0.04sec
+0014 and 0036: [33/103], H[16], 0.04sec
+0015 and 0036: [15/39], H[5], 0.02sec
+0016 and 0036: [18/43], H[6], 0.04sec
+0017 and 0036: [12/59], H[5], 0.04sec
+0018 and 0036: [22/74], H[9], 0.04sec
+0019 and 0036: [15/62], H[5], 0.04sec
+0020 and 0036: [50/107], H[12], 0.01sec
+0021 and 0036: [36/66], H[10], 0.01sec
+0022 and 0036: [68/121], H[24], 0.00sec
+0023 and 0036: [89/167], H[12], 0.01sec
+0024 and 0036: [145/227], H[47], 0.00sec
+0025 and 0036: [121/205], H[45], 0.00sec
+0026 and 0036: [135/225], H[33], 0.00sec
+0027 and 0036: [205/294], H[48], 0.00sec
+0028 and 0036: [116/188], H[20], 0.00sec
+0029 and 0036: [175/232], H[77], 0.00sec
+0030 and 0036: [297/365], H[111], 0.00sec
+0031 and 0036: [565/705], H[311], 0.00sec
+0032 and 0036: [868/1009], H[321], 0.00sec
+0033 and 0036: [730/826], H[137], 0.00sec
+0034 and 0036: [1415/1583], H[233], 0.01sec
+0035 and 0036: [1542/1668], H[382], 0.01sec
+
+###########-------timing------#########
+36 Putative Match finished, 4 sec used
+36 Geometric Verification finished, 0 sec used
+#############################
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 5.000 seconds used
+
+
+Run dense reconstruction, begin...
+
+#############################
+Undistorting 36 images in model #0
+param_undistortion_thread_num = 0
+NOTE: using 16 threads...
+#00: sofa (5) -> 00000000.jpg, 0.009 sec
+#03: sofa (2) -> 00000006.jpg, 0.009 sec
+#02: sofa (32) -> 00000004.jpg, 0.010 sec
+#13: sofa (31) -> 00000017.jpg, 0.011 sec
+#01: sofa (36) -> 00000002.jpg, 0.011 sec
+#10: sofa (34) -> 00000008.jpg, 0.011 sec
+#05: sofa (8) -> 00000011.jpg, 0.012 sec
+#09: sofa (1) -> 00000014.jpg, 0.012 sec
+#08: sofa (4) -> 00000007.jpg, 0.012 sec
+#11: sofa (6) -> 00000009.jpg, 0.012 sec
+#06: sofa (9) -> 00000012.jpg, 0.013 sec
+#04: sofa (7) -> 00000010.jpg, 0.013 sec
+#14: sofa (28) -> 00000019.jpg, 0.012 sec
+#15: sofa (25) -> 00000021.jpg, 0.013 sec
+#12: sofa (11) -> 00000015.jpg, 0.014 sec
+#07: sofa (12) -> 00000016.jpg, 0.014 sec
+#00: sofa (35) -> 00000001.jpg, 0.003 sec
+#03: sofa (24) -> 00000023.jpg, 0.002 sec
+#02: sofa (3) -> 00000005.jpg, 0.002 sec
+#13: sofa (30) -> 00000018.jpg, 0.002 sec
+#01: sofa (33) -> 00000003.jpg, 0.002 sec
+#10: sofa (21) -> 00000025.jpg, 0.002 sec
+#05: sofa (22) -> 00000027.jpg, 0.002 sec
+#09: sofa (13) -> 00000029.jpg, 0.001 sec
+#08: sofa (14) -> 00000031.jpg, 0.002 sec
+#11: sofa (18) -> 00000033.jpg, 0.002 sec
+#06: sofa (10) -> 00000013.jpg, 0.002 sec
+#04: sofa (17) -> 00000035.jpg, 0.002 sec
+#14: sofa (27) -> 00000020.jpg, 0.002 sec
+#15: sofa (26) -> 00000022.jpg, 0.002 sec
+#03: sofa (23) -> 00000024.jpg, 0.003 sec
+#10: sofa (29) -> 00000026.jpg, 0.002 sec
+#05: sofa (20) -> 00000028.jpg, 0.003 sec
+#09: sofa (15) -> 00000030.jpg, 0.002 sec
+#08: sofa (19) -> 00000032.jpg, 0.002 sec
+#11: sofa (16) -> 00000034.jpg, 0.003 sec
+----------------------------------------------------------------
+Running Yasutaka Furukawa's CMVS tool...
+cmvs C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\3+2wizard\hope.nvm.cmvs\hope.nvm.cmvs\00\ 50 16
+genOption C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\3+2wizard\hope.nvm.cmvs\hope.nvm.cmvs\00\ 1 2 0.700000 7 3 16
+1 cluster is generated for pmvs reconstruction.
+pmvs2 C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\3+2wizard\hope.nvm.cmvs\hope.nvm.cmvs\00\ option-0000
+This may take a little more time, waiting...
+4 seconds were used by PMVS
+Loading option-0000.ply, 20708 vertices ...
+
+#############################
+You can manually remove bad MVS points:
+1. Switch to dense MVS points mode;
+2. Hit F1 key to enter the selection mode;
+3. Select points by dragging a rectangle;
+4. Hit DELETE to delete the selected points.
+
+#############################
+Save to hope.nvm ... done
+Save C:\Users\86186\Desktop\VisualSFM_windows_cuda_64bit\3+2wizard\hope.0.ply ...done
+----------------------------------------------------------------
+Run dense reconstruction, finished
+Totally 9.000 seconds used
+

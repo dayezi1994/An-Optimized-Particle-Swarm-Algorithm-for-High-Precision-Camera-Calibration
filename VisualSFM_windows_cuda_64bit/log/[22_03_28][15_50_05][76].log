@@ -1,0 +1,692 @@
+
+Load existing NView match, begin...
+Load 3+7pso.nvm...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = -0.356716
+
+WIN_20220328_11_58_16_Pro
+image_size:	640x480
+#sift count:	7943
+
+WIN_20220328_11_58_47_Pro
+image_size:	640x480
+#sift count:	8272
+
+WIN_20220328_11_58_48_Pro
+image_size:	640x480
+#sift count:	8072
+
+WIN_20220328_11_58_45_Pro
+image_size:	640x480
+#sift count:	8443
+
+WIN_20220328_11_58_15_Pro
+image_size:	640x480
+#sift count:	7531
+
+WIN_20220328_11_58_44_Pro
+image_size:	640x480
+#sift count:	8833
+
+WIN_20220328_11_58_46_Pro
+image_size:	640x480
+#sift count:	8016
+
+WIN_20220328_11_58_17_Pro
+image_size:	640x480
+#sift count:	7947
+
+WIN_20220328_11_58_18_Pro
+image_size:	640x480
+#sift count:	8603
+
+WIN_20220328_11_58_19_Pro
+image_size:	640x480
+#sift count:	8852
+
+WIN_20220328_11_58_13_Pro
+image_size:	640x480
+#sift count:	8168
+
+WIN_20220328_11_58_20_Pro
+image_size:	640x480
+#sift count:	7695
+
+WIN_20220328_11_58_21_Pro
+image_size:	640x480
+#sift count:	9035
+
+WIN_20220328_11_58_22_Pro
+image_size:	640x480
+#sift count:	8843
+
+WIN_20220328_11_58_23_Pro
+image_size:	640x480
+#sift count:	8922
+
+WIN_20220328_11_58_24_Pro
+image_size:	640x480
+#sift count:	8616
+
+WIN_20220328_11_58_25_Pro
+image_size:	640x480
+#sift count:	8622
+
+WIN_20220328_11_58_43_Pro
+image_size:	640x480
+#sift count:	8462
+
+WIN_20220328_11_58_42_Pro
+image_size:	640x480
+#sift count:	8653
+
+WIN_20220328_11_58_41_Pro (2)
+image_size:	640x480
+#sift count:	9100
+
+WIN_20220328_11_58_40_Pro
+image_size:	640x480
+#sift count:	9223
+
+WIN_20220328_11_58_39_Pro (2)
+image_size:	640x480
+#sift count:	9258
+
+WIN_20220328_11_58_39_Pro
+image_size:	640x480
+#sift count:	9163
+
+WIN_20220328_11_58_38_Pro
+image_size:	640x480
+#sift count:	8952
+
+WIN_20220328_11_58_37_Pro
+image_size:	640x480
+#sift count:	8546
+
+WIN_20220328_11_58_36_Pro (2)
+image_size:	640x480
+#sift count:	8485
+
+WIN_20220328_11_58_41_Pro
+image_size:	640x480
+#sift count:	8708
+
+WIN_20220328_11_58_36_Pro
+image_size:	640x480
+#sift count:	7527
+
+WIN_20220328_11_58_35_Pro
+image_size:	640x480
+#sift count:	7372
+
+WIN_20220328_11_58_26_Pro
+image_size:	640x480
+#sift count:	7814
+
+WIN_20220328_11_58_29_Pro
+image_size:	640x480
+#sift count:	7802
+
+WIN_20220328_11_58_30_Pro
+image_size:	640x480
+#sift count:	7978
+
+WIN_20220328_11_58_33_Pro
+image_size:	640x480
+#sift count:	7665
+
+WIN_20220328_11_58_33_Pro (2)
+image_size:	640x480
+#sift count:	7721
+
+WIN_20220328_11_58_31_Pro
+image_size:	640x480
+#sift count:	6855
+
+WIN_20220328_11_58_32_Pro
+image_size:	640x480
+#sift count:	6659
+
+Loading 16709 3D points...
+fx = 431.910034, cx = 320.912781
+fy = 431.910034, cy = 243.323013
+radial_distortion = -0.356716
+Loading 3+7pso.0.ply, 11229 vertices ...
+You can view existing dense reconstructions
+by using Menu "View->Dense 3D Points"
+# images loaded:	36
+**************************************
+Change the number of pixel-loaded images by 
+modifying param_visual_data_budget in nv.ini
+Use the PAUSE button to skip the pixel loading
+**************************************
+Loading image pixel data ...done in 0s
+Loading matching records ...done in 0s
+36 gps coordinates are found
+----------------------------------------------------------------
+Load existing NView match, finished
+Totally 2.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0010 and 0015: [25/109], H[12], 0.04sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0011 and 0015: [751/989], H[142], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0012 and 0015: [957/1280], H[115], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1274/1604], H[338], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1297/1604], H[274], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1297/1604], H[274], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1221/1604], H[170], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1221/1604], H[170], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1348/1604], H[241], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1348/1604], H[241], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1348/1604], H[241], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1316/1604], H[85], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1331/1604], H[184], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1331/1604], H[184], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1271/1604], H[189], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1329/1604], H[242], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1329/1604], H[242], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1284/1604], H[202], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1265/1604], H[271], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0015: [1356/1604], H[203], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0014 and 0015: [2587/2722], H[946], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0016: [55/130], H[16], 0.02sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0001 and 0016: [65/138], H[19], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0002 and 0016: [46/132], H[16], 0.04sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0003 and 0016: [88/211], H[11], 0.02sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0004 and 0016: [44/125], H[12], 0.04sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0016: [115/236], H[27], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0006 and 0016: [75/168], H[18], 0.02sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0007 and 0016: [113/242], H[17], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0008 and 0016: [190/318], H[51], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0009 and 0016: [397/595], H[35], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0010 and 0016: [42/110], H[5], 0.03sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0011 and 0016: [577/753], H[45], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0012 and 0016: [849/1069], H[121], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0013 and 0016: [1055/1341], H[62], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0014 and 0016: [1769/2085], H[392], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0015 and 0016: [3105/3243], H[1330], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0017: [804/1104], H[177], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0001 and 0017: [436/799], H[108], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0002 and 0017: [464/801], H[125], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0003 and 0017: [754/1220], H[215], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0004 and 0017: [491/775], H[110], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1505/1885], H[673], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1515/1885], H[798], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1405/1885], H[154], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1405/1885], H[154], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1502/1885], H[703], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 1.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1448/1885], H[549], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1315/1885], H[570], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1477/1885], H[386], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1363/1885], H[671], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1363/1885], H[671], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1374/1885], H[463], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1374/1885], H[463], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1446/1885], H[328], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1446/1885], H[328], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1446/1885], H[328], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1369/1885], H[480], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1369/1885], H[480], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1451/1885], H[394], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1483/1885], H[789], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1428/1885], H[675], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute putative matches, begin...
+0005 and 0017: 1885 matches, 0.21sec, #0
+----------------------------------------------------------------
+Compute putative matches, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1457/1885], H[542], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0005 and 0017: [1457/1885], H[542], 0.01sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute putative matches, begin...
