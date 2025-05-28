@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a694795-4822-4e3c-8ee6-5484ceeb95dc)![image](https://github.com/user-attachments/assets/b2652096-53db-42bf-b0cb-c6456305a52e)
+
 
 This is the code repository for "An Optimized Particle Swarm Algorithm for High-Precision Camera Calibration with Enhanced Wide-Angle Distortion Correction".
 
